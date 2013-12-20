@@ -1,0 +1,2429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+   <images xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <image xmlns:my="http://nowhere"
+         src="https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;rft_id=medren_mscodex_1057_wk1_front0001&amp;svc.level=3&amp;svc.rotate=">
+         <params>
+            <identifier>medren_mscodex_1057_wk1_front0001</identifier>
+            <imagefile>/repo/store/pairtree_root/me/dr/en/_m/sc/od/ex/_1/05/7_/wk/1_/fr/on/t0/00/1/medren_mscodex_1057_wk1_front0001/v001/full/mscodex_1057_wk1_front0001.DELIVERY.jp2</imagefile>
+            <width>3546</width>
+            <height>3499</height>
+            <dwtLevels>6</dwtLevels>
+            <levels>6</levels>
+            <compositingLayerCount>1</compositingLayerCount>
+            <defaultscale>3</defaultscale>
+         </params>
+         <control>
+            <zoomcontrol zoom="in">
+               <input name="zoom" type="radio" value="in" onclick="selectZoomControl('in')" checked="yes">zoom
+                  in</input>
+               <input name="zoom" type="radio" value="out" onclick="selectZoomControl('out')">zoom out</input>
+               <input name="zoom" type="radio" value="none" onclick="selectZoomControl('none')">recenter</input>
+            </zoomcontrol>
+            <sizecontrol>
+               <input name="size" type="radio" value="0" onClick="this.form.submit()">full</input>
+               <input name="size" type="radio" value="1" onClick="this.form.submit()">1/2</input>
+               <input name="size" type="radio" value="2" onClick="this.form.submit()">1/4</input>
+               <input name="size" type="radio" value="3" checked="yes">1/8</input>
+               <input name="size" type="radio" value="4" onClick="this.form.submit()">1/16</input>
+               <input name="size" type="radio" value="5" onClick="this.form.submit()">1/32</input>
+               <input name="size" type="radio" value="6" onClick="this.form.submit()">1/64</input>
+            </sizecontrol>
+         </control>
+      </image>
+   </images>
+   <response xmlns:cinclude="http://apache.org/cocoon/include/1.0">
+      <links xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:my="http://nowhere"
+         detail-page-params=".html?id=MEDREN_4087611&amp;">
+         <feeds>
+            <str name="media.rss">feeds/pageturn.mrss?rotation=0&amp;id=MEDREN_4087611 OR
+               id:MEDREN_4087611_*&amp;rows=500</str>
+            <str name="rss">feeds/pageturn.rss?id=MEDREN_4087611&amp;rotation=0&amp;</str>
+            <str name="ical">feeds/calendar.ics?id=MEDREN_4087611&amp;rotation=0&amp;</str>
+            <str name="url"
+               >http://dla.library.upenn.edu/dla/medren/pageturn.html?id=MEDREN_4087611&amp;rotation=0&amp;rotation=0&amp;</str>
+            <str name="display-record" display="[more information]"
+               >record.html?id=MEDREN_4087611&amp;rotation=0&amp;</str>
+            <str name="enable-fullview" display="Enable Full View"
+               >pageturn.html?id=MEDREN_4087611&amp;rotation=0&amp;fullview=true</str>
+            <str name="rotate-right" display="Rotate Right">pageturn.html?id=MEDREN_4087611&amp;rotation=90</str>
+            <str name="rotate-left" display="Rotate Left">pageturn.html?id=MEDREN_4087611&amp;rotation=270</str>
+            <str name="handle">http://hdl.library.upenn.edu/1017/d/medren/4087611</str>
+         </feeds>
+         <sidebar>
+            <str name="mailto" display="Contact Us"
+               >mailto:shawcros@pobox.upenn.edu?subject=Penn%20in%20Hand%3A%20Selected%20Manuscripts%20%28DLA%20Collection%29&amp;body=Question%20regarding%20this%20page%3A%20http%3A%2F%2Fdla.library.upenn.edu%2Fdla%2Fmedren%2Fpageturn.html%3Fid%3DMEDREN_4087611%26rotation%3D0%26</str>
+         </sidebar>
+      </links>
+      <params xmlns:my="http://nowhere">
+         <str name="q"/>
+         <str name="id">MEDREN_4087611</str>
+         <str name="fq"/>
+         <str name="start">0</str>
+         <str name="rows">25</str>
+         <str name="sort">score desc, date_sort asc</str>
+         <str name="page">pageturn</str>
+         <str name="browse"/>
+         <str name="facet">true</str>
+         <str name="view"/>
+         <str name="detail">brief</str>
+         <str name="showall"/>
+         <str name="fullview"/>
+         <info>
+            <str name="params-forward">true</str>
+            <str name="url">http://dla.library.upenn.edu/dla</str>
+         </info>
+         <page-specific name="pageturn">
+            <str name="currentpage">1</str>
+            <str name="doubleside">1</str>
+            <str name="filter"/>
+            <str name="rotation">0</str>
+            <str name="region"/>
+            <str name="filetype"/>
+            <str name="image"/>
+            <str name="naturalwidth"/>
+            <str name="naturalheight"/>
+            <str name="levels"/>
+            <str name="zoom"/>
+            <str name="level"/>
+            <str name="oldwidth"/>
+            <str name="oldheight"/>
+            <str name="oldx"/>
+            <str name="oldy"/>
+            <str name="x"/>
+            <str name="y"/>
+            <str name="size"/>
+            <str name="oldsize"/>
+         </page-specific>
+      </params>
+      <lst name="responseHeader">
+         <int name="status">0</int>
+         <int name="QTime">1</int>
+         <lst name="params">
+            <str name="facet">true</str>
+            <str name="sort">score desc, date_sort asc</str>
+            <str name="fl">*</str>
+            <str name="facet.mincount">1</str>
+            <str name="facet.sort">true</str>
+            <str name="q">id:MEDREN_4087611</str>
+            <str name="facet.limit">5</str>
+            <str name="f..facet.limit">400</str>
+            <str name="f..facet.sort">false</str>
+            <arr name="facet.field">
+               <str>collection_facet</str>
+               <str>has_999_facet</str>
+               <str>facsimile_facet</str>
+               <str>illuminated_facet</str>
+               <str>illustrated_facet</str>
+               <str>notated_facet</str>
+               <str>language_facet</str>
+               <str>century_facet</str>
+               <str>date_facet</str>
+               <str>genre_facet</str>
+               <str>subject_facet</str>
+               <str>geography_facet</str>
+               <str>author_facet</str>
+               <str>related_names_facet</str>
+               <str>page_material_facet</str>
+            </arr>
+            <str name="qt">dla-standard</str>
+            <str name="rows">25</str>
+         </lst>
+      </lst>
+      <result name="response" numFound="1" start="0">
+         <doc>
+            <str name="id">MEDREN_4087611</str>
+            <arr name="call_number_field">
+               <str>Ms. Codex 1057</str>
+            </arr>
+            <str name="orientation"/>
+            <str name="format">pageturn</str>
+            <arr name="title_field">
+               <str>[Ferial psalter]</str>
+            </arr>
+            <arr name="probable_date_field">
+               <str>1350 </str>
+            </arr>
+            <arr name="titledate_field">
+               <str>Ms. Codex 1057 - [Ferial psalter] (1350 )</str>
+            </arr>
+            <arr name="primary_author_field">
+               <str>Catholic Church</str>
+            </arr>
+            <arr name="origin_field">
+               <str>[Trento (Italy), ca. 1350]</str>
+            </arr>
+            <arr name="date_facsimile_added_field">
+               <str>09-29-2009</str>
+            </arr>
+            <arr name="collection_field">
+               <str>Medieval &amp; Renaissance Manuscripts Collection</str>
+            </arr>
+            <arr name="collectionSEARCH_URL_field">
+               <str>search.html?fq=collection_facet%3A"Medieval %26 Renaissance Manuscripts"</str>
+            </arr>
+            <arr name="facsimile_field">
+               <str>Yes</str>
+            </arr>
+            <arr name="language_field">
+               <str>Latin</str>
+            </arr>
+            <arr name="genre_field">
+               <str>Codices</str>
+               <str>Finding tabs</str>
+               <str>Psalters</str>
+               <str>Devotional calendars</str>
+               <str>Death registers</str>
+               <str>Canticles</str>
+               <str>Illuminated manuscripts</str>
+               <str>Manuscripts, Latin - 14th century</str>
+               <str>Manuscripts, Renaissance</str>
+            </arr>
+            <arr name="subject_field">
+               <str>Catholic Church</str>
+               <str>Psalters</str>
+            </arr>
+            <arr name="author_field">
+               <str>Catholic Church</str>
+            </arr>
+            <xml name="marcrecord">
+               <marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+                  <marc:leader>04248ctm a2200661Ia 4500</marc:leader>
+                  <marc:controlfield tag="001">4087611</marc:controlfield>
+                  <marc:controlfield tag="005">20110420123151.0</marc:controlfield>
+                  <marc:controlfield tag="008">070123s1350 pauap 000 0 lat d</marc:controlfield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)ocn155933064</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="040" ind1=" " ind2=" ">
+                     <marc:subfield code="a">PU</marc:subfield>
+                     <marc:subfield code="e">amremm</marc:subfield>
+                     <marc:subfield code="c">PAULM</marc:subfield>
+                     <marc:subfield code="d">PAULM</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(OCoLC)155933064</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(CStRLIN)PAUR07-B90</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="035" ind1=" " ind2=" ">
+                     <marc:subfield code="a">(PAULM)medrenmssCodex1057</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="041" ind1="0" ind2=" ">
+                     <marc:subfield code="a">lat</marc:subfield>
+                     <marc:subfield code="a">ger</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="079" ind1=" " ind2=" ">
+                     <marc:subfield code="a">ocn123490362</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="099" ind1=" " ind2="9">
+                     <marc:subfield code="a">Ms. Codex 1057</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="049" ind1=" " ind2=" ">
+                     <marc:subfield code="a">PAUM</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="110" ind1="2" ind2=" ">
+                     <marc:subfield code="a">Catholic Church.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="245" ind1="1" ind2="0">
+                     <marc:subfield code="a">[Ferial psalter]</marc:subfield>
+                     <marc:subfield code="h">[manuscript].</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="260" ind1=" " ind2=" ">
+                     <marc:subfield code="a">[Trento (Italy),</marc:subfield>
+                     <marc:subfield code="c">ca. 1350]</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="300" ind1=" " ind2=" ">
+                     <marc:subfield code="a">272 leaves :</marc:subfield>
+                     <marc:subfield code="b">parchment ;</marc:subfield>
+                     <marc:subfield code="c">116 x 75 (80 x 55) mm. bound to 125 x 95 mm.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Ms. codex.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="520" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Ferial psalter, containing the psalms divided into eight sections: seven
+                        for the psalms for matins through the week and the eighth containing all the psalms for vespers,
+                        accompanied by indications of invitatories, antiphons, hymns, short chapter readings, and
+                        concluding with canticles, a litany and prayers. The eight sections are marked with illumination
+                        or penwork. The psalter is preceded by antiphons and hymns added in the 16th century and a
+                        14th-century liturgical calendar including the feast day of Vigil, Bishop of Trent, and
+                        17th-century entries for the deaths of members of the community of the abbey of Saint
+                        Walburga.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="546" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Latin, with later additions in German.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Title supplied by cataloger.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">1. ff.1r-8v: Antiphons and hymns added in the 16th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">2. ff.9r-13v: Calendar with 17th-century necrology.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">3. ff.14r-229r: Ferial psalter.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">4. ff.229v-245r: Canticles.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">5. ff.245r-248r: Athanasian creed.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">6. ff.248r-252v: Litany.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="505" ind1="0" ind2=" ">
+                     <marc:subfield code="a">7. ff.252v-271v: Prayers and hymns.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Collation: Parchment and paper, 272; 1⁶ 2-22¹² 23⁶; quires 3-23 signed
+                        i-xxii in red on last verso, except quire 18 (xvi), where the lower margin of the last leaf has
+                        been repaired; [1-10; 10-271]; modern foliation in pencil, upper right recto, with two leaves
+                        marked 10; the foliation references in this record use the pencil foliation as it appears in the
+                        manuscript.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Layout: Written in 16 long lines (psalter).</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Script: Calendar and main text written in a Gothic hand; first quire of
+                        antiphons and hymns, additions to calendar, and marginalia in later hands.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Decoration: Two historiated initials with painted initials with white
+                        tracery and painted ascenders and descenders with grotesques in the margins (ff. 15v, 182v);
+                        four 4- to 6-line painted initials in blue and red with openwork foliate motifs, decorated with
+                        red and blue penwork and grotesques (ff. 46v, 106r, 132v, 156v); two 2- to 3- line painted
+                        initials with red and blue penwork (ff. 67r, 86r); numerous 1- and 2- line initials alternating
+                        between red and blue; rubrics in red; handcolored engraving of St. Christopher pasted onto front
+                        pastedown.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Binding: Late 16th-century blind-stamped pigskin with two brass
+                        clasps.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="500" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Origin: Probably written in Trento, ca. 1350.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="590" ind1=" " ind2=" ">
+                     <marc:subfield code="a">Lawrence J. Schoenberg &amp; Barbara Brizdle Manuscript
+                        Initiative.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="561" ind1="1" ind2=" ">
+                     <marc:subfield code="a">Sold by Les Enluminures (Chicago &amp; Paris), 2007.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="524" ind1=" " ind2=" ">
+                     <marc:subfield code="a">UPenn Ms. Codex 1057</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="610" ind1="2" ind2="0">
+                     <marc:subfield code="a">Catholic Church</marc:subfield>
+                     <marc:subfield code="v">Prayers and devotions</marc:subfield>
+                     <marc:subfield code="v">Early works to 1800.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="650" ind1=" " ind2="0">
+                     <marc:subfield code="a">Psalters</marc:subfield>
+                     <marc:subfield code="v">Specimens.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Codices.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="4">
+                     <marc:subfield code="a">Finding tabs.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Psalters.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Devotional calendars.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Death registers.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Canticles.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="7">
+                     <marc:subfield code="a">Illuminated manuscripts.</marc:subfield>
+                     <marc:subfield code="2">aat</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="0">
+                     <marc:subfield code="a">Manuscripts, Latin</marc:subfield>
+                     <marc:subfield code="y">14th century.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="655" ind1=" " ind2="0">
+                     <marc:subfield code="a">Manuscripts, Renaissance.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="730" ind1="0" ind2="2">
+                     <marc:subfield code="a">Bible.</marc:subfield>
+                     <marc:subfield code="p">O.T.</marc:subfield>
+                     <marc:subfield code="p">Psalms.</marc:subfield>
+                     <marc:subfield code="l">Latin.</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="852" ind1=" " ind2=" ">
+                     <marc:subfield code="b">Rare Book &amp; Manuscript Library</marc:subfield>
+                     <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+                     <marc:subfield code="e">3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</marc:subfield>
+                     <marc:subfield code="j">Ms. Codex 1057</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="2">
+                     <marc:subfield code="3">The Lawrence J. Schoenberg and Barbara Brizdle Manuscript Initiative Fund
+                        Home Page</marc:subfield>
+                     <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/366278</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="856" ind1="4" ind2="1">
+                     <marc:subfield code="z">Facsimile</marc:subfield>
+                     <marc:subfield code="u">http://hdl.library.upenn.edu/1017/d/medren/4087611</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="999" ind1=" " ind2=" ">
+                     <marc:subfield code="a">DLA</marc:subfield>
+                     <marc:subfield code="b">20090929</marc:subfield>
+                  </marc:datafield>
+                  <marc:datafield tag="994" ind1=" " ind2=" ">
+                     <marc:subfield code="a">C0</marc:subfield>
+                     <marc:subfield code="b">PAULM</marc:subfield>
+                  </marc:datafield>
+               </marc:record>
+            </xml>
+            <xml name="pages">
+               <page number="1" seq="1" id="medren_4087611_184320" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_front0001" image="mscodex_1057_wk1_front0001"
+                  visiblepage="Front cover"/>
+               <page number="2" seq="2" id="medren_4087611_184321" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_front0002" image="mscodex_1057_wk1_front0002"
+                  visiblepage="Inside front cover">
+                  <tocentry name="ill">Engraving of Saint Christopher [pasted in], Inside front cover</tocentry>
+               </page>
+               <page number="3" seq="3" id="medren_4087611_184322" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0001" image="mscodex_1057_wk1_body0001" visiblepage="1r">
+                  <tocentry name="toc">Antiphons and hymns [16th century], f. 1r</tocentry>
+               </page>
+               <page number="4" seq="4" id="medren_4087611_184323" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0002" image="mscodex_1057_wk1_body0002" visiblepage="1v"/>
+               <page number="5" seq="5" id="medren_4087611_184324" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0003" image="mscodex_1057_wk1_body0003" visiblepage="2r"/>
+               <page number="6" seq="6" id="medren_4087611_184325" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0004" image="mscodex_1057_wk1_body0004" visiblepage="2v"/>
+               <page number="7" seq="7" id="medren_4087611_184326" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0005" image="mscodex_1057_wk1_body0005" visiblepage="3r"/>
+               <page number="8" seq="8" id="medren_4087611_184327" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0006" image="mscodex_1057_wk1_body0006" visiblepage="3v"/>
+               <page number="9" seq="9" id="medren_4087611_184328" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0007" image="mscodex_1057_wk1_body0007" visiblepage="4r"/>
+               <page number="10" seq="10" id="medren_4087611_184329" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0008" image="mscodex_1057_wk1_body0008" visiblepage="4v"/>
+               <page number="11" seq="11" id="medren_4087611_184330" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0009" image="mscodex_1057_wk1_body0009" visiblepage="5r"/>
+               <page number="12" seq="12" id="medren_4087611_184331" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0010" image="mscodex_1057_wk1_body0010" visiblepage="5v"/>
+               <page number="13" seq="13" id="medren_4087611_184332" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0011" image="mscodex_1057_wk1_body0011" visiblepage="6r"/>
+               <page number="14" seq="14" id="medren_4087611_184333" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0012" image="mscodex_1057_wk1_body0012" visiblepage="6v"/>
+               <page number="15" seq="15" id="medren_4087611_184334" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0013" image="mscodex_1057_wk1_body0013" visiblepage="7r"/>
+               <page number="16" seq="16" id="medren_4087611_184335" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0014" image="mscodex_1057_wk1_body0014" visiblepage="7v"/>
+               <page number="17" seq="17" id="medren_4087611_184336" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0015" image="mscodex_1057_wk1_body0015" visiblepage="8r"/>
+               <page number="18" seq="18" id="medren_4087611_184337" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0016" image="mscodex_1057_wk1_body0016" visiblepage="8v"/>
+               <page number="19" seq="19" id="medren_4087611_184338" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0017" image="mscodex_1057_wk1_body0017" visiblepage="9r">
+                  <tocentry name="toc">Calendar with 17th c. necrology, f. 9r</tocentry>
+               </page>
+               <page number="20" seq="20" id="medren_4087611_184339" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0018" image="mscodex_1057_wk1_body0018" visiblepage="9v"/>
+               <page number="21" seq="21" id="medren_4087611_184340" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0019" image="mscodex_1057_wk1_body0019" visiblepage="10r"/>
+               <page number="22" seq="22" id="medren_4087611_184341" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0020" image="mscodex_1057_wk1_body0020" visiblepage="10v"/>
+               <page number="23" seq="23" id="medren_4087611_184342" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0021" image="mscodex_1057_wk1_body0021" visiblepage="10r [=11r]"/>
+               <page number="24" seq="24" id="medren_4087611_184343" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0022" image="mscodex_1057_wk1_body0022"
+                  visiblepage="10v  [=11v]"/>
+               <page number="25" seq="25" id="medren_4087611_184344" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0023" image="mscodex_1057_wk1_body0023" visiblepage="11r [=12r]"/>
+               <page number="26" seq="26" id="medren_4087611_184345" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0024" image="mscodex_1057_wk1_body0024" visiblepage="11v [=12v]"/>
+               <page number="27" seq="27" id="medren_4087611_184346" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0025" image="mscodex_1057_wk1_body0025" visiblepage="12r [=13r]"/>
+               <page number="28" seq="28" id="medren_4087611_184347" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0026" image="mscodex_1057_wk1_body0026" visiblepage="12v [=13v]"/>
+               <page number="29" seq="29" id="medren_4087611_184348" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0027" image="mscodex_1057_wk1_body0027" visiblepage="13r [=14r]"/>
+               <page number="30" seq="30" id="medren_4087611_184349" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0028" image="mscodex_1057_wk1_body0028" visiblepage="13v [=14v]"/>
+               <page number="31" seq="31" id="medren_4087611_184350" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0029" image="mscodex_1057_wk1_body0029" visiblepage="14r [=15r]">
+                  <tocentry name="toc">Ferial psalter, f. 14r [=15r]</tocentry>
+               </page>
+               <page number="32" seq="32" id="medren_4087611_184351" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0030" image="mscodex_1057_wk1_body0030" visiblepage="14v [=15v]"/>
+               <page number="33" seq="33" id="medren_4087611_184352" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0031" image="mscodex_1057_wk1_body0031" visiblepage="15r [=16r]"/>
+               <page number="34" seq="34" id="medren_4087611_184353" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0032" image="mscodex_1057_wk1_body0032" visiblepage="15v [=16v]">
+                  <tocentry name="ill">Historiated initial, Initial B, f. 15v [=16v]</tocentry>
+                  <tocentry name="ill">Drollery, f. 15v [=16v]</tocentry>
+               </page>
+               <page number="35" seq="35" id="medren_4087611_184354" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0033" image="mscodex_1057_wk1_body0033" visiblepage="16r [=17r]">
+                  <tocentry name="ill">Drollery, f. 16r [=17r]</tocentry>
+               </page>
+               <page number="36" seq="36" id="medren_4087611_184355" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0034" image="mscodex_1057_wk1_body0034" visiblepage="16v [=17v]"/>
+               <page number="37" seq="37" id="medren_4087611_184356" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0035" image="mscodex_1057_wk1_body0035" visiblepage="17r [=18r]"/>
+               <page number="38" seq="38" id="medren_4087611_184357" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0036" image="mscodex_1057_wk1_body0036" visiblepage="17v [=18v]"/>
+               <page number="39" seq="39" id="medren_4087611_184358" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0037" image="mscodex_1057_wk1_body0037" visiblepage="18r [=19r]"/>
+               <page number="40" seq="40" id="medren_4087611_184359" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0038" image="mscodex_1057_wk1_body0038" visiblepage="18v [=19v]"/>
+               <page number="41" seq="41" id="medren_4087611_184360" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0039" image="mscodex_1057_wk1_body0039" visiblepage="19r [=20r]"/>
+               <page number="42" seq="42" id="medren_4087611_184361" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0040" image="mscodex_1057_wk1_body0040" visiblepage="19v [=20v]"/>
+               <page number="43" seq="43" id="medren_4087611_184362" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0041" image="mscodex_1057_wk1_body0041" visiblepage="20r [=21r]"/>
+               <page number="44" seq="44" id="medren_4087611_184363" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0042" image="mscodex_1057_wk1_body0042" visiblepage="20v [=21v]"/>
+               <page number="45" seq="45" id="medren_4087611_184364" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0043" image="mscodex_1057_wk1_body0043" visiblepage="21r [=22r]"/>
+               <page number="46" seq="46" id="medren_4087611_184365" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0044" image="mscodex_1057_wk1_body0044" visiblepage="21v [=22v]"/>
+               <page number="47" seq="47" id="medren_4087611_184366" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0045" image="mscodex_1057_wk1_body0045" visiblepage="22r [=23r]"/>
+               <page number="48" seq="48" id="medren_4087611_184367" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0046" image="mscodex_1057_wk1_body0046" visiblepage="22v [=23v]"/>
+               <page number="49" seq="49" id="medren_4087611_184368" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0047" image="mscodex_1057_wk1_body0047" visiblepage="23r [=24r]"/>
+               <page number="50" seq="50" id="medren_4087611_184369" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0048" image="mscodex_1057_wk1_body0048" visiblepage="23v [=24v]"/>
+               <page number="51" seq="51" id="medren_4087611_184370" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0049" image="mscodex_1057_wk1_body0049" visiblepage="24r [=25r]"/>
+               <page number="52" seq="52" id="medren_4087611_184371" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0050" image="mscodex_1057_wk1_body0050" visiblepage="24v [=25v]"/>
+               <page number="53" seq="53" id="medren_4087611_184372" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0051" image="mscodex_1057_wk1_body0051" visiblepage="25r [=26r]"/>
+               <page number="54" seq="54" id="medren_4087611_184373" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0052" image="mscodex_1057_wk1_body0052" visiblepage="25v [=26v]"/>
+               <page number="55" seq="55" id="medren_4087611_184374" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0053" image="mscodex_1057_wk1_body0053" visiblepage="26r [=27r]"/>
+               <page number="56" seq="56" id="medren_4087611_184375" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0054" image="mscodex_1057_wk1_body0054" visiblepage="26v [=27v]"/>
+               <page number="57" seq="57" id="medren_4087611_184376" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0055" image="mscodex_1057_wk1_body0055" visiblepage="27r [=28r]"/>
+               <page number="58" seq="58" id="medren_4087611_184377" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0056" image="mscodex_1057_wk1_body0056" visiblepage="27v [=28v]"/>
+               <page number="59" seq="59" id="medren_4087611_184378" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0057" image="mscodex_1057_wk1_body0057" visiblepage="28r [=29r]"/>
+               <page number="60" seq="60" id="medren_4087611_184379" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0058" image="mscodex_1057_wk1_body0058" visiblepage="28v [=29v]"/>
+               <page number="61" seq="61" id="medren_4087611_184380" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0059" image="mscodex_1057_wk1_body0059" visiblepage="29r [=30r]"/>
+               <page number="62" seq="62" id="medren_4087611_184381" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0060" image="mscodex_1057_wk1_body0060" visiblepage="29v [=30v]"/>
+               <page number="63" seq="63" id="medren_4087611_184382" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0061" image="mscodex_1057_wk1_body0061" visiblepage="30r [=31r]"/>
+               <page number="64" seq="64" id="medren_4087611_184383" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0062" image="mscodex_1057_wk1_body0062" visiblepage="30v [=31v]"/>
+               <page number="65" seq="65" id="medren_4087611_184384" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0063" image="mscodex_1057_wk1_body0063" visiblepage="31r [=32r]"/>
+               <page number="66" seq="66" id="medren_4087611_184385" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0064" image="mscodex_1057_wk1_body0064" visiblepage="31v [=32v]"/>
+               <page number="67" seq="67" id="medren_4087611_184386" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0065" image="mscodex_1057_wk1_body0065" visiblepage="32r [=33r]"/>
+               <page number="68" seq="68" id="medren_4087611_184387" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0066" image="mscodex_1057_wk1_body0066" visiblepage="32v [=33v]"/>
+               <page number="69" seq="69" id="medren_4087611_184388" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0067" image="mscodex_1057_wk1_body0067" visiblepage="33r [=34r]"/>
+               <page number="70" seq="70" id="medren_4087611_184389" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0068" image="mscodex_1057_wk1_body0068" visiblepage="33v [=34v]"/>
+               <page number="71" seq="71" id="medren_4087611_184390" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0069" image="mscodex_1057_wk1_body0069" visiblepage="34r [=35r]"/>
+               <page number="72" seq="72" id="medren_4087611_184391" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0070" image="mscodex_1057_wk1_body0070" visiblepage="34v [=35v]"/>
+               <page number="73" seq="73" id="medren_4087611_184392" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0071" image="mscodex_1057_wk1_body0071" visiblepage="35r [=36r]"/>
+               <page number="74" seq="74" id="medren_4087611_184393" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0072" image="mscodex_1057_wk1_body0072" visiblepage="35v [=36v]"/>
+               <page number="75" seq="75" id="medren_4087611_184394" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0073" image="mscodex_1057_wk1_body0073" visiblepage="36r [=37r]"/>
+               <page number="76" seq="76" id="medren_4087611_184395" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0074" image="mscodex_1057_wk1_body0074" visiblepage="36v [=37v]"/>
+               <page number="77" seq="77" id="medren_4087611_184396" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0075" image="mscodex_1057_wk1_body0075" visiblepage="37r [=38r]"/>
+               <page number="78" seq="78" id="medren_4087611_184397" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0076" image="mscodex_1057_wk1_body0076" visiblepage="37v [=38v]"/>
+               <page number="79" seq="79" id="medren_4087611_184398" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0077" image="mscodex_1057_wk1_body0077" visiblepage="38r [=39r]"/>
+               <page number="80" seq="80" id="medren_4087611_184399" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0078" image="mscodex_1057_wk1_body0078" visiblepage="38v [=39v]"/>
+               <page number="81" seq="81" id="medren_4087611_184400" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0079" image="mscodex_1057_wk1_body0079" visiblepage="39r [=40r]"/>
+               <page number="82" seq="82" id="medren_4087611_184401" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0080" image="mscodex_1057_wk1_body0080" visiblepage="39v [=40v]"/>
+               <page number="83" seq="83" id="medren_4087611_184402" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0081" image="mscodex_1057_wk1_body0081" visiblepage="40r [=41r]"/>
+               <page number="84" seq="84" id="medren_4087611_184403" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0082" image="mscodex_1057_wk1_body0082" visiblepage="40v [=41v]"/>
+               <page number="85" seq="85" id="medren_4087611_184404" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0083" image="mscodex_1057_wk1_body0083" visiblepage="41r [=42r]"/>
+               <page number="86" seq="86" id="medren_4087611_184405" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0084" image="mscodex_1057_wk1_body0084" visiblepage="41v [=42v]"/>
+               <page number="87" seq="87" id="medren_4087611_184406" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0085" image="mscodex_1057_wk1_body0085" visiblepage="42r [=43r]"/>
+               <page number="88" seq="88" id="medren_4087611_184407" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0086" image="mscodex_1057_wk1_body0086" visiblepage="42v [=43v]"/>
+               <page number="89" seq="89" id="medren_4087611_184408" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0087" image="mscodex_1057_wk1_body0087" visiblepage="43r [=44r]"/>
+               <page number="90" seq="90" id="medren_4087611_184409" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0088" image="mscodex_1057_wk1_body0088" visiblepage="43v [=44v]"/>
+               <page number="91" seq="91" id="medren_4087611_184410" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0089" image="mscodex_1057_wk1_body0089" visiblepage="44r [=45r]"/>
+               <page number="92" seq="92" id="medren_4087611_184411" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0090" image="mscodex_1057_wk1_body0090" visiblepage="44v [=45v]"/>
+               <page number="93" seq="93" id="medren_4087611_184412" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0091" image="mscodex_1057_wk1_body0091" visiblepage="45r [=46r]"/>
+               <page number="94" seq="94" id="medren_4087611_184413" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0092" image="mscodex_1057_wk1_body0092" visiblepage="45v [=46v]"/>
+               <page number="95" seq="95" id="medren_4087611_184414" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0093" image="mscodex_1057_wk1_body0093" visiblepage="46r [=47r]">
+                  <tocentry name="ill">Finding tab, f. 46r [=47r]</tocentry>
+               </page>
+               <page number="96" seq="96" id="medren_4087611_184415" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0094" image="mscodex_1057_wk1_body0094" visiblepage="46v [=47v]">
+                  <tocentry name="ill">Finding tab, f. 46v [=47v]</tocentry>
+                  <tocentry name="ill">Inhabited initial, f. 46v [=47v]</tocentry>
+               </page>
+               <page number="97" seq="97" id="medren_4087611_184416" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0095" image="mscodex_1057_wk1_body0095" visiblepage="47r [=48r]"/>
+               <page number="98" seq="98" id="medren_4087611_184417" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0096" image="mscodex_1057_wk1_body0096" visiblepage="47v [=48v]"/>
+               <page number="99" seq="99" id="medren_4087611_184418" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0097" image="mscodex_1057_wk1_body0097" visiblepage="48r [=49r]"/>
+               <page number="100" seq="100" id="medren_4087611_184419" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0098" image="mscodex_1057_wk1_body0098" visiblepage="48v [=49v]"/>
+               <page number="101" seq="101" id="medren_4087611_184420" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0099" image="mscodex_1057_wk1_body0099" visiblepage="49r [=50r]"/>
+               <page number="102" seq="102" id="medren_4087611_184421" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0100" image="mscodex_1057_wk1_body0100" visiblepage="49v [=50v]"/>
+               <page number="103" seq="103" id="medren_4087611_184422" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0101" image="mscodex_1057_wk1_body0101" visiblepage="50r [=51r]"/>
+               <page number="104" seq="104" id="medren_4087611_184423" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0102" image="mscodex_1057_wk1_body0102" visiblepage="50v [=51v]"/>
+               <page number="105" seq="105" id="medren_4087611_184424" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0103" image="mscodex_1057_wk1_body0103" visiblepage="51r [=52r]"/>
+               <page number="106" seq="106" id="medren_4087611_184425" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0104" image="mscodex_1057_wk1_body0104" visiblepage="51v [=52v]"/>
+               <page number="107" seq="107" id="medren_4087611_184426" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0105" image="mscodex_1057_wk1_body0105" visiblepage="52r [=53r]"/>
+               <page number="108" seq="108" id="medren_4087611_184427" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0106" image="mscodex_1057_wk1_body0106" visiblepage="52v [=53v]"/>
+               <page number="109" seq="109" id="medren_4087611_184428" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0107" image="mscodex_1057_wk1_body0107" visiblepage="53r [=54r]"/>
+               <page number="110" seq="110" id="medren_4087611_184429" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0108" image="mscodex_1057_wk1_body0108" visiblepage="53v [=54v]"/>
+               <page number="111" seq="111" id="medren_4087611_184430" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0109" image="mscodex_1057_wk1_body0109" visiblepage="54r [=55r]">
+                  <tocentry name="ill">Finding tab, f. 54r [=55r]</tocentry>
+               </page>
+               <page number="112" seq="112" id="medren_4087611_184431" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0110" image="mscodex_1057_wk1_body0110" visiblepage="54v [=55v]">
+                  <tocentry name="ill">Finding tab, f. 54v [=55v]</tocentry>
+               </page>
+               <page number="113" seq="113" id="medren_4087611_184432" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0111" image="mscodex_1057_wk1_body0111" visiblepage="55r [=56r]"/>
+               <page number="114" seq="114" id="medren_4087611_184433" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0112" image="mscodex_1057_wk1_body0112" visiblepage="55v [=56v]"/>
+               <page number="115" seq="115" id="medren_4087611_184434" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0113" image="mscodex_1057_wk1_body0113" visiblepage="56r [=57r]"/>
+               <page number="116" seq="116" id="medren_4087611_184435" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0114" image="mscodex_1057_wk1_body0114" visiblepage="56v [=57v]"/>
+               <page number="117" seq="117" id="medren_4087611_184436" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0115" image="mscodex_1057_wk1_body0115" visiblepage="57r [=58r]"/>
+               <page number="118" seq="118" id="medren_4087611_184437" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0116" image="mscodex_1057_wk1_body0116" visiblepage="57v [=58v]"/>
+               <page number="119" seq="119" id="medren_4087611_184438" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0117" image="mscodex_1057_wk1_body0117" visiblepage="58r [=59r]"/>
+               <page number="120" seq="120" id="medren_4087611_184439" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0118" image="mscodex_1057_wk1_body0118" visiblepage="58v [=59v]"/>
+               <page number="121" seq="121" id="medren_4087611_184440" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0119" image="mscodex_1057_wk1_body0119" visiblepage="59r [=60r]"/>
+               <page number="122" seq="122" id="medren_4087611_184441" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0120" image="mscodex_1057_wk1_body0120" visiblepage="59v [=60v]"/>
+               <page number="123" seq="123" id="medren_4087611_184442" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0121" image="mscodex_1057_wk1_body0121" visiblepage="60r [=61r]"/>
+               <page number="124" seq="124" id="medren_4087611_184443" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0122" image="mscodex_1057_wk1_body0122" visiblepage="60v [=61v]"/>
+               <page number="125" seq="125" id="medren_4087611_184444" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0123" image="mscodex_1057_wk1_body0123" visiblepage="61r [=62r]"/>
+               <page number="126" seq="126" id="medren_4087611_184445" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0124" image="mscodex_1057_wk1_body0124" visiblepage="61v [=62v]"/>
+               <page number="127" seq="127" id="medren_4087611_184446" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0125" image="mscodex_1057_wk1_body0125" visiblepage="62r [=63r]"/>
+               <page number="128" seq="128" id="medren_4087611_184447" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0126" image="mscodex_1057_wk1_body0126" visiblepage="62v [=63v]"/>
+               <page number="129" seq="129" id="medren_4087611_184448" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0127" image="mscodex_1057_wk1_body0127" visiblepage="63r [=64r]"/>
+               <page number="130" seq="130" id="medren_4087611_184449" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0128" image="mscodex_1057_wk1_body0128" visiblepage="63v [=64v]"/>
+               <page number="131" seq="131" id="medren_4087611_184450" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0129" image="mscodex_1057_wk1_body0129" visiblepage="64r [=65r]"/>
+               <page number="132" seq="132" id="medren_4087611_184451" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0130" image="mscodex_1057_wk1_body0130" visiblepage="64v [=65v]"/>
+               <page number="133" seq="133" id="medren_4087611_184452" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0131" image="mscodex_1057_wk1_body0131" visiblepage="65r [=66r]"/>
+               <page number="134" seq="134" id="medren_4087611_184453" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0132" image="mscodex_1057_wk1_body0132" visiblepage="65v [=66v]"/>
+               <page number="135" seq="135" id="medren_4087611_184454" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0133" image="mscodex_1057_wk1_body0133" visiblepage="66r [=67r]">
+                  <tocentry name="ill">Owner note, f. 66r [=67r]</tocentry>
+               </page>
+               <page number="136" seq="136" id="medren_4087611_184455" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0134" image="mscodex_1057_wk1_body0134" visiblepage="66v [=67v]"/>
+               <page number="137" seq="137" id="medren_4087611_184456" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0135" image="mscodex_1057_wk1_body0135" visiblepage="67r [=68r]">
+                  <tocentry name="ill">Decorated initial, Initial D, f. 67r [=68r]</tocentry>
+                  <tocentry name="ill">Finding tab, f. 67r [=68r]</tocentry>
+               </page>
+               <page number="138" seq="138" id="medren_4087611_184457" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0136" image="mscodex_1057_wk1_body0136" visiblepage="67v [=68v]">
+                  <tocentry name="ill">Finding tab, f. 67v [=68v]</tocentry>
+               </page>
+               <page number="139" seq="139" id="medren_4087611_184458" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0137" image="mscodex_1057_wk1_body0137" visiblepage="68r [=69r]"/>
+               <page number="140" seq="140" id="medren_4087611_184459" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0138" image="mscodex_1057_wk1_body0138" visiblepage="68v [=69v]"/>
+               <page number="141" seq="141" id="medren_4087611_184460" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0139" image="mscodex_1057_wk1_body0139" visiblepage="69r [=70r]"/>
+               <page number="142" seq="142" id="medren_4087611_184461" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0140" image="mscodex_1057_wk1_body0140" visiblepage="69v [=70v]"/>
+               <page number="143" seq="143" id="medren_4087611_184462" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0141" image="mscodex_1057_wk1_body0141" visiblepage="70r [=71r]"/>
+               <page number="144" seq="144" id="medren_4087611_184463" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0142" image="mscodex_1057_wk1_body0142" visiblepage="70v [=71v]"/>
+               <page number="145" seq="145" id="medren_4087611_184464" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0143" image="mscodex_1057_wk1_body0143" visiblepage="71r [=72r]"/>
+               <page number="146" seq="146" id="medren_4087611_184465" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0144" image="mscodex_1057_wk1_body0144" visiblepage="71v [=72v]"/>
+               <page number="147" seq="147" id="medren_4087611_184466" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0145" image="mscodex_1057_wk1_body0145" visiblepage="72r [=73r]"/>
+               <page number="148" seq="148" id="medren_4087611_184467" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0146" image="mscodex_1057_wk1_body0146" visiblepage="72v [=73v]"/>
+               <page number="149" seq="149" id="medren_4087611_184468" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0147" image="mscodex_1057_wk1_body0147" visiblepage="73r [=74r]"/>
+               <page number="150" seq="150" id="medren_4087611_184469" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0148" image="mscodex_1057_wk1_body0148" visiblepage="73v [=74v]"/>
+               <page number="151" seq="151" id="medren_4087611_184470" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0149" image="mscodex_1057_wk1_body0149" visiblepage="74r [=75r]"/>
+               <page number="152" seq="152" id="medren_4087611_184471" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0150" image="mscodex_1057_wk1_body0150" visiblepage="74v [=75v]"/>
+               <page number="153" seq="153" id="medren_4087611_184472" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0151" image="mscodex_1057_wk1_body0151" visiblepage="75r [=76r]"/>
+               <page number="154" seq="154" id="medren_4087611_184473" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0152" image="mscodex_1057_wk1_body0152" visiblepage="75v [=76v]"/>
+               <page number="155" seq="155" id="medren_4087611_184474" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0153" image="mscodex_1057_wk1_body0153" visiblepage="76r [=77r]">
+                  <tocentry name="ill">Finding tab, f. 76r [=77r]</tocentry>
+               </page>
+               <page number="156" seq="156" id="medren_4087611_184475" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0154" image="mscodex_1057_wk1_body0154" visiblepage="76v [=77v]">
+                  <tocentry name="ill">Finding tab, f. 76v [=77v]</tocentry>
+               </page>
+               <page number="157" seq="157" id="medren_4087611_184476" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0155" image="mscodex_1057_wk1_body0155" visiblepage="77r [=78r]"/>
+               <page number="158" seq="158" id="medren_4087611_184477" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0156" image="mscodex_1057_wk1_body0156" visiblepage="77v [=78v]"/>
+               <page number="159" seq="159" id="medren_4087611_184478" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0157" image="mscodex_1057_wk1_body0157" visiblepage="78r [=79r]"/>
+               <page number="160" seq="160" id="medren_4087611_184479" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0158" image="mscodex_1057_wk1_body0158" visiblepage="78v [=79v]"/>
+               <page number="161" seq="161" id="medren_4087611_184480" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0159" image="mscodex_1057_wk1_body0159" visiblepage="79r [=80r]"/>
+               <page number="162" seq="162" id="medren_4087611_184481" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0160" image="mscodex_1057_wk1_body0160" visiblepage="79v [=80v]"/>
+               <page number="163" seq="163" id="medren_4087611_184482" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0161" image="mscodex_1057_wk1_body0161" visiblepage="80r [=81r]"/>
+               <page number="164" seq="164" id="medren_4087611_184483" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0162" image="mscodex_1057_wk1_body0162" visiblepage="80v [=81v]"/>
+               <page number="165" seq="165" id="medren_4087611_184484" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0163" image="mscodex_1057_wk1_body0163" visiblepage="81r [=82r]"/>
+               <page number="166" seq="166" id="medren_4087611_184485" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0164" image="mscodex_1057_wk1_body0164" visiblepage="81v [=82v]"/>
+               <page number="167" seq="167" id="medren_4087611_184486" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0165" image="mscodex_1057_wk1_body0165" visiblepage="82r [=83r]"/>
+               <page number="168" seq="168" id="medren_4087611_184487" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0166" image="mscodex_1057_wk1_body0166" visiblepage="82v [=83v]"/>
+               <page number="169" seq="169" id="medren_4087611_184488" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0167" image="mscodex_1057_wk1_body0167" visiblepage="83r [=84r]"/>
+               <page number="170" seq="170" id="medren_4087611_184489" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0168" image="mscodex_1057_wk1_body0168" visiblepage="83v [=84v]"/>
+               <page number="171" seq="171" id="medren_4087611_184490" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0169" image="mscodex_1057_wk1_body0169" visiblepage="84r [=85r]"/>
+               <page number="172" seq="172" id="medren_4087611_184491" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0170" image="mscodex_1057_wk1_body0170" visiblepage="84v [=85v]"/>
+               <page number="173" seq="173" id="medren_4087611_184492" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0171" image="mscodex_1057_wk1_body0171" visiblepage="85r [=86r]"/>
+               <page number="174" seq="174" id="medren_4087611_184493" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0172" image="mscodex_1057_wk1_body0172" visiblepage="85v [=86v]"/>
+               <page number="175" seq="175" id="medren_4087611_184494" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0173" image="mscodex_1057_wk1_body0173" visiblepage="86r [=87r]">
+                  <tocentry name="ill">Decorated initial, Initial D, f. 86r [=87r]</tocentry>
+               </page>
+               <page number="176" seq="176" id="medren_4087611_184495" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0174" image="mscodex_1057_wk1_body0174" visiblepage="86v [=87v]"/>
+               <page number="177" seq="177" id="medren_4087611_184496" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0175" image="mscodex_1057_wk1_body0175" visiblepage="87r [=88r]"/>
+               <page number="178" seq="178" id="medren_4087611_184497" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0176" image="mscodex_1057_wk1_body0176" visiblepage="87v [=88v]"/>
+               <page number="179" seq="179" id="medren_4087611_184498" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0177" image="mscodex_1057_wk1_body0177" visiblepage="88r [=89r]"/>
+               <page number="180" seq="180" id="medren_4087611_184499" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0178" image="mscodex_1057_wk1_body0178" visiblepage="88v [=89v]"/>
+               <page number="181" seq="181" id="medren_4087611_184500" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0179" image="mscodex_1057_wk1_body0179" visiblepage="89r [=90r]"/>
+               <page number="182" seq="182" id="medren_4087611_184501" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0180" image="mscodex_1057_wk1_body0180" visiblepage="89v [=90v]"/>
+               <page number="183" seq="183" id="medren_4087611_184502" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0181" image="mscodex_1057_wk1_body0181" visiblepage="90r [=91r]"/>
+               <page number="184" seq="184" id="medren_4087611_184503" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0182" image="mscodex_1057_wk1_body0182" visiblepage="90v [=91v]"/>
+               <page number="185" seq="185" id="medren_4087611_184504" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0183" image="mscodex_1057_wk1_body0183" visiblepage="91r [=92r]"/>
+               <page number="186" seq="186" id="medren_4087611_184505" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0184" image="mscodex_1057_wk1_body0184" visiblepage="91v [=92v]"/>
+               <page number="187" seq="187" id="medren_4087611_184506" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0185" image="mscodex_1057_wk1_body0185" visiblepage="92r [=93r]"/>
+               <page number="188" seq="188" id="medren_4087611_184507" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0186" image="mscodex_1057_wk1_body0186" visiblepage="92v [=93v]"/>
+               <page number="189" seq="189" id="medren_4087611_184508" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0187" image="mscodex_1057_wk1_body0187" visiblepage="93r [=94r]"/>
+               <page number="190" seq="190" id="medren_4087611_184509" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0188" image="mscodex_1057_wk1_body0188" visiblepage="93v [=94v]"/>
+               <page number="191" seq="191" id="medren_4087611_184510" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0189" image="mscodex_1057_wk1_body0189" visiblepage="94r [=95r]">
+                  <tocentry name="ill">Finding tab, f. 94r [=95r]</tocentry>
+               </page>
+               <page number="192" seq="192" id="medren_4087611_184511" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0190" image="mscodex_1057_wk1_body0190" visiblepage="94v [=95v]">
+                  <tocentry name="ill">Finding tab, f. 94v [=95v]</tocentry>
+               </page>
+               <page number="193" seq="193" id="medren_4087611_184512" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0191" image="mscodex_1057_wk1_body0191" visiblepage="95r [=96r]"/>
+               <page number="194" seq="194" id="medren_4087611_184513" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0192" image="mscodex_1057_wk1_body0192" visiblepage="95v [=96v]"/>
+               <page number="195" seq="195" id="medren_4087611_184514" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0193" image="mscodex_1057_wk1_body0193" visiblepage="96r [=97r]"/>
+               <page number="196" seq="196" id="medren_4087611_184515" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0194" image="mscodex_1057_wk1_body0194" visiblepage="96v [=97v]"/>
+               <page number="197" seq="197" id="medren_4087611_184516" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0195" image="mscodex_1057_wk1_body0195" visiblepage="97r [=98r]"/>
+               <page number="198" seq="198" id="medren_4087611_184517" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0196" image="mscodex_1057_wk1_body0196" visiblepage="97v [=98v]"/>
+               <page number="199" seq="199" id="medren_4087611_184518" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0197" image="mscodex_1057_wk1_body0197" visiblepage="98r [=99r]"/>
+               <page number="200" seq="200" id="medren_4087611_184519" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0198" image="mscodex_1057_wk1_body0198" visiblepage="98v [=99v]"/>
+               <page number="201" seq="201" id="medren_4087611_184520" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0199" image="mscodex_1057_wk1_body0199"
+                  visiblepage="99r [=100r]"/>
+               <page number="202" seq="202" id="medren_4087611_184521" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0200" image="mscodex_1057_wk1_body0200"
+                  visiblepage="99v [=100v]"/>
+               <page number="203" seq="203" id="medren_4087611_184522" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0201" image="mscodex_1057_wk1_body0201"
+                  visiblepage="100r [=101r]"/>
+               <page number="204" seq="204" id="medren_4087611_184523" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0202" image="mscodex_1057_wk1_body0202"
+                  visiblepage="100v  [=101v]"/>
+               <page number="205" seq="205" id="medren_4087611_184524" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0203" image="mscodex_1057_wk1_body0203"
+                  visiblepage="101r [=102r]"/>
+               <page number="206" seq="206" id="medren_4087611_184525" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0204" image="mscodex_1057_wk1_body0204"
+                  visiblepage="101v [=102v]"/>
+               <page number="207" seq="207" id="medren_4087611_184526" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0205" image="mscodex_1057_wk1_body0205"
+                  visiblepage="102r [=103r]"/>
+               <page number="208" seq="208" id="medren_4087611_184527" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0206" image="mscodex_1057_wk1_body0206"
+                  visiblepage="102v [=103v]"/>
+               <page number="209" seq="209" id="medren_4087611_184528" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0207" image="mscodex_1057_wk1_body0207"
+                  visiblepage="103r [=104r]"/>
+               <page number="210" seq="210" id="medren_4087611_184529" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0208" image="mscodex_1057_wk1_body0208"
+                  visiblepage="103v [=104v]"/>
+               <page number="211" seq="211" id="medren_4087611_184530" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0209" image="mscodex_1057_wk1_body0209"
+                  visiblepage="104r [=105r]"/>
+               <page number="212" seq="212" id="medren_4087611_184531" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0210" image="mscodex_1057_wk1_body0210"
+                  visiblepage="104v [=105v]"/>
+               <page number="213" seq="213" id="medren_4087611_184532" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0211" image="mscodex_1057_wk1_body0211"
+                  visiblepage="105r [=106r]"/>
+               <page number="214" seq="214" id="medren_4087611_184533" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0212" image="mscodex_1057_wk1_body0212"
+                  visiblepage="105v [=106v]"/>
+               <page number="215" seq="215" id="medren_4087611_184534" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0213" image="mscodex_1057_wk1_body0213"
+                  visiblepage="106r [=107r]">
+                  <tocentry name="ill">Inhabited initial, f. 106r [=107r]</tocentry>
+               </page>
+               <page number="216" seq="216" id="medren_4087611_184535" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0214" image="mscodex_1057_wk1_body0214"
+                  visiblepage="106v [=107v]"/>
+               <page number="217" seq="217" id="medren_4087611_184536" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0215" image="mscodex_1057_wk1_body0215"
+                  visiblepage="107r [=108r]"/>
+               <page number="218" seq="218" id="medren_4087611_184537" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0216" image="mscodex_1057_wk1_body0216"
+                  visiblepage="107v [=108v]"/>
+               <page number="219" seq="219" id="medren_4087611_184538" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0217" image="mscodex_1057_wk1_body0217"
+                  visiblepage="108r [=109r"/>
+               <page number="220" seq="220" id="medren_4087611_184539" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0218" image="mscodex_1057_wk1_body0218"
+                  visiblepage="108v [=109v]"/>
+               <page number="221" seq="221" id="medren_4087611_184540" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0219" image="mscodex_1057_wk1_body0219"
+                  visiblepage="109r [=110r]"/>
+               <page number="222" seq="222" id="medren_4087611_184541" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0220" image="mscodex_1057_wk1_body0220"
+                  visiblepage="109v [=101v]"/>
+               <page number="223" seq="223" id="medren_4087611_184542" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0221" image="mscodex_1057_wk1_body0221"
+                  visiblepage="110r [=111r]"/>
+               <page number="224" seq="224" id="medren_4087611_184543" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0222" image="mscodex_1057_wk1_body0222"
+                  visiblepage="110v [=111v]"/>
+               <page number="225" seq="225" id="medren_4087611_184544" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0223" image="mscodex_1057_wk1_body0223"
+                  visiblepage="111r [=112r]"/>
+               <page number="226" seq="226" id="medren_4087611_184545" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0224" image="mscodex_1057_wk1_body0224"
+                  visiblepage="111v [=112v]"/>
+               <page number="227" seq="227" id="medren_4087611_184546" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0225" image="mscodex_1057_wk1_body0225"
+                  visiblepage="112r [=113r]"/>
+               <page number="228" seq="228" id="medren_4087611_184547" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0226" image="mscodex_1057_wk1_body0226"
+                  visiblepage="112v [=113v]"/>
+               <page number="229" seq="229" id="medren_4087611_184548" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0227" image="mscodex_1057_wk1_body0227"
+                  visiblepage="113r [=114r]"/>
+               <page number="230" seq="230" id="medren_4087611_184549" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0228" image="mscodex_1057_wk1_body0228"
+                  visiblepage="113v [=114v]"/>
+               <page number="231" seq="231" id="medren_4087611_184550" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0229" image="mscodex_1057_wk1_body0229"
+                  visiblepage="114r [=115r]"/>
+               <page number="232" seq="232" id="medren_4087611_184551" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0230" image="mscodex_1057_wk1_body0230"
+                  visiblepage="114v [=115v]"/>
+               <page number="233" seq="233" id="medren_4087611_184552" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0231" image="mscodex_1057_wk1_body0231"
+                  visiblepage="115r [=116r]"/>
+               <page number="234" seq="234" id="medren_4087611_184553" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0232" image="mscodex_1057_wk1_body0232"
+                  visiblepage="115v [=116v]"/>
+               <page number="235" seq="235" id="medren_4087611_184554" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0233" image="mscodex_1057_wk1_body0233"
+                  visiblepage="116r [=117r]">
+                  <tocentry name="ill">Finding tab, f. 116r [=117r]</tocentry>
+               </page>
+               <page number="236" seq="236" id="medren_4087611_184555" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0234" image="mscodex_1057_wk1_body0234"
+                  visiblepage="116v [=117v">
+                  <tocentry name="ill">Finding tab, f. 116v [=117v]</tocentry>
+               </page>
+               <page number="237" seq="237" id="medren_4087611_184556" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0235" image="mscodex_1057_wk1_body0235"
+                  visiblepage="117r [=118r]"/>
+               <page number="238" seq="238" id="medren_4087611_184557" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0236" image="mscodex_1057_wk1_body0236"
+                  visiblepage="117v [=118v]"/>
+               <page number="239" seq="239" id="medren_4087611_184558" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0237" image="mscodex_1057_wk1_body0237"
+                  visiblepage="118r [=119r]"/>
+               <page number="240" seq="240" id="medren_4087611_184559" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0238" image="mscodex_1057_wk1_body0238"
+                  visiblepage="118v [=119v]"/>
+               <page number="241" seq="241" id="medren_4087611_184560" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0239" image="mscodex_1057_wk1_body0239"
+                  visiblepage="119r [=120r]"/>
+               <page number="242" seq="242" id="medren_4087611_184561" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0240" image="mscodex_1057_wk1_body0240"
+                  visiblepage="119v [=120v]"/>
+               <page number="243" seq="243" id="medren_4087611_184562" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0241" image="mscodex_1057_wk1_body0241"
+                  visiblepage="120r [=121r]"/>
+               <page number="244" seq="244" id="medren_4087611_184563" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0242" image="mscodex_1057_wk1_body0242"
+                  visiblepage="120v [=121v]"/>
+               <page number="245" seq="245" id="medren_4087611_184564" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0243" image="mscodex_1057_wk1_body0243"
+                  visiblepage="121r [=122r]"/>
+               <page number="246" seq="246" id="medren_4087611_184565" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0244" image="mscodex_1057_wk1_body0244"
+                  visiblepage="121v [=122v]"/>
+               <page number="247" seq="247" id="medren_4087611_184566" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0245" image="mscodex_1057_wk1_body0245"
+                  visiblepage="122r [=123r]"/>
+               <page number="248" seq="248" id="medren_4087611_184567" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0246" image="mscodex_1057_wk1_body0246"
+                  visiblepage="122v [=123v]"/>
+               <page number="249" seq="249" id="medren_4087611_184568" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0247" image="mscodex_1057_wk1_body0247"
+                  visiblepage="123r [=124r]"/>
+               <page number="250" seq="250" id="medren_4087611_184569" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0248" image="mscodex_1057_wk1_body0248"
+                  visiblepage="123v [=124v]"/>
+               <page number="251" seq="251" id="medren_4087611_184570" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0249" image="mscodex_1057_wk1_body0249"
+                  visiblepage="124r [=125r]"/>
+               <page number="252" seq="252" id="medren_4087611_184571" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0250" image="mscodex_1057_wk1_body0250"
+                  visiblepage="124v [=125v]"/>
+               <page number="253" seq="253" id="medren_4087611_184572" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0251" image="mscodex_1057_wk1_body0251"
+                  visiblepage="125r [=126r]"/>
+               <page number="254" seq="254" id="medren_4087611_184573" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0252" image="mscodex_1057_wk1_body0252"
+                  visiblepage="125v [=126v]">
+                  <tocentry name="ill">Erasure, f. 125v [=126v]</tocentry>
+               </page>
+               <page number="255" seq="255" id="medren_4087611_184574" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0253" image="mscodex_1057_wk1_body0253"
+                  visiblepage="126r [=127r]"/>
+               <page number="256" seq="256" id="medren_4087611_184575" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0254" image="mscodex_1057_wk1_body0254"
+                  visiblepage="126v [=127v]"/>
+               <page number="257" seq="257" id="medren_4087611_184576" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0255" image="mscodex_1057_wk1_body0255"
+                  visiblepage="127r [=128r]"/>
+               <page number="258" seq="258" id="medren_4087611_184577" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0256" image="mscodex_1057_wk1_body0256"
+                  visiblepage="127v [=128v]"/>
+               <page number="259" seq="259" id="medren_4087611_184578" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0257" image="mscodex_1057_wk1_body0257"
+                  visiblepage="128r [=129r]"/>
+               <page number="260" seq="260" id="medren_4087611_184579" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0258" image="mscodex_1057_wk1_body0258"
+                  visiblepage="128v [=129v]"/>
+               <page number="261" seq="261" id="medren_4087611_184580" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0259" image="mscodex_1057_wk1_body0259"
+                  visiblepage="129r [=130r]"/>
+               <page number="262" seq="262" id="medren_4087611_184581" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0260" image="mscodex_1057_wk1_body0260"
+                  visiblepage="129v [=130v]"/>
+               <page number="263" seq="263" id="medren_4087611_184582" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0261" image="mscodex_1057_wk1_body0261"
+                  visiblepage="130r [=131r]"/>
+               <page number="264" seq="264" id="medren_4087611_184583" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0262" image="mscodex_1057_wk1_body0262"
+                  visiblepage="130v [=131v]"/>
+               <page number="265" seq="265" id="medren_4087611_184584" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0263" image="mscodex_1057_wk1_body0263"
+                  visiblepage="131r [=132r]"/>
+               <page number="266" seq="266" id="medren_4087611_184585" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0264" image="mscodex_1057_wk1_body0264"
+                  visiblepage="131v [=132v]"/>
+               <page number="267" seq="267" id="medren_4087611_184586" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0265" image="mscodex_1057_wk1_body0265"
+                  visiblepage="132r [=133r]"/>
+               <page number="268" seq="268" id="medren_4087611_184587" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0266" image="mscodex_1057_wk1_body0266"
+                  visiblepage="132v [=133v]">
+                  <tocentry name="ill">Inhabited initial, Initial E, f. 132v [=133v]</tocentry>
+                  <tocentry name="ill">Drollery, f. 132v [=133v]</tocentry>
+               </page>
+               <page number="269" seq="269" id="medren_4087611_184588" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0267" image="mscodex_1057_wk1_body0267"
+                  visiblepage="133r [=134r]"/>
+               <page number="270" seq="270" id="medren_4087611_184589" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0268" image="mscodex_1057_wk1_body0268"
+                  visiblepage="133v [=134v]"/>
+               <page number="271" seq="271" id="medren_4087611_184590" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0269" image="mscodex_1057_wk1_body0269"
+                  visiblepage="134r [=135r]"/>
+               <page number="272" seq="272" id="medren_4087611_184591" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0270" image="mscodex_1057_wk1_body0270"
+                  visiblepage="134v [=135v]"/>
+               <page number="273" seq="273" id="medren_4087611_184592" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0271" image="mscodex_1057_wk1_body0271"
+                  visiblepage="135r [=136r]"/>
+               <page number="274" seq="274" id="medren_4087611_184593" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0272" image="mscodex_1057_wk1_body0272"
+                  visiblepage="135v [=136v]"/>
+               <page number="275" seq="275" id="medren_4087611_184594" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0273" image="mscodex_1057_wk1_body0273"
+                  visiblepage="136r [=137r]"/>
+               <page number="276" seq="276" id="medren_4087611_184595" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0274" image="mscodex_1057_wk1_body0274"
+                  visiblepage="136v [=137v]"/>
+               <page number="277" seq="277" id="medren_4087611_184596" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0275" image="mscodex_1057_wk1_body0275"
+                  visiblepage="137r [=138r]"/>
+               <page number="278" seq="278" id="medren_4087611_184597" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0276" image="mscodex_1057_wk1_body0276"
+                  visiblepage="137v [=138v]"/>
+               <page number="279" seq="279" id="medren_4087611_184598" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0277" image="mscodex_1057_wk1_body0277"
+                  visiblepage="138r [=139r]">
+                  <tocentry name="ill">Finding tab, f. 138r [=139r]</tocentry>
+               </page>
+               <page number="280" seq="280" id="medren_4087611_184599" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0278" image="mscodex_1057_wk1_body0278"
+                  visiblepage="138v [=139v]">
+                  <tocentry name="ill">Finding tab, f. 138v [=139v]</tocentry>
+               </page>
+               <page number="281" seq="281" id="medren_4087611_184600" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0279" image="mscodex_1057_wk1_body0279"
+                  visiblepage="139r [=140r]"/>
+               <page number="282" seq="282" id="medren_4087611_184601" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0280" image="mscodex_1057_wk1_body0280"
+                  visiblepage="139v [=140v]"/>
+               <page number="283" seq="283" id="medren_4087611_184602" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0281" image="mscodex_1057_wk1_body0281"
+                  visiblepage="140r [=141r]"/>
+               <page number="284" seq="284" id="medren_4087611_184603" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0282" image="mscodex_1057_wk1_body0282"
+                  visiblepage="140v [=141v]"/>
+               <page number="285" seq="285" id="medren_4087611_184604" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0283" image="mscodex_1057_wk1_body0283"
+                  visiblepage="141r [=142r]"/>
+               <page number="286" seq="286" id="medren_4087611_184605" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0284" image="mscodex_1057_wk1_body0284"
+                  visiblepage="141v [=142v]"/>
+               <page number="287" seq="287" id="medren_4087611_184606" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0285" image="mscodex_1057_wk1_body0285"
+                  visiblepage="142r [=143r]"/>
+               <page number="288" seq="288" id="medren_4087611_184607" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0286" image="mscodex_1057_wk1_body0286"
+                  visiblepage="142v [=143v]"/>
+               <page number="289" seq="289" id="medren_4087611_184608" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0287" image="mscodex_1057_wk1_body0287"
+                  visiblepage="143r [=144r]"/>
+               <page number="290" seq="290" id="medren_4087611_184609" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0288" image="mscodex_1057_wk1_body0288"
+                  visiblepage="143v [=144v]"/>
+               <page number="291" seq="291" id="medren_4087611_184610" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0289" image="mscodex_1057_wk1_body0289"
+                  visiblepage="144r [=145r]"/>
+               <page number="292" seq="292" id="medren_4087611_184611" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0290" image="mscodex_1057_wk1_body0290"
+                  visiblepage="144v [=145v]"/>
+               <page number="293" seq="293" id="medren_4087611_184612" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0291" image="mscodex_1057_wk1_body0291"
+                  visiblepage="145r [=146r]"/>
+               <page number="294" seq="294" id="medren_4087611_184613" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0292" image="mscodex_1057_wk1_body0292"
+                  visiblepage="145v [=146v]"/>
+               <page number="295" seq="295" id="medren_4087611_184614" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0293" image="mscodex_1057_wk1_body0293"
+                  visiblepage="146r [=147r]">
+                  <tocentry name="ill">Finding tab, f. 146r [=147r]</tocentry>
+               </page>
+               <page number="296" seq="296" id="medren_4087611_184615" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0294" image="mscodex_1057_wk1_body0294"
+                  visiblepage="146v [=147v]">
+                  <tocentry name="ill">Finding tab, f. 146v [=147v]</tocentry>
+               </page>
+               <page number="297" seq="297" id="medren_4087611_184616" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0295" image="mscodex_1057_wk1_body0295"
+                  visiblepage="147r [=148r]">
+                  <tocentry name="ill">Owner note, f. 147r [=148r]</tocentry>
+               </page>
+               <page number="298" seq="298" id="medren_4087611_184617" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0296" image="mscodex_1057_wk1_body0296"
+                  visiblepage="147v  [=148v]"/>
+               <page number="299" seq="299" id="medren_4087611_184618" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0297" image="mscodex_1057_wk1_body0297"
+                  visiblepage="148r [=149r]"/>
+               <page number="300" seq="300" id="medren_4087611_184619" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0298" image="mscodex_1057_wk1_body0298"
+                  visiblepage="148v [=149v]"/>
+               <page number="301" seq="301" id="medren_4087611_184620" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0299" image="mscodex_1057_wk1_body0299"
+                  visiblepage="149r [=150r]"/>
+               <page number="302" seq="302" id="medren_4087611_184621" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0300" image="mscodex_1057_wk1_body0300"
+                  visiblepage="149v  [=150v]"/>
+               <page number="303" seq="303" id="medren_4087611_184622" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0301" image="mscodex_1057_wk1_body0301"
+                  visiblepage="150r [=151r]"/>
+               <page number="304" seq="304" id="medren_4087611_184623" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0302" image="mscodex_1057_wk1_body0302"
+                  visiblepage="150v [=151v]"/>
+               <page number="305" seq="305" id="medren_4087611_184624" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0303" image="mscodex_1057_wk1_body0303"
+                  visiblepage="151r [=152r]"/>
+               <page number="306" seq="306" id="medren_4087611_184625" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0304" image="mscodex_1057_wk1_body0304"
+                  visiblepage="151v [=152v]"/>
+               <page number="307" seq="307" id="medren_4087611_184626" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0305" image="mscodex_1057_wk1_body0305"
+                  visiblepage="152r [=153r]"/>
+               <page number="308" seq="308" id="medren_4087611_184627" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0306" image="mscodex_1057_wk1_body0306"
+                  visiblepage="152v [=153v]"/>
+               <page number="309" seq="309" id="medren_4087611_184628" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0307" image="mscodex_1057_wk1_body0307"
+                  visiblepage="153r [=154r]"/>
+               <page number="310" seq="310" id="medren_4087611_184629" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0308" image="mscodex_1057_wk1_body0308"
+                  visiblepage="153v [=154v]"/>
+               <page number="311" seq="311" id="medren_4087611_184630" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0309" image="mscodex_1057_wk1_body0309"
+                  visiblepage="154r [=155r]"/>
+               <page number="312" seq="312" id="medren_4087611_184631" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0310" image="mscodex_1057_wk1_body0310"
+                  visiblepage="154v [=155v]"/>
+               <page number="313" seq="313" id="medren_4087611_184632" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0311" image="mscodex_1057_wk1_body0311"
+                  visiblepage="155r [=156r]"/>
+               <page number="314" seq="314" id="medren_4087611_184633" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0312" image="mscodex_1057_wk1_body0312"
+                  visiblepage="155v [=156v]"/>
+               <page number="315" seq="315" id="medren_4087611_184634" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0313" image="mscodex_1057_wk1_body0313"
+                  visiblepage="156r [=157r]"/>
+               <page number="316" seq="316" id="medren_4087611_184635" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0314" image="mscodex_1057_wk1_body0314"
+                  visiblepage="156v [=157v]">
+                  <tocentry name="ill">Inhabited initial, Initial C, f. 156v [=157v]</tocentry>
+                  <tocentry name="ill">Drollery, f. 156v [=157v]</tocentry>
+               </page>
+               <page number="317" seq="317" id="medren_4087611_184636" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0315" image="mscodex_1057_wk1_body0315"
+                  visiblepage="157r [=158r]"/>
+               <page number="318" seq="318" id="medren_4087611_184637" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0316" image="mscodex_1057_wk1_body0316"
+                  visiblepage="157v [=158v]"/>
+               <page number="319" seq="319" id="medren_4087611_184638" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0317" image="mscodex_1057_wk1_body0317"
+                  visiblepage="158r [=159r]"/>
+               <page number="320" seq="320" id="medren_4087611_184639" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0318" image="mscodex_1057_wk1_body0318"
+                  visiblepage="158v [=159v]"/>
+               <page number="321" seq="321" id="medren_4087611_184640" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0319" image="mscodex_1057_wk1_body0319"
+                  visiblepage="159r [=160r]">
+                  <tocentry name="ill">Finding tab, f. 159r [=160r]</tocentry>
+               </page>
+               <page number="322" seq="322" id="medren_4087611_184641" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0320" image="mscodex_1057_wk1_body0320"
+                  visiblepage="159v [=160v]">
+                  <tocentry name="ill">Finding tab, f. 159v [=160v]</tocentry>
+               </page>
+               <page number="323" seq="323" id="medren_4087611_184642" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0321" image="mscodex_1057_wk1_body0321"
+                  visiblepage="160r [=161r]"/>
+               <page number="324" seq="324" id="medren_4087611_184643" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0322" image="mscodex_1057_wk1_body0322"
+                  visiblepage="160v [=161v]"/>
+               <page number="325" seq="325" id="medren_4087611_184644" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0323" image="mscodex_1057_wk1_body0323"
+                  visiblepage="161r [=162r]"/>
+               <page number="326" seq="326" id="medren_4087611_184645" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0324" image="mscodex_1057_wk1_body0324"
+                  visiblepage="161v [=162v]"/>
+               <page number="327" seq="327" id="medren_4087611_184646" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0325" image="mscodex_1057_wk1_body0325"
+                  visiblepage="162r [=163r]"/>
+               <page number="328" seq="328" id="medren_4087611_184647" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0326" image="mscodex_1057_wk1_body0326"
+                  visiblepage="162v [=163v]"/>
+               <page number="329" seq="329" id="medren_4087611_184648" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0327" image="mscodex_1057_wk1_body0327"
+                  visiblepage="163r [=164r]"/>
+               <page number="330" seq="330" id="medren_4087611_184649" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0328" image="mscodex_1057_wk1_body0328"
+                  visiblepage="163v [=164v]"/>
+               <page number="331" seq="331" id="medren_4087611_184650" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0329" image="mscodex_1057_wk1_body0329"
+                  visiblepage="164r [=165r]"/>
+               <page number="332" seq="332" id="medren_4087611_184651" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0330" image="mscodex_1057_wk1_body0330"
+                  visiblepage="164v [=165v]"/>
+               <page number="333" seq="333" id="medren_4087611_184652" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0331" image="mscodex_1057_wk1_body0331"
+                  visiblepage="165r [=166r]"/>
+               <page number="334" seq="334" id="medren_4087611_184653" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0332" image="mscodex_1057_wk1_body0332"
+                  visiblepage="165v [=166v]"/>
+               <page number="335" seq="335" id="medren_4087611_184654" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0333" image="mscodex_1057_wk1_body0333"
+                  visiblepage="166r [=167r]"/>
+               <page number="336" seq="336" id="medren_4087611_184655" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0334" image="mscodex_1057_wk1_body0334"
+                  visiblepage="166v [=167v]"/>
+               <page number="337" seq="337" id="medren_4087611_184656" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0335" image="mscodex_1057_wk1_body0335"
+                  visiblepage="167r [=168r]"/>
+               <page number="338" seq="338" id="medren_4087611_184657" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0336" image="mscodex_1057_wk1_body0336"
+                  visiblepage="167v [=168v]"/>
+               <page number="339" seq="339" id="medren_4087611_184658" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0337" image="mscodex_1057_wk1_body0337"
+                  visiblepage="168r [=169r]"/>
+               <page number="340" seq="340" id="medren_4087611_184659" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0338" image="mscodex_1057_wk1_body0338"
+                  visiblepage="168v [=169v]"/>
+               <page number="341" seq="341" id="medren_4087611_184660" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0339" image="mscodex_1057_wk1_body0339"
+                  visiblepage="169r [=170r]"/>
+               <page number="342" seq="342" id="medren_4087611_184661" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0340" image="mscodex_1057_wk1_body0340"
+                  visiblepage="169v [=170v]"/>
+               <page number="343" seq="343" id="medren_4087611_184662" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0341" image="mscodex_1057_wk1_body0341"
+                  visiblepage="170r [=171r]"/>
+               <page number="344" seq="344" id="medren_4087611_184663" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0342" image="mscodex_1057_wk1_body0342"
+                  visiblepage="170v [=171v]"/>
+               <page number="345" seq="345" id="medren_4087611_184664" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0343" image="mscodex_1057_wk1_body0343"
+                  visiblepage="171r [=172r]"/>
+               <page number="346" seq="346" id="medren_4087611_184665" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0344" image="mscodex_1057_wk1_body0344"
+                  visiblepage="171v [=172v]"/>
+               <page number="347" seq="347" id="medren_4087611_184666" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0345" image="mscodex_1057_wk1_body0345"
+                  visiblepage="172r [=173r]"/>
+               <page number="348" seq="348" id="medren_4087611_184667" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0346" image="mscodex_1057_wk1_body0346"
+                  visiblepage="172v [=173v]"/>
+               <page number="349" seq="349" id="medren_4087611_184668" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0347" image="mscodex_1057_wk1_body0347"
+                  visiblepage="173r [=174r]"/>
+               <page number="350" seq="350" id="medren_4087611_184669" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0348" image="mscodex_1057_wk1_body0348"
+                  visiblepage="173v [=174v]"/>
+               <page number="351" seq="351" id="medren_4087611_184670" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0349" image="mscodex_1057_wk1_body0349"
+                  visiblepage="174r [=175r]"/>
+               <page number="352" seq="352" id="medren_4087611_184671" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0350" image="mscodex_1057_wk1_body0350"
+                  visiblepage="174v [=175v]"/>
+               <page number="353" seq="353" id="medren_4087611_184672" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0351" image="mscodex_1057_wk1_body0351"
+                  visiblepage="175r [=176r]"/>
+               <page number="354" seq="354" id="medren_4087611_184673" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0352" image="mscodex_1057_wk1_body0352"
+                  visiblepage="175v [=176v]"/>
+               <page number="355" seq="355" id="medren_4087611_184674" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0353" image="mscodex_1057_wk1_body0353"
+                  visiblepage="176r [=177r]"/>
+               <page number="356" seq="356" id="medren_4087611_184675" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0354" image="mscodex_1057_wk1_body0354"
+                  visiblepage="176v [=177v]"/>
+               <page number="357" seq="357" id="medren_4087611_184676" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0355" image="mscodex_1057_wk1_body0355"
+                  visiblepage="177r [=178r]"/>
+               <page number="358" seq="358" id="medren_4087611_184677" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0356" image="mscodex_1057_wk1_body0356"
+                  visiblepage="177v [=178v]"/>
+               <page number="359" seq="359" id="medren_4087611_184678" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0357" image="mscodex_1057_wk1_body0357"
+                  visiblepage="178r [=179r]"/>
+               <page number="360" seq="360" id="medren_4087611_184679" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0358" image="mscodex_1057_wk1_body0358"
+                  visiblepage="178v [=179v]"/>
+               <page number="361" seq="361" id="medren_4087611_184680" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0359" image="mscodex_1057_wk1_body0359"
+                  visiblepage="179r [=180r]"/>
+               <page number="362" seq="362" id="medren_4087611_184681" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0360" image="mscodex_1057_wk1_body0360"
+                  visiblepage="179v [=180v]"/>
+               <page number="363" seq="363" id="medren_4087611_184682" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0361" image="mscodex_1057_wk1_body0361"
+                  visiblepage="180r [=181r]"/>
+               <page number="364" seq="364" id="medren_4087611_184683" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0362" image="mscodex_1057_wk1_body0362"
+                  visiblepage="180v [=181v]"/>
+               <page number="365" seq="365" id="medren_4087611_184684" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0363" image="mscodex_1057_wk1_body0363"
+                  visiblepage="181r [=182r]"/>
+               <page number="366" seq="366" id="medren_4087611_184685" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0364" image="mscodex_1057_wk1_body0364"
+                  visiblepage="181v [=182v]"/>
+               <page number="367" seq="367" id="medren_4087611_184686" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0365" image="mscodex_1057_wk1_body0365"
+                  visiblepage="182r [=183r]">
+                  <tocentry name="ill">Finding tab, f. 182r [=183r]</tocentry>
+               </page>
+               <page number="368" seq="368" id="medren_4087611_184687" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0366" image="mscodex_1057_wk1_body0366"
+                  visiblepage="182v [=183v]">
+                  <tocentry name="ill">Finding tab, f. 182v [=183v]</tocentry>
+                  <tocentry name="ill">Inhabited initial, f. 182v [=183v]</tocentry>
+                  <tocentry name="ill">Drollery, f. 182v [=183v]</tocentry>
+               </page>
+               <page number="369" seq="369" id="medren_4087611_184688" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0367" image="mscodex_1057_wk1_body0367"
+                  visiblepage="183r [=184r]"/>
+               <page number="370" seq="370" id="medren_4087611_184689" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0368" image="mscodex_1057_wk1_body0368"
+                  visiblepage="183v [=184v]"/>
+               <page number="371" seq="371" id="medren_4087611_184690" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0369" image="mscodex_1057_wk1_body0369"
+                  visiblepage="184r [=185r]"/>
+               <page number="372" seq="372" id="medren_4087611_184691" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0370" image="mscodex_1057_wk1_body0370"
+                  visiblepage="184v [=185v]"/>
+               <page number="373" seq="373" id="medren_4087611_184692" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0371" image="mscodex_1057_wk1_body0371"
+                  visiblepage="185r [=186r]"/>
+               <page number="374" seq="374" id="medren_4087611_184693" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0372" image="mscodex_1057_wk1_body0372"
+                  visiblepage="185v [=186v]"/>
+               <page number="375" seq="375" id="medren_4087611_184694" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0373" image="mscodex_1057_wk1_body0373"
+                  visiblepage="186r [=187r]"/>
+               <page number="376" seq="376" id="medren_4087611_184695" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0374" image="mscodex_1057_wk1_body0374"
+                  visiblepage="186v [=187v]"/>
+               <page number="377" seq="377" id="medren_4087611_184696" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0375" image="mscodex_1057_wk1_body0375"
+                  visiblepage="187r [=188r]"/>
+               <page number="378" seq="378" id="medren_4087611_184697" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0376" image="mscodex_1057_wk1_body0376"
+                  visiblepage="187v [=188v]"/>
+               <page number="379" seq="379" id="medren_4087611_184698" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0377" image="mscodex_1057_wk1_body0377"
+                  visiblepage="188r [=189r]"/>
+               <page number="380" seq="380" id="medren_4087611_184699" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0378" image="mscodex_1057_wk1_body0378"
+                  visiblepage="188v [=189v]"/>
+               <page number="381" seq="381" id="medren_4087611_184700" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0379" image="mscodex_1057_wk1_body0379"
+                  visiblepage="189r [=190r]"/>
+               <page number="382" seq="382" id="medren_4087611_184701" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0380" image="mscodex_1057_wk1_body0380"
+                  visiblepage="189v [=190v]"/>
+               <page number="383" seq="383" id="medren_4087611_184702" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0381" image="mscodex_1057_wk1_body0381"
+                  visiblepage="190r [=191r]"/>
+               <page number="384" seq="384" id="medren_4087611_184703" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0382" image="mscodex_1057_wk1_body0382"
+                  visiblepage="190v [=191v]"/>
+               <page number="385" seq="385" id="medren_4087611_184704" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0383" image="mscodex_1057_wk1_body0383"
+                  visiblepage="191r [=192r]">
+                  <tocentry name="ill">Erasure, f. 191r [=192r]</tocentry>
+               </page>
+               <page number="386" seq="386" id="medren_4087611_184705" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0384" image="mscodex_1057_wk1_body0384"
+                  visiblepage="191v [=192v]"/>
+               <page number="387" seq="387" id="medren_4087611_184706" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0385" image="mscodex_1057_wk1_body0385"
+                  visiblepage="192r [=193r]"/>
+               <page number="388" seq="388" id="medren_4087611_184707" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0386" image="mscodex_1057_wk1_body0386"
+                  visiblepage="192v [=193v]"/>
+               <page number="389" seq="389" id="medren_4087611_184708" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0387" image="mscodex_1057_wk1_body0387"
+                  visiblepage="193r [=194r]">
+                  <tocentry name="ill">Finding tab, f. 193r [=194r]</tocentry>
+                  <tocentry name="ill">Finding tab, f. 193v [=194v]</tocentry>
+               </page>
+               <page number="390" seq="390" id="medren_4087611_184709" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0388" image="mscodex_1057_wk1_body0388"
+                  visiblepage="193v [=194v]"/>
+               <page number="391" seq="391" id="medren_4087611_184710" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0389" image="mscodex_1057_wk1_body0389"
+                  visiblepage="194r [=195r]"/>
+               <page number="392" seq="392" id="medren_4087611_184711" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0390" image="mscodex_1057_wk1_body0390"
+                  visiblepage="194v [=195v]"/>
+               <page number="393" seq="393" id="medren_4087611_184712" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0391" image="mscodex_1057_wk1_body0391"
+                  visiblepage="195r [=196r]"/>
+               <page number="394" seq="394" id="medren_4087611_184713" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0392" image="mscodex_1057_wk1_body0392"
+                  visiblepage="195v [=196v]"/>
+               <page number="395" seq="395" id="medren_4087611_184714" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0393" image="mscodex_1057_wk1_body0393"
+                  visiblepage="196r [=197r]"/>
+               <page number="396" seq="396" id="medren_4087611_184715" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0394" image="mscodex_1057_wk1_body0394"
+                  visiblepage="196v [=197v]"/>
+               <page number="397" seq="397" id="medren_4087611_184716" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0395" image="mscodex_1057_wk1_body0395"
+                  visiblepage="197r [=198]"/>
+               <page number="398" seq="398" id="medren_4087611_184717" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0396" image="mscodex_1057_wk1_body0396"
+                  visiblepage="197v [=198v]"/>
+               <page number="399" seq="399" id="medren_4087611_184718" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0397" image="mscodex_1057_wk1_body0397"
+                  visiblepage="198r [=199r]"/>
+               <page number="400" seq="400" id="medren_4087611_184719" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0398" image="mscodex_1057_wk1_body0398"
+                  visiblepage="198v [=199v]"/>
+               <page number="401" seq="401" id="medren_4087611_184720" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0399" image="mscodex_1057_wk1_body0399"
+                  visiblepage="199r [=200r]"/>
+               <page number="402" seq="402" id="medren_4087611_184721" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0400" image="mscodex_1057_wk1_body0400"
+                  visiblepage="199v [=200v]"/>
+               <page number="403" seq="403" id="medren_4087611_184722" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0401" image="mscodex_1057_wk1_body0401"
+                  visiblepage="200r [=201r]"/>
+               <page number="404" seq="404" id="medren_4087611_184723" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0402" image="mscodex_1057_wk1_body0402"
+                  visiblepage="200v [=201v]"/>
+               <page number="405" seq="405" id="medren_4087611_184724" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0403" image="mscodex_1057_wk1_body0403"
+                  visiblepage="201r [=202r]"/>
+               <page number="406" seq="406" id="medren_4087611_184725" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0404" image="mscodex_1057_wk1_body0404"
+                  visiblepage="201v [=202v]"/>
+               <page number="407" seq="407" id="medren_4087611_184726" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0405" image="mscodex_1057_wk1_body0405"
+                  visiblepage="202r [=203r]"/>
+               <page number="408" seq="408" id="medren_4087611_184727" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0406" image="mscodex_1057_wk1_body0406"
+                  visiblepage="202v [=203v]"/>
+               <page number="409" seq="409" id="medren_4087611_184728" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0407" image="mscodex_1057_wk1_body0407"
+                  visiblepage="203r [=204r]"/>
+               <page number="410" seq="410" id="medren_4087611_184729" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0408" image="mscodex_1057_wk1_body0408"
+                  visiblepage="203v [=204v]"/>
+               <page number="411" seq="411" id="medren_4087611_184730" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0409" image="mscodex_1057_wk1_body0409"
+                  visiblepage="204r [=205r]">
+                  <tocentry name="ill">Finding tab, f. 204r [=205r]</tocentry>
+               </page>
+               <page number="412" seq="412" id="medren_4087611_184731" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0410" image="mscodex_1057_wk1_body0410"
+                  visiblepage="204v [=205v]">
+                  <tocentry name="ill">Finding tab, f. 204v [=205r]</tocentry>
+               </page>
+               <page number="413" seq="413" id="medren_4087611_184732" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0411" image="mscodex_1057_wk1_body0411"
+                  visiblepage="205r [=206r]"/>
+               <page number="414" seq="414" id="medren_4087611_184733" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0412" image="mscodex_1057_wk1_body0412"
+                  visiblepage="205v [=206v]"/>
+               <page number="415" seq="415" id="medren_4087611_184734" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0413" image="mscodex_1057_wk1_body0413"
+                  visiblepage="206r [=207r]"/>
+               <page number="416" seq="416" id="medren_4087611_184735" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0414" image="mscodex_1057_wk1_body0414"
+                  visiblepage="206v [=207v]"/>
+               <page number="417" seq="417" id="medren_4087611_184736" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0415" image="mscodex_1057_wk1_body0415"
+                  visiblepage="207r [=208r]">
+                  <tocentry name="ill">Owner note, f. 207r [=208r]</tocentry>
+               </page>
+               <page number="418" seq="418" id="medren_4087611_184737" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0416" image="mscodex_1057_wk1_body0416"
+                  visiblepage="207v [=208v]"/>
+               <page number="419" seq="419" id="medren_4087611_184738" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0417" image="mscodex_1057_wk1_body0417"
+                  visiblepage="208r [=209r]"/>
+               <page number="420" seq="420" id="medren_4087611_184739" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0418" image="mscodex_1057_wk1_body0418"
+                  visiblepage="208v [=209v]"/>
+               <page number="421" seq="421" id="medren_4087611_184740" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0419" image="mscodex_1057_wk1_body0419"
+                  visiblepage="209r [=210r]"/>
+               <page number="422" seq="422" id="medren_4087611_184741" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0420" image="mscodex_1057_wk1_body0420"
+                  visiblepage="209v [=210v]"/>
+               <page number="423" seq="423" id="medren_4087611_184742" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0421" image="mscodex_1057_wk1_body0421"
+                  visiblepage="210r [=211r]"/>
+               <page number="424" seq="424" id="medren_4087611_184743" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0422" image="mscodex_1057_wk1_body0422"
+                  visiblepage="210v [=211v]"/>
+               <page number="425" seq="425" id="medren_4087611_184744" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0423" image="mscodex_1057_wk1_body0423"
+                  visiblepage="211r [=212r]"/>
+               <page number="426" seq="426" id="medren_4087611_184745" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0424" image="mscodex_1057_wk1_body0424"
+                  visiblepage="211v [=212v]"/>
+               <page number="427" seq="427" id="medren_4087611_184746" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0425" image="mscodex_1057_wk1_body0425"
+                  visiblepage="212r [=213r]"/>
+               <page number="428" seq="428" id="medren_4087611_184747" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0426" image="mscodex_1057_wk1_body0426"
+                  visiblepage="212v [=213v]"/>
+               <page number="429" seq="429" id="medren_4087611_184748" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0427" image="mscodex_1057_wk1_body0427"
+                  visiblepage="213r [=214r]"/>
+               <page number="430" seq="430" id="medren_4087611_184749" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0428" image="mscodex_1057_wk1_body0428"
+                  visiblepage="213v [=214v]"/>
+               <page number="431" seq="431" id="medren_4087611_184750" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0429" image="mscodex_1057_wk1_body0429"
+                  visiblepage="214r [=215r]"/>
+               <page number="432" seq="432" id="medren_4087611_184751" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0430" image="mscodex_1057_wk1_body0430"
+                  visiblepage="214v [=215v]"/>
+               <page number="433" seq="433" id="medren_4087611_184752" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0431" image="mscodex_1057_wk1_body0431"
+                  visiblepage="215r [=216r]"/>
+               <page number="434" seq="434" id="medren_4087611_184753" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0432" image="mscodex_1057_wk1_body0432"
+                  visiblepage="215v [=216v]"/>
+               <page number="435" seq="435" id="medren_4087611_184754" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0433" image="mscodex_1057_wk1_body0433"
+                  visiblepage="216r [=217r]"/>
+               <page number="436" seq="436" id="medren_4087611_184755" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0434" image="mscodex_1057_wk1_body0434"
+                  visiblepage="216v [=217v]"/>
+               <page number="437" seq="437" id="medren_4087611_184756" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0435" image="mscodex_1057_wk1_body0435"
+                  visiblepage="217r [=218r]"/>
+               <page number="438" seq="438" id="medren_4087611_184757" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0436" image="mscodex_1057_wk1_body0436"
+                  visiblepage="217v [=218v]"/>
+               <page number="439" seq="439" id="medren_4087611_184758" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0437" image="mscodex_1057_wk1_body0437"
+                  visiblepage="218r [=219r]"/>
+               <page number="440" seq="440" id="medren_4087611_184759" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0438" image="mscodex_1057_wk1_body0438"
+                  visiblepage="218v [=219v]"/>
+               <page number="441" seq="441" id="medren_4087611_184760" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0439" image="mscodex_1057_wk1_body0439"
+                  visiblepage="219r [=220r]"/>
+               <page number="442" seq="442" id="medren_4087611_184761" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0440" image="mscodex_1057_wk1_body0440"
+                  visiblepage="219v [=220v]"/>
+               <page number="443" seq="443" id="medren_4087611_184762" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0441" image="mscodex_1057_wk1_body0441"
+                  visiblepage="220r [=221r]">
+                  <tocentry name="ill">Finding tabs, f. 220r [=221r]</tocentry>
+               </page>
+               <page number="444" seq="444" id="medren_4087611_184763" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0442" image="mscodex_1057_wk1_body0442"
+                  visiblepage="220v [=221v]">
+                  <tocentry name="ill">Finding tabs, f. 220v [=221v]</tocentry>
+               </page>
+               <page number="445" seq="445" id="medren_4087611_184764" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0443" image="mscodex_1057_wk1_body0443"
+                  visiblepage="221r [=222r]"/>
+               <page number="446" seq="446" id="medren_4087611_184765" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0444" image="mscodex_1057_wk1_body0444"
+                  visiblepage="221v [=222v]"/>
+               <page number="447" seq="447" id="medren_4087611_184766" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0445" image="mscodex_1057_wk1_body0445"
+                  visiblepage="222r [=223r]"/>
+               <page number="448" seq="448" id="medren_4087611_184767" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0446" image="mscodex_1057_wk1_body0446"
+                  visiblepage="222v [=223v]"/>
+               <page number="449" seq="449" id="medren_4087611_184768" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0447" image="mscodex_1057_wk1_body0447"
+                  visiblepage="223r [=224r]"/>
+               <page number="450" seq="450" id="medren_4087611_184769" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0448" image="mscodex_1057_wk1_body0448"
+                  visiblepage="223v [=224v]"/>
+               <page number="451" seq="451" id="medren_4087611_184770" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0449" image="mscodex_1057_wk1_body0449"
+                  visiblepage="224r [=225r]"/>
+               <page number="452" seq="452" id="medren_4087611_184771" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0450" image="mscodex_1057_wk1_body0450"
+                  visiblepage="224v [=225v]"/>
+               <page number="453" seq="453" id="medren_4087611_184772" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0451" image="mscodex_1057_wk1_body0451"
+                  visiblepage="225r [=226r]"/>
+               <page number="454" seq="454" id="medren_4087611_184773" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0452" image="mscodex_1057_wk1_body0452"
+                  visiblepage="225v [=226v]"/>
+               <page number="455" seq="455" id="medren_4087611_184774" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0453" image="mscodex_1057_wk1_body0453"
+                  visiblepage="226r [=227r]"/>
+               <page number="456" seq="456" id="medren_4087611_184775" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0454" image="mscodex_1057_wk1_body0454"
+                  visiblepage="226v [=227v]"/>
+               <page number="457" seq="457" id="medren_4087611_184776" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0455" image="mscodex_1057_wk1_body0455"
+                  visiblepage="227r [=228r]"/>
+               <page number="458" seq="458" id="medren_4087611_184777" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0456" image="mscodex_1057_wk1_body0456"
+                  visiblepage="227v [=228v]"/>
+               <page number="459" seq="459" id="medren_4087611_184778" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0457" image="mscodex_1057_wk1_body0457"
+                  visiblepage="228r [=229r]"/>
+               <page number="460" seq="460" id="medren_4087611_184779" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0458" image="mscodex_1057_wk1_body0458"
+                  visiblepage="228v [=229v]"/>
+               <page number="461" seq="461" id="medren_4087611_184780" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0459" image="mscodex_1057_wk1_body0459"
+                  visiblepage="229r [=230r]"/>
+               <page number="462" seq="462" id="medren_4087611_184781" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0460" image="mscodex_1057_wk1_body0460"
+                  visiblepage="229v [=230v]">
+                  <tocentry name="toc">Canticles, f. 229v [=230v]</tocentry>
+               </page>
+               <page number="463" seq="463" id="medren_4087611_184782" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0461" image="mscodex_1057_wk1_body0461"
+                  visiblepage="230r [=231r]"/>
+               <page number="464" seq="464" id="medren_4087611_184783" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0462" image="mscodex_1057_wk1_body0462"
+                  visiblepage="230v [=231v]"/>
+               <page number="465" seq="465" id="medren_4087611_184784" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0463" image="mscodex_1057_wk1_body0463"
+                  visiblepage="231r [=232r]"/>
+               <page number="466" seq="466" id="medren_4087611_184785" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0464" image="mscodex_1057_wk1_body0464"
+                  visiblepage="231v [=232v]"/>
+               <page number="467" seq="467" id="medren_4087611_184786" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0465" image="mscodex_1057_wk1_body0465"
+                  visiblepage="232r [=233r]"/>
+               <page number="468" seq="468" id="medren_4087611_184787" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0466" image="mscodex_1057_wk1_body0466"
+                  visiblepage="232v [=233v]"/>
+               <page number="469" seq="469" id="medren_4087611_184788" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0467" image="mscodex_1057_wk1_body0467"
+                  visiblepage="233r [=234r]"/>
+               <page number="470" seq="470" id="medren_4087611_184789" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0468" image="mscodex_1057_wk1_body0468"
+                  visiblepage="233v [=234v]"/>
+               <page number="471" seq="471" id="medren_4087611_184790" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0469" image="mscodex_1057_wk1_body0469"
+                  visiblepage="234r [=235r]"/>
+               <page number="472" seq="472" id="medren_4087611_184791" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0470" image="mscodex_1057_wk1_body0470"
+                  visiblepage="234v [=235v]"/>
+               <page number="473" seq="473" id="medren_4087611_184792" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0471" image="mscodex_1057_wk1_body0471"
+                  visiblepage="235r [=236r]"/>
+               <page number="474" seq="474" id="medren_4087611_184793" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0472" image="mscodex_1057_wk1_body0472"
+                  visiblepage="235v [=236v]"/>
+               <page number="475" seq="475" id="medren_4087611_184794" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0473" image="mscodex_1057_wk1_body0473"
+                  visiblepage="236r [=237r]"/>
+               <page number="476" seq="476" id="medren_4087611_184795" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0474" image="mscodex_1057_wk1_body0474"
+                  visiblepage="236v [=237v]"/>
+               <page number="477" seq="477" id="medren_4087611_184796" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0475" image="mscodex_1057_wk1_body0475"
+                  visiblepage="237r [=238r]"/>
+               <page number="478" seq="478" id="medren_4087611_184797" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0476" image="mscodex_1057_wk1_body0476"
+                  visiblepage="237v [=238v]"/>
+               <page number="479" seq="479" id="medren_4087611_184798" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0477" image="mscodex_1057_wk1_body0477"
+                  visiblepage="238r [=239r]"/>
+               <page number="480" seq="480" id="medren_4087611_184799" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0478" image="mscodex_1057_wk1_body0478"
+                  visiblepage="238v [=239v]"/>
+               <page number="481" seq="481" id="medren_4087611_184800" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0479" image="mscodex_1057_wk1_body0479"
+                  visiblepage="239r [=240r]"/>
+               <page number="482" seq="482" id="medren_4087611_184801" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0480" image="mscodex_1057_wk1_body0480"
+                  visiblepage="239v [=240v]"/>
+               <page number="483" seq="483" id="medren_4087611_184802" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0481" image="mscodex_1057_wk1_body0481"
+                  visiblepage="240r [=241r]"/>
+               <page number="484" seq="484" id="medren_4087611_184803" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0482" image="mscodex_1057_wk1_body0482"
+                  visiblepage="240v [=241v]"/>
+               <page number="485" seq="485" id="medren_4087611_184804" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0483" image="mscodex_1057_wk1_body0483"
+                  visiblepage="241r [=242r]"/>
+               <page number="486" seq="486" id="medren_4087611_184805" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0484" image="mscodex_1057_wk1_body0484"
+                  visiblepage="241v [=242v]"/>
+               <page number="487" seq="487" id="medren_4087611_184806" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0485" image="mscodex_1057_wk1_body0485"
+                  visiblepage="242r [=243r]"/>
+               <page number="488" seq="488" id="medren_4087611_184807" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0486" image="mscodex_1057_wk1_body0486"
+                  visiblepage="242v [=243v]"/>
+               <page number="489" seq="489" id="medren_4087611_184808" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0487" image="mscodex_1057_wk1_body0487"
+                  visiblepage="243r [=244r]"/>
+               <page number="490" seq="490" id="medren_4087611_184809" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0488" image="mscodex_1057_wk1_body0488"
+                  visiblepage="243v [=244v]"/>
+               <page number="491" seq="491" id="medren_4087611_184810" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0489" image="mscodex_1057_wk1_body0489"
+                  visiblepage="244r [=245r]"/>
+               <page number="492" seq="492" id="medren_4087611_184811" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0490" image="mscodex_1057_wk1_body0490"
+                  visiblepage="244v [=245v]"/>
+               <page number="493" seq="493" id="medren_4087611_184812" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0491" image="mscodex_1057_wk1_body0491"
+                  visiblepage="245r [=246r]">
+                  <tocentry name="toc">Athanasian creed, f. 245r [=246r]</tocentry>
+               </page>
+               <page number="494" seq="494" id="medren_4087611_184813" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0492" image="mscodex_1057_wk1_body0492"
+                  visiblepage="245v [=246v]"/>
+               <page number="495" seq="495" id="medren_4087611_184814" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0493" image="mscodex_1057_wk1_body0493"
+                  visiblepage="246r [=247r]"/>
+               <page number="496" seq="496" id="medren_4087611_184815" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0494" image="mscodex_1057_wk1_body0494"
+                  visiblepage="246v [=247v]"/>
+               <page number="497" seq="497" id="medren_4087611_184816" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0495" image="mscodex_1057_wk1_body0495"
+                  visiblepage="247r [=248r]"/>
+               <page number="498" seq="498" id="medren_4087611_184817" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0496" image="mscodex_1057_wk1_body0496"
+                  visiblepage="247v [=248v]"/>
+               <page number="499" seq="499" id="medren_4087611_184818" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0497" image="mscodex_1057_wk1_body0497"
+                  visiblepage="248r [=249r]">
+                  <tocentry name="toc">Litany, f. 248r [=249r]</tocentry>
+               </page>
+               <page number="500" seq="500" id="medren_4087611_184819" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0498" image="mscodex_1057_wk1_body0498"
+                  visiblepage="248v [=249v]"/>
+               <page number="501" seq="501" id="medren_4087611_184820" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0499" image="mscodex_1057_wk1_body0499"
+                  visiblepage="249r [=250r]"/>
+               <page number="502" seq="502" id="medren_4087611_184821" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0500" image="mscodex_1057_wk1_body0500"
+                  visiblepage="249v [=250v]"/>
+               <page number="503" seq="503" id="medren_4087611_184822" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0501" image="mscodex_1057_wk1_body0501"
+                  visiblepage="250r [=251r]"/>
+               <page number="504" seq="504" id="medren_4087611_184823" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0502" image="mscodex_1057_wk1_body0502"
+                  visiblepage="250v [=251v]"/>
+               <page number="505" seq="505" id="medren_4087611_184824" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0503" image="mscodex_1057_wk1_body0503"
+                  visiblepage="251r [=252r]"/>
+               <page number="506" seq="506" id="medren_4087611_184825" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0504" image="mscodex_1057_wk1_body0504"
+                  visiblepage="251v [=252v]"/>
+               <page number="507" seq="507" id="medren_4087611_184826" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0505" image="mscodex_1057_wk1_body0505"
+                  visiblepage="252r [=253r]"/>
+               <page number="508" seq="508" id="medren_4087611_184827" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0506" image="mscodex_1057_wk1_body0506"
+                  visiblepage="252v [=253v]">
+                  <tocentry name="toc">Prayers and hymns, f. 252v [=253v]</tocentry>
+               </page>
+               <page number="509" seq="509" id="medren_4087611_184828" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0507" image="mscodex_1057_wk1_body0507"
+                  visiblepage="253r [=254r]"/>
+               <page number="510" seq="510" id="medren_4087611_184829" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0508" image="mscodex_1057_wk1_body0508"
+                  visiblepage="253v [=254v]"/>
+               <page number="511" seq="511" id="medren_4087611_184830" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0509" image="mscodex_1057_wk1_body0509"
+                  visiblepage="254r [=255r]"/>
+               <page number="512" seq="512" id="medren_4087611_184831" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0510" image="mscodex_1057_wk1_body0510"
+                  visiblepage="254v [=255v]"/>
+               <page number="513" seq="513" id="medren_4087611_184832" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0511" image="mscodex_1057_wk1_body0511"
+                  visiblepage="255r [=256r]"/>
+               <page number="514" seq="514" id="medren_4087611_184833" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0512" image="mscodex_1057_wk1_body0512"
+                  visiblepage="255v [=256v]"/>
+               <page number="515" seq="515" id="medren_4087611_184834" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0513" image="mscodex_1057_wk1_body0513"
+                  visiblepage="256r [=257r]"/>
+               <page number="516" seq="516" id="medren_4087611_184835" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0514" image="mscodex_1057_wk1_body0514"
+                  visiblepage="256v [=257v]"/>
+               <page number="517" seq="517" id="medren_4087611_184836" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0515" image="mscodex_1057_wk1_body0515"
+                  visiblepage="257r [=258r]"/>
+               <page number="518" seq="518" id="medren_4087611_184837" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0516" image="mscodex_1057_wk1_body0516"
+                  visiblepage="257v [=258v]"/>
+               <page number="519" seq="519" id="medren_4087611_184838" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0517" image="mscodex_1057_wk1_body0517"
+                  visiblepage="258r [=259r]"/>
+               <page number="520" seq="520" id="medren_4087611_184839" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0518" image="mscodex_1057_wk1_body0518"
+                  visiblepage="258v [=259v]"/>
+               <page number="521" seq="521" id="medren_4087611_184840" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0519" image="mscodex_1057_wk1_body0519"
+                  visiblepage="259r [=260r]"/>
+               <page number="522" seq="522" id="medren_4087611_184841" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0520" image="mscodex_1057_wk1_body0520"
+                  visiblepage="259v [=260v]"/>
+               <page number="523" seq="523" id="medren_4087611_184842" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0521" image="mscodex_1057_wk1_body0521"
+                  visiblepage="260r [=261r]">
+                  <tocentry name="ill">Owner note, f. 260r [=261r]</tocentry>
+               </page>
+               <page number="524" seq="524" id="medren_4087611_184843" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0522" image="mscodex_1057_wk1_body0522"
+                  visiblepage="260v [=261v]"/>
+               <page number="525" seq="525" id="medren_4087611_184844" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0523" image="mscodex_1057_wk1_body0523"
+                  visiblepage="261r [=262r]"/>
+               <page number="526" seq="526" id="medren_4087611_184845" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0524" image="mscodex_1057_wk1_body0524"
+                  visiblepage="261v [=262v]">
+                  <tocentry name="ill">Owner note, f. 260v [=261v]</tocentry>
+               </page>
+               <page number="527" seq="527" id="medren_4087611_184846" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0525" image="mscodex_1057_wk1_body0525"
+                  visiblepage="262r [=263r]"/>
+               <page number="528" seq="528" id="medren_4087611_184847" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0526" image="mscodex_1057_wk1_body0526"
+                  visiblepage="262v [=263v]"/>
+               <page number="529" seq="529" id="medren_4087611_184848" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0527" image="mscodex_1057_wk1_body0527"
+                  visiblepage="263r [=264r]"/>
+               <page number="530" seq="530" id="medren_4087611_184849" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0528" image="mscodex_1057_wk1_body0528"
+                  visiblepage="263v [=264v]"/>
+               <page number="531" seq="531" id="medren_4087611_184850" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0529" image="mscodex_1057_wk1_body0529"
+                  visiblepage="264r [=265r]"/>
+               <page number="532" seq="532" id="medren_4087611_184851" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0530" image="mscodex_1057_wk1_body0530"
+                  visiblepage="264v [=265v]"/>
+               <page number="533" seq="533" id="medren_4087611_184852" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0531" image="mscodex_1057_wk1_body0531"
+                  visiblepage="265r [=266r]"/>
+               <page number="534" seq="534" id="medren_4087611_184853" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0532" image="mscodex_1057_wk1_body0532"
+                  visiblepage="265v [=266v]"/>
+               <page number="535" seq="535" id="medren_4087611_184854" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0533" image="mscodex_1057_wk1_body0533"
+                  visiblepage="266r [=267r]"/>
+               <page number="536" seq="536" id="medren_4087611_184855" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0534" image="mscodex_1057_wk1_body0534"
+                  visiblepage="266v [=267v]"/>
+               <page number="537" seq="537" id="medren_4087611_184856" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0535" image="mscodex_1057_wk1_body0535"
+                  visiblepage="267r [=268r]"/>
+               <page number="538" seq="538" id="medren_4087611_184857" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0536" image="mscodex_1057_wk1_body0536"
+                  visiblepage="267v [=268v]">
+                  <tocentry name="ill">Owner note, f. 267v [=268v]</tocentry>
+               </page>
+               <page number="539" seq="539" id="medren_4087611_184858" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0537" image="mscodex_1057_wk1_body0537"
+                  visiblepage="268r [=269r]">
+                  <tocentry name="ill">Owner note, f. 268r [=269r]</tocentry>
+                  <tocentry name="ill">Finding tab, f. 268r [=269r]</tocentry>
+               </page>
+               <page number="540" seq="540" id="medren_4087611_184859" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0538" image="mscodex_1057_wk1_body0538"
+                  visiblepage="268v [=269v]">
+                  <tocentry name="ill">Finding tab, f. 268v [=269v]</tocentry>
+                  <tocentry name="ill">Pasted in text, f. 268v [=269v]</tocentry>
+               </page>
+               <page number="541" seq="541" id="medren_4087611_184860" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0539" image="mscodex_1057_wk1_body0539"
+                  visiblepage="269r [=270r]"/>
+               <page number="542" seq="542" id="medren_4087611_184861" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0540" image="mscodex_1057_wk1_body0540"
+                  visiblepage="269v [=270v]"/>
+               <page number="543" seq="543" id="medren_4087611_184862" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_body0541" image="mscodex_1057_wk1_body0541"
+                  visiblepage="270r [=271r]"/>
+               <page number="544" seq="544" id="medren_4087611_184864" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_body0542" image="mscodex_1057_wk1_body0542"
+                  visiblepage="270v [=271v]"/>
+               <page number="545" seq="545" id="medren_4087611_184866" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_back0001" image="mscodex_1057_wk1_back0001"
+                  visiblepage="Inside back cover"/>
+               <page number="546" seq="546" id="medren_4087611_184867" image.defaultscale="3" side="verso"
+                  image.id="medren_mscodex_1057_wk1_back0002" image="mscodex_1057_wk1_back0002" visiblepage="Back cover"/>
+               <page number="547" seq="547" id="medren_4087611_290071" image.defaultscale="3" side="recto"
+                  image.id="medren_mscodex_1057_wk1_back0003" image="mscodex_1057_wk1_back0003" visiblepage="Spine"/>
+            </xml>
+            <str xmlns:my="http://nowhere" name="link"
+               >pageturn.html?id=MEDREN_4087611&amp;rotation=0&amp;id=MEDREN_4087611</str>
+            <str xmlns:my="http://nowhere" name="link_no_params">pageturn.html?id=MEDREN_4087611</str>
+            <str xmlns:my="http://nowhere" name="handle">http://hdl.library.upenn.edu/1017/d/medren/4087611</str>
+         </doc>
+      </result>
+      <lst name="facet_counts">
+         <lst xmlns:my="http://nowhere" name="current_facets"/>
+         <lst name="facet_queries"/>
+         <lst xmlns:my="http://nowhere" name="facet_fields">
+            <lst name="collection_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=collection_facet&amp;</str>
+               </lst>
+               <str name="Medieval &amp; Renaissance Manuscripts" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=collection_facet%3A%22Medieval%20%26%20Renaissance%20Manuscripts%22</str>
+               <str name="Penn Collection" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=collection_facet%3A%22Penn%20Collection%22</str>
+            </lst>
+            <lst name="has_999_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=has_999_facet&amp;</str>
+               </lst>
+            </lst>
+            <lst name="facsimile_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=facsimile_facet&amp;</str>
+               </lst>
+               <str name="Yes" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=facsimile_facet%3A%22Yes%22</str>
+            </lst>
+            <lst name="illuminated_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=illuminated_facet&amp;</str>
+               </lst>
+               <str name="Yes" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=illuminated_facet%3A%22Yes%22</str>
+            </lst>
+            <lst name="illustrated_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=illustrated_facet&amp;</str>
+               </lst>
+               <str name="Yes" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=illustrated_facet%3A%22Yes%22</str>
+            </lst>
+            <lst name="notated_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=notated_facet&amp;</str>
+               </lst>
+               <str name="No" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=notated_facet%3A%22No%22</str>
+            </lst>
+            <lst name="language_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=language_facet&amp;</str>
+               </lst>
+               <str name="Latin" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=language_facet%3A%22Latin%22</str>
+            </lst>
+            <lst name="century_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=century_facet&amp;</str>
+               </lst>
+               <str name="14th century" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=century_facet%3A%2214th%20century%22</str>
+            </lst>
+            <lst name="date_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=date_facet&amp;</str>
+               </lst>
+               <str name="1350" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=date_facet%3A%221350%22</str>
+            </lst>
+            <lst name="genre_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=genre_facet&amp;</str>
+               </lst>
+               <str name="Canticles" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=genre_facet%3A%22Canticles%22</str>
+               <str name="Codices" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=genre_facet%3A%22Codices%22</str>
+               <str name="Death registers" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=genre_facet%3A%22Death%20registers%22</str>
+               <str name="Devotional calendars" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=genre_facet%3A%22Devotional%20calendars%22</str>
+               <str name="Finding tabs" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=genre_facet%3A%22Finding%20tabs%22</str>
+            </lst>
+            <lst name="subject_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=subject_facet&amp;</str>
+               </lst>
+               <str name="Catholic Church" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=subject_facet%3A%22Catholic%20Church%22</str>
+               <str name="Psalters" num="1">pageturn.html?id=MEDREN_4087611&amp;fq=subject_facet%3A%22Psalters%22</str>
+            </lst>
+            <lst name="geography_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=geography_facet&amp;</str>
+               </lst>
+            </lst>
+            <lst name="author_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=author_facet&amp;</str>
+               </lst>
+               <str name="Catholic Church" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=author_facet%3A%22Catholic%20Church%22</str>
+            </lst>
+            <lst name="related_names_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=related_names_facet&amp;</str>
+               </lst>
+            </lst>
+            <lst name="page_material_facet">
+               <lst name="links">
+                  <str name="browse">browse.html?id=MEDREN_4087611&amp;browse=page_material_facet&amp;</str>
+               </lst>
+               <str name="Parchment" num="1"
+                  >pageturn.html?id=MEDREN_4087611&amp;fq=page_material_facet%3A%22Parchment%22</str>
+            </lst>
+         </lst>
+         <lst name="facet_dates"/>
+         <lst name="facet_ranges"/>
+      </lst>
+   </response>
+   <params xmlns:h="http://apache.org/cocoon/request/2.0" xmlns:my="http://nowhere">
+      <param xmlns:xs="http://www.w3.org/2001/XMLSchema" name="size">3</param>
+      <param name="id">MEDREN_4087611</param>
+      <context>
+         <param name="solr-url">http://localhost:8082/index/medren/select/</param>
+         <param name="collection">medren</param>
+         <param name="requested-page">pageturn</param>
+         <param name="host">dla.library.upenn.edu</param>
+         <param name="request">http://dla.library.upenn.edu/dla/medren/pageturn.xml?id=MEDREN_4087611</param>
+      </context>
+   </params>
+   <collection xmlns:my="http://nowhere" xmlns:dla-caption="http://dla.upennlib/caption">
+      <ref/>
+      <name>Penn in Hand: Selected Manuscripts</name>
+      <shortname>medren</shortname>
+      <record detail="brief" exclude-subfield="6">
+         <include field="100" label="Author" exclude-subfield="6"/>
+         <include field="110" label="Author" exclude-subfield="6"/>
+         <include field="130" label="Title" exclude-subfield="6"/>
+         <include field="245" label="Title" exclude-subfield="6"/>
+         <include field="240" label="Title" exclude-subfield="6"/>
+         <include field="260" label="Origin" exclude-subfield="6"/>
+         <include field="300" label="Physical description" exclude-subfield="6"/>
+         <include field="520" label="Summary" exclude-subfield="6"/>
+         <include field="500" label="Notes" delimiter=" - " exclude-subfield="6"/>
+         <include field="524" label="Cite as" exclude-subfield="6"/>
+         <include field="773" label="Contained in" exclude-subfield="6"/>
+         <include field="852" subfield="b,a,j" label="Manuscript location" exclude-subfield="6"/>
+         <include field="880" label="Vernacular script" exclude-subfield="6"/>
+      </record>
+      <record detail="detailed" exclude-subfield="6">
+         <include field="100" label="Author" exclude-subfield="6"/>
+         <include field="110" label="Author" exclude-subfield="6"/>
+         <include field="130" label="Title" exclude-subfield="6"/>
+         <include field="245" label="Title" exclude-subfield="6"/>
+         <include field="240" label="Title" exclude-subfield="6"/>
+         <include field="260" label="Origin" exclude-subfield="6"/>
+         <include field="300" label="Physical description" exclude-subfield="6"/>
+         <include field="546" label="Language(s)" exclude-subfield="6"/>
+         <include field="545" label="Biographical / Organizational History" exclude-subfield="6"/>
+         <include field="520" label="Summary" exclude-subfield="6"/>
+         <include field="505" label="Contents" exclude-subfield="6"/>
+         <include field="561" label="Provenance" exclude-subfield="6"/>
+         <include field="700" label="Related names" exclude-subfield="6"/>
+         <include field="710" label="Related names" exclude-subfield="6"/>
+         <include field="600" label="Subject" exclude-subfield="6"/>
+         <include field="610" label="Subject" delimiter=" - "/>
+         <include field="630" label="Subject" delimiter=" - "/>
+         <include field="650" label="Subject" delimiter=" - "/>
+         <include field="651" label="Subject" delimiter=" - "/>
+         <include field="655" label="Form / Genre" exclude-subfield="2" delimiter=" - "/>
+         <include field="500" label="Notes" exclude-subfield="6"/>
+         <include field="530" label="Other formats" exclude-subfield="6"/>
+         <include field="510" label="Indexed / Referenced in" exclude-subfield="6"/>
+         <include field="581" label="Publications of or about this material" exclude-subfield="6"/>
+         <include field="246" label="Other Titles" exclude-subfield="6"/>
+         <include field="730" label="Other Titles" exclude-subfield="6"/>
+         <include field="740" label="Other Titles" exclude-subfield="6"/>
+         <include field="524" label="Cite as" exclude-subfield="6"/>
+         <include field="773" label="Contained in" exclude-subfield="6"/>
+         <include field="852" subfield="b,a,j" label="Manuscript location" exclude-subfield="6"/>
+         <include field="880" label="Vernacular script" exclude-subfield="6"/>
+      </record>
+      <view>html</view>
+      <view>html</view>
+      <rows>25,50,100</rows>
+      <fl>*</fl>
+      <sort>score desc, date_sort asc</sort>
+      <style>rbm</style>
+      <advancedsearch.field type="number">century_search</advancedsearch.field>
+      <advancedsearch.field>language_search</advancedsearch.field>
+      <advancedsearch.field>place_search</advancedsearch.field>
+      <advancedsearch.field>subject_search</advancedsearch.field>
+      <advancedsearch.field>descriptive_notes_search</advancedsearch.field>
+      <advancedsearch.field>author_search</advancedsearch.field>
+      <advancedsearch.field display="Other Contributors/Owners">other_contributors_search</advancedsearch.field>
+      <advancedsearch.textcount>7</advancedsearch.textcount>
+      <advancedsearch.numbercount>1</advancedsearch.numbercount>
+      <advancedsearch.texthelp>(For example: <i>france</i> ; <i>german*</i> ; <i>german?</i> ; <i>france germany
+            italy</i>. See the <a href="ancillary.html?id=collections/rbm/medren/advancedsearch">Advanced Search
+            Help</a> for more details)</advancedsearch.texthelp>
+      <facet>true</facet>
+      <facet.mincount>1</facet.mincount>
+      <facet.limit>5</facet.limit>
+      <facet.field>page_material_facet</facet.field>
+      <facet.field>related_names_facet</facet.field>
+      <facet.field>author_facet</facet.field>
+      <facet.field>geography_facet</facet.field>
+      <facet.field>subject_facet</facet.field>
+      <facet.field>genre_facet</facet.field>
+      <facet.field>date_facet</facet.field>
+      <facet.field>century_facet</facet.field>
+      <facet.field>language_facet</facet.field>
+      <facet.field>notated_facet</facet.field>
+      <facet.field>illustrated_facet</facet.field>
+      <facet.field>illuminated_facet</facet.field>
+      <facet.field>facsimile_facet</facet.field>
+      <facet.field>has_999_facet</facet.field>
+      <facet.field>collection_facet</facet.field>
+      <rss icon="true">
+         <title-field>titledate_field</title-field>
+      </rss>
+      <sortoptions>title_sort, author_sort, date_sort, date_facsimile_added_sort</sortoptions>
+      <caption context="title">
+         <!--  doesn't give priority to LJS collection
+  	<dla-caption:if not-empty="collection_field">
+  		<div class="fromcollection">
+  			from the 
+  			<html>
+  				<dla-caption:link-external type="field" src="collectionSEARCH_URL_field">
+  					<dla-caption:field type="field"  src="collection_field"/>
+  				</dla-caption:link-external>
+  			</html>
+  		</div>
+  	</dla-caption:if>
+-->
+
+         <dla-caption:if not-empty="LJScollection_field">
+            <div class="fromcollection">
+               <html>
+                  <dla-caption:link-external type="field" src="LJScollectionSEARCH_URL_field">
+                     <dla-caption:field type="field" src="LJScollection_field"/>
+                     <span class="coll-title">:</span>
+                  </dla-caption:link-external>
+               </html>
+            </div>
+         </dla-caption:if>
+         <dla-caption:if empty="LJScollection_field">
+            <div class="fromcollection">
+               <html>
+                  <dla-caption:link-external type="field" src="collectionSEARCH_URL_field">
+                     <dla-caption:field type="field" src="collection_field"/>
+                     <span class="coll-title">:</span>
+                  </dla-caption:link-external>
+               </html>
+            </div>
+         </dla-caption:if>
+
+
+
+
+
+         <span class="recordtitlechrome">
+            <dla-caption:field type="field" src="call_number_field"/>
+            <dla-caption:if not-empty="call_number_field"> - </dla-caption:if>
+            <dla-caption:field type="field" src="primary_author_field"/>
+            <dla-caption:if not-empty="primary_author_field"> - </dla-caption:if>
+            <dla-caption:field type="field" src="title_field"/>
+         </span>
+      </caption>
+      <caption context="mobile">
+
+
+         <div style="font-family: Verdana, arial, sans-serif; font-size:13px; margin-bottom:7px;line-height:130%;">
+            <div>
+               <dla-caption:field type="field" src="call_number_field"/>
+            </div>
+            <div>
+               <dla-caption:link-to-detail>
+                  <dla-caption:field type="field" src="title_field"/>
+               </dla-caption:link-to-detail>
+            </div>
+            <div>
+               <dla-caption:if equal="facsimile_field, {Yes}">
+                  <dla-caption:link-to-detail><img src="images/common/ms-icon.jpg" alt="*" style="border: none;"
+                     />Facsimile available</dla-caption:link-to-detail>
+               </dla-caption:if>
+            </div>
+            <div style="margin-bottom: 10px; border-bottom: dotted 1px #999;">
+               <dla-caption:if not-empty="origin_field">
+                  <div>
+                     <dla-caption:field type="field" src="origin_field"/>
+                  </div>
+               </dla-caption:if>
+               <dla-caption:if sort="date_facsimile_added_sort">
+                  <dla-caption:if not-empty="date_facsimile_added_field">
+                     <div class="facadded">Facsimile added: <dla-caption:field type="field"
+                           src="date_facsimile_added_field"/></div>
+                  </dla-caption:if>
+               </dla-caption:if>
+            </div>
+         </div>
+
+      </caption>
+      <caption context="results">
+         <tr class="medrenresultrecord">
+            <td class="oneresult">
+               <div class="callno">
+                  <dla-caption:field type="field" src="call_number_field"/>
+                  <dla-caption:if equal="facsimile_field, {Yes}">
+                     <span class="facavail">       <dla-caption:link-to-detail><img src="images/common/ms-icon.jpg"
+                              alt="*"/>Facsimile available</dla-caption:link-to-detail></span>
+                  </dla-caption:if>
+               </div>
+
+               <dla-caption:if sort="date_facsimile_added_field">
+                  <dla-caption:if not-empty="date_facsimile_added_field">
+                     <div class="facadded">Facsimile added: <dla-caption:field type="field"
+                           src="date_facsimile_added_field"/></div>
+                  </dla-caption:if>
+               </dla-caption:if>
+
+
+               <dla-caption:if not-empty="primary_author_field">
+                  <div>
+                     <dla-caption:field type="field" src="primary_author_field"/>
+                  </div>
+               </dla-caption:if>
+               <div class="medrenresultstitle">
+                  <dla-caption:link-to-detail>
+                     <dla-caption:field type="field" src="title_field"/>
+                  </dla-caption:link-to-detail>
+               </div>
+
+               <dla-caption:if not-empty="origin_field">
+                  <div class="origin">
+                     <dla-caption:field type="field" src="origin_field"/>
+                  </div>
+               </dla-caption:if>
+            </td>
+            <td class="holdresultsdate">
+               <div>
+                  <dla-caption:if not-empty="probable_date_field">
+                     <dla-caption:field type="field" src="probable_date_field"/>
+                  </dla-caption:if>
+               </div>
+            </td>
+         </tr>
+      </caption>
+      <caption context="image wall">
+         <div class="thumbonly">
+            <dla-caption:link-to-detail extra-params-field="page_param">
+               <img>
+                  <dla-caption:attribute name="src">../images/medren/<dla-caption:field type="field" src="id"
+                        />-<dla-caption:field type="field" src="page_param"/>.jpg</dla-caption:attribute>
+                  <dla-caption:attribute name="title">
+                     <dla-caption:field type="field" src="title"/>
+                  </dla-caption:attribute>
+                  <dla-caption:attribute name="alt">
+                     <dla-caption:field type="field" src="title"/>
+                  </dla-caption:attribute>
+                  <dla-caption:attribute name="width">200px</dla-caption:attribute>
+                  <dla-caption:attribute name="height">200px</dla-caption:attribute>
+               </img>
+            </dla-caption:link-to-detail>
+         </div>
+      </caption>
+      <stickyfacets>collection_facet</stickyfacets>
+      <footeremail>rbml@pobox.upenn.edu</footeremail>
+      <footermailto>rbml@pobox.upenn.edu,shawcros@pobox.upenn.edu</footermailto>
+      <poweredby>This site has been made possible through a grant from the National Endowment to the
+         Humanities.</poweredby>
+      <maxzoomlevels>5</maxzoomlevels>
+      <noresultsmessage>
+         <div class="noresults"> Sorry, no results matched your search terms. </div>
+      </noresultsmessage>
+      <tocEntries>
+         <entry name="toc" display="Contents"/>
+         <entry name="ill" display="Illustrations"/>
+      </tocEntries>
+      <tabs type="pageturn">
+         <tab name="View Manuscript" target="pageturn"/>
+         <tab name="View Provenance &amp; Subject Details" target="record"/>
+      </tabs>
+      <solr-url>http://localhost:8082/index/medren/select/</solr-url>
+      <services name="Navigating the Collection" display="block" class="recordDescription">
+         <service name="Collection Home" link="index.html"/>
+         <service name="Search Strategies" link="ancillary.html?id=collections/brinton/searchdla"/>
+         <service type="back-to-results"/>
+         <service name="Advanced Search" link="advancedsearch.html"/>
+         <service name="New: Manuscripts recently digitized"
+            link="search.html?sort=date_facsimile_added_sort%20desc&amp;showall=sort&amp;fq=facsimile_facet%3A%22Yes%22"
+         />
+      </services>
+      <services name="Manuscripts at Penn">
+         <service name="Overview" link="ancillary.html?id=collections/rbm/mss/mss"/>
+         <service name="Schoenberg Database of Manuscripts" link="http://hdl.library.upenn.edu/1017/59753"/>
+         <service name="Manuscripts on Microfilm"
+            link="http://www.library.upenn.edu/collections/microforms/medmss.html "/>
+      </services>
+      <services name="Information &amp; Contacts" display="block" class="recordDescription">
+         <service type="mailto" address="shawcros@pobox.upenn.edu" name="Contact Us"
+            body="Question regarding this page: " appendurl="true"/>
+         <service name="Copyright &amp; Permissions" link="ancillary.html?id=collections/brinton/copyright"/>
+      </services>
+      <services name="Rare Book &amp; Manuscript Library" link="http://www.library.upenn.edu/rbm/">
+         <service name="Access" link="ancillary.html?id=access/rbm"/>
+         <service name="Hours" link="http://events.library.upenn.edu/cgi-bin/calendar.cgi?library=rbm;size=large"/>
+         <service name="Locate on Campus" link="http://hdl.library.upenn.edu/1017/82076"/>
+         <service name="Services" link="ancillary.html?id=rbm/services"/>
+         <service name="Staff"
+            link="http://dla.library.upenn.edu/dla/staff/search.html?fq=library_facet%3A%22Rare%20Book%20%26%20Manuscript%20Library%22"/>
+         <service name="Visitor Information" link="http://www.library.upenn.edu/access/visitors/visitors.html"/>
+      </services>
+      <services name="NEH Grant Information" link="ancillary.html?id=collections/manuscripts/grant"> </services>
+      <maps metadataPrefix="marc21">
+         <map to="marc:record">marcrecord</map>
+      </maps>
+      <maps metadataPrefix="oai_dc">
+         <map to="title">title_field</map>
+         <map to="contributor">author_field</map>
+         <map to="coverage"/>
+         <map to="creator"/>
+         <map to="date">probable_date_field</map>
+         <map to="description"/>
+         <map to="format"/>
+         <map to="identifier">id</map>
+         <map to="language">language_field</map>
+         <map to="publisher"/>
+         <map to="relation"/>
+         <map to="rights"/>
+         <map to="source"/>
+         <map to="subject">geography_field</map>
+         <map to="subject">subject_field</map>
+         <map to="subject">genre_field</map>
+         <map to="type"/>
+      </maps>
+      <maps metadataPrefix="dla">
+         <map to="datestamp">last_update</map>
+      </maps>
+   </collection>
+   <defaults xmlns:my="http://nowhere" xmlns:h="http://apache.org/cocoon/request/2.0">
+      <param name="start">0</param>
+      <param name="rows">25</param>
+      <param name="facet.offset">0</param>
+      <param name="browse.limit">400</param>
+      <param name="browse.sort">false</param>
+      <param name="sort">score desc, date_sort asc</param>
+      <param name="facet.limit">5</param>
+      <param name="facet.mincount">1</param>
+   </defaults>
+   <recordinfo xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:my="http://nowhere"
+      xmlns:marc="http://www.loc.gov/MARC21/slim" detail="brief">
+      <str name="Author">Catholic Church.</str>
+      <str name="Title">[Ferial psalter] [manuscript].</str>
+      <str name="Origin">[Trento (Italy), ca. 1350]</str>
+      <str name="Physical description">272 leaves : parchment ; 116 x 75 (80 x 55) mm. bound to 125 x 95 mm.</str>
+      <str name="Summary">Ferial psalter, containing the psalms divided into eight sections: seven for the psalms for
+         matins through the week and the eighth containing all the psalms for vespers, accompanied by indications of
+         invitatories, antiphons, hymns, short chapter readings, and concluding with canticles, a litany and prayers.
+         The eight sections are marked with illumination or penwork. The psalter is preceded by antiphons and hymns
+         added in the 16th century and a 14th-century liturgical calendar including the feast day of Vigil, Bishop of
+         Trent, and 17th-century entries for the deaths of members of the community of the abbey of Saint
+         Walburga.</str>
+      <str name="Notes">Ms. codex.</str>
+      <str name="Notes">Title supplied by cataloger.</str>
+      <str name="Notes">Collation: Parchment and paper, 272; 1⁶ 2-22¹² 23⁶; quires 3-23 signed i-xxii in red on last
+         verso, except quire 18 (xvi), where the lower margin of the last leaf has been repaired; [1-10; 10-271]; modern
+         foliation in pencil, upper right recto, with two leaves marked 10; the foliation references in this record use
+         the pencil foliation as it appears in the manuscript.</str>
+      <str name="Notes">Layout: Written in 16 long lines (psalter).</str>
+      <str name="Notes">Script: Calendar and main text written in a Gothic hand; first quire of antiphons and hymns,
+         additions to calendar, and marginalia in later hands.</str>
+      <str name="Notes">Decoration: Two historiated initials with painted initials with white tracery and painted
+         ascenders and descenders with grotesques in the margins (ff. 15v, 182v); four 4- to 6-line painted initials in
+         blue and red with openwork foliate motifs, decorated with red and blue penwork and grotesques (ff. 46v, 106r,
+         132v, 156v); two 2- to 3- line painted initials with red and blue penwork (ff. 67r, 86r); numerous 1- and 2-
+         line initials alternating between red and blue; rubrics in red; handcolored engraving of St. Christopher pasted
+         onto front pastedown.</str>
+      <str name="Notes">Binding: Late 16th-century blind-stamped pigskin with two brass clasps.</str>
+      <str name="Notes">Origin: Probably written in Trento, ca. 1350.</str>
+      <str name="Cite as">UPenn Ms. Codex 1057</str>
+      <str name="Manuscript location">Rare Book &amp; Manuscript Library University of Pennsylvania Ms. Codex 1057</str>
+   </recordinfo>
+</page>

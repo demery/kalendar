@@ -1,0 +1,3342 @@
+mscodex8	1469171	Ms. Codex 8
+mscodex34	1469651	Ms. Codex 34
+mscodex136	1551760	Ms. Codex 136
+mscodex183	1551775	Ms. Codex 183
+mscodex189	1551779	Ms. Codex 189
+mscodex2	1580104	Ms. Codex 2
+mscodex120	1580536	Ms. Codex 120
+mscodex127	1580543	Ms. Codex 127
+mscodex173	1580581	Ms. Codex 173
+mscodex224	1580604	Ms. Codex 224
+mscodex251	1580839	Ms. Codex 251
+mscodex502	1580934	Ms. Codex 502
+mscodex503	1580935	Ms. Codex 503
+mscodex338	1580968	Ms. Codex 338
+mscodex343	1580975	Ms. Codex 343
+mscodex356	1580995	Ms. Codex 356
+mscodex411	1581185	Ms. Codex 411
+mscodex632	2363083	Ms. Codex 632
+mscodex637	2369328	Ms. Codex 637
+mscodex210	2486436	Ms. Codex 210
+mscodex217	2486440	Ms. Codex 217
+mscodex219	2486442	Ms. Codex 219
+mscodex561	2486514	Ms. Codex 561
+mscodex570	2486525	Ms. Codex 570
+mscodex571	2486526	Ms. Codex 571
+mscodex579	2486533	Ms. Codex 579
+mscodex595	2486551	Ms. Codex 595
+mscodex596	2486552	Ms. Codex 596
+mscodex605	2486562	Ms. Codex 605
+mscodex606	2486563	Ms. Codex 606
+mscodex609	2486566	Ms. Codex 609
+mscodex400	2486579	Ms. Codex 400
+mscodex413	2486583	Ms. Codex 413
+mscodex417	2486588	Ms. Codex 417
+mscodex435	2486605	Ms. Codex 435
+mscodex459	2486630	Ms. Codex 459
+mscodex668	2487454	Ms. Codex 668
+mscodex670	2487456	Ms. Codex 670
+mscodex671	2487457	Ms. Codex 671
+mscodex705	2487500	Ms. Codex 705
+mscodex774	2487549	Ms. Codex 774
+mscodex578	2703982	Ms. Codex 578
+mscodex780	2704933	Ms. Codex 780
+mscodex803	2706828	Ms. Codex 803
+mscodex805	2706831	Ms. Codex 805
+mscodex755	2707104	Ms. Codex 755
+mscodex809	2975789	Ms. Codex 809
+mscodex810	2975923	Ms. Codex 810
+mscodex812	2975960	Ms. Codex 812
+mscodex813	2976063	Ms. Codex 813
+mscodex817	2976470	Ms. Codex 817
+mscodex819	2976526	Ms. Codex 819
+mscodex832	3176905	Ms. Codex 832
+mscodex851	3178005	Ms. Codex 851
+mscodex873	3178578	Ms. Codex 873
+mscodex881	3180183	Ms. Codex 881
+mscodex883	3180186	Ms. Codex 883
+mscodex895	3430904	Ms. Codex 895
+mscodex899	3430916	Ms. Codex 899
+mscodex927	3559154	Ms. Codex 927
+mscodex928	3559895	Ms. Codex 928
+mscodex939	3575938	Ms. Codex 939
+mscodex957	3589352	Ms. Codex 957
+mscodex963	3596879	Ms. Codex 963
+mscodex964	3597467	Ms. Codex 964
+mscodex965	3597808	Ms. Codex 965
+mscodex977	3634981	Ms. Codex 977
+mscodex979	3655724	Ms. Codex 979
+mscodex984	3663975	Ms. Codex 984
+mscodex993	3746785	Ms. Codex 993
+mscodex998	3760125	Ms. Codex 998
+mscodex999	3760337	Ms. Codex 999
+mscodex913	4009808	Ms. Codex 913
+mscodex1208	4322632	Ms. Codex 1208
+mscodex1214	4322642	Ms. Codex 1214
+mscodex1218	4324591	Ms. Codex 1218
+mscodex1224	4324598	Ms. Codex 1224
+mscodex1236	4364567	Ms. Codex 1236
+mscodex1265	4405047	Ms. Codex 1265
+mscodex1316	4435760	Ms. Codex 1316
+mscodex1338	4441731	Ms. Codex 1338
+mscodex1348	4442480	Ms. Codex 1348
+mscodex1350	4443090	Ms. Codex 1350
+mscodex1358	4444520	Ms. Codex 1358
+mscodex1363	4446177	Ms. Codex 1363
+mscodex1400	4452089	Ms. Codex 1400
+mscodex1406	4452289	Ms. Codex 1406
+mscodex1408	4452308	Ms. Codex 1408
+mscodex1443	4465146	Ms. Codex 1443
+mscodex1450	4466943	Ms. Codex 1450
+mscodex1462	4475427	Ms. Codex 1462
+mscodex1469	4476583	Ms. Codex 1469
+mscodex1503	4488199	Ms. Codex 1503
+mscodex1517	4490881	Ms. Codex 1517
+mscodex1562	4764695	Ms. Codex 1562
+mscodex1631	5909897	Ms. Codex 1631
+mscodex974_wk1	1387150	Ms. Codex 974
+mscoll129_wk1	1389402	Ms. Coll. 129
+mscodex13_wk1	1447440	Ms. Codex 13
+mscodex15_wk1_back0006	1447441	Ms. Codex 15
+mscodex14_wk1	1447442	Ms. Codex 14
+mscodex33_wk1	1469147	Ms. Codex 33
+mscodex33_wk1	1469147	Ms. Codex 33
+mscodex16_wk1	1469155	Ms. Codex 16
+mscodex16_wk1	1469155	Ms. Codex 16
+miscmsslarge_catholicchurchgradual_wk1	1469163	Misc. Mss. (Large)
+miscmsslarge_catholicchurchgradual_wk1	1469163	Misc. Mss. (Large)
+msoversize4_wk1	1469164	Ms. Oversize 4
+mscodex6_wk1	1469169	Ms. Codex 6
+mscodex6_wk1	1469169	Ms. Codex 6
+mscodex7_wk1	1469170	Ms. Codex 7
+mscodex7_wk1	1469170	Ms. Codex 7
+mscodex8_wk1	1469171	Ms. Codex 8
+mscodex10_wk1	1469172	Ms. Codex 10
+mscodex19_wk1	1469175	Ms. Codex 19
+mscodex19_wk1	1469175	Ms. Codex 19
+mscodex20_wk1	1469176	Ms. Codex 20
+mscodex20_wk1	1469176	Ms. Codex 20
+mscodex34_wk1	1469651	Ms. Codex 34
+mscodex17_wk1	1470727	Ms. Codex 17
+mscodex17_wk1	1470727	Ms. Codex 17
+miscmsslarge_coptic_wk1	1471180	Misc. Mss. (Large)
+msoversize8_wk1	1471181	Ms. Oversize 8
+msoversize8_wk1	1471181	Ms. Oversize 8
+mscodex55_wk1	1471184	Ms. Codex 55
+mscodex55_wk1	1471184	Ms. Codex 55
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex57_wk1	1471185	Ms. Codex 57
+mscodex59_wk1	1471186	Ms. Codex 59
+mscodex59_wk1	1471186	Ms. Codex 59
+mscodex59_wk1	1471186	Ms. Codex 59
+mscodex29_wk1	1473924	Ms. Codex 29
+mscodex29_wk1	1473924	Ms. Codex 29
+mscodex50_wk1	1473926	Ms. Codex 50
+mscodex50_wk1	1473926	Ms. Codex 50
+mscodex51_wk1	1473927	Ms. Codex 51
+mscodex53_wk1	1473928	Ms. Codex 53
+mscodex54_wk1	1473929	Ms. Codex 54
+mscodex54_wk1	1473929	Ms. Codex 54
+mscodex56_wk1	1473930	Ms. Codex 56
+mscodex56_wk1	1473930	Ms. Codex 56
+mscodex58_wk1	1473931	Ms. Codex 58
+mscodex58_wk1	1473931	Ms. Codex 58
+mscodex52_wk1	1473932	Ms. Codex 52
+mscodex60_wk1	1473937	Ms. Codex 60
+mscodex60_wk1	1473937	Ms. Codex 60
+mscodex64_wk1	1473938	Ms. Codex 64
+mscodex64_wk1	1473938	Ms. Codex 64
+mscodex66_wk1	1473939	Ms. Codex 66
+mscodex66_wk1	1473939	Ms. Codex 66
+mscodex65_wk1	1473940	Ms. Codex 65
+mscodex67_wk1	1473941	Ms. Codex 67
+mscodex67_wk1	1473941	Ms. Codex 67
+mscodex69_wk1	1545571	Ms. Codex 69
+mscodex69_wk1	1545571	Ms. Codex 69
+mscodex75_wk1	1545597	Ms. Codex 75
+mscodex75_wk1	1545597	Ms. Codex 75
+mscodex76_wk1	1545598	Ms. Codex 76
+mscodex76_wk1	1545598	Ms. Codex 76
+mscodex77_wk1	1545599	Ms. Codex 77
+mscodex77_wk1	1545599	Ms. Codex 77
+mscodex1261_wk1	1545601	Ms. Codex 1261
+mscodex1261_wk1	1545601	Ms. Codex 1261
+mscodex85_wk1	1551751	Ms. Codex 85
+mscodex85_wk1	1551751	Ms. Codex 85
+mscodex128_wk1	1551752	Ms. Codex 128
+mscodex129_wk1	1551753	Ms. Codex 129
+mscodex129_wk1	1551753	Ms. Codex 129
+mscodex130_wk1	1551754	Ms. Codex 130
+mscodex131_wk1	1551755	Ms. Codex 131
+mscodex134_wk1	1551756	Ms. Codex 134
+mscodex132_wk1	1551757	Ms. Codex 132
+mscodex133_wk1	1551758	Ms. Codex 133
+mscodex135_wk1	1551759	Ms. Codex 135
+mscodex136_wk1	1551760	Ms. Codex 136
+mscodex137_wk1	1551761	Ms. Codex 137
+miscmss_orthodoxeasternchurch_wk1	1551762	Misc Mss
+miscmss_orthodoxeasternchurch_wk1	1551762	Misc Mss
+mscodex138_wk1	1551763	Ms. Codex 138
+mscodex139_wk1	1551764	Ms. Codex 139
+mscodex140_wk1	1551765	Ms. Codex 140
+mscodex142_wk1	1551766	Ms. Codex 142
+mscodex143_wk1	1551767	Ms. Codex 143
+mscodex188_wk1	1551769	Ms. Codex 188
+mscodex188_wk1	1551769	Ms. Codex 188
+mscodex168_wk1	1551770	Ms. Codex 168
+mscodex172_wk1	1551771	Ms. Codex 172
+mscodex180_wk1	1551772	Ms. Codex 180
+mscodex180_wk1	1551772	Ms. Codex 180
+mscodex181_wk1	1551773	Ms. Codex 181
+mscodex182_wk1	1551774	Ms. Codex 182
+mscodex183_wk1	1551775	Ms. Codex 183
+mscodex184_wk1	1551776	Ms. Codex 184
+mscodex184_wk1	1551776	Ms. Codex 184
+mscodex186_wk1	1551777	Ms. Codex 186
+mscodex187_wk1	1551778	Ms. Codex 187
+mscodex189_wk1	1551779	Ms. Codex 189
+mscodex190_wk1	1551780	Ms. Codex 190
+mscodex193_wk1	1551781	Ms. Codex 193
+mscodex196_wk1	1551782	Ms. Codex 196
+mscodex196_wk1	1551782	Ms. Codex 196
+mscodex201_wk1	1551783	Ms. Codex 201
+mscodex201_wk1	1551783	Ms. Codex 201
+mscodex201_wk1	1551783	Ms. Codex 201
+mscodex201_wk1	1551783	Ms. Codex 201
+mscodex63_wk1	1551785	Ms. Codex 63
+mscodex63_wk1	1551785	Ms. Codex 63
+mscodex70_wk1	1551786	Ms. Codex 70
+mscodex73_wk1	1551787	Ms. Codex 73
+mscodex74_wk1	1551788	Ms. Codex 74
+mscodex236_wk1	1551791	Ms. Codex 236
+mscodex236_wk1	1551791	Ms. Codex 236
+mscodex239_wk1	1551792	Ms. Codex 239
+mscodex239_wk1	1551792	Ms. Codex 239
+mscodex190_wk1	1551793	Ms. Codex 190
+mscodex190_wk1_body0087	1551794	Ms. Codex 190
+mscodex190_wk1_body0131	1551795	Ms. Codex 190
+mscodex190_wk1_body0151	1551796	Ms. Codex 190
+mscodex190_wk1_body0171	1551797	Ms. Codex 190
+mscodex190_wk1_body0155	1551798	Ms. Codex 190
+mscodex190_wk1_body0183	1551799	Ms. Codex 190
+mscodex190_wk1_body0215	1551800	Ms. Codex 190
+mscodex190_wk1_body0231	1551801	Ms. Codex 190
+mscodex190_wk1_body0253	1551804	Ms. Codex 190
+mscodex190_wk1_body0291	1551805	Ms. Codex 190
+mscodex190_wk1_body0345	1551807	Ms. Codex 190
+mscodex191_wk1_body0337	1551814	
+mscodex2_wk1	1580104	Ms. Codex 2
+mscodex1_wk1	1580115	Ms. Codex 1
+mscodex4_wk1	1580136	Ms. Codex 4
+mscodex5_wk1	1580147	Ms. Codex 5
+mscodex9_wk1	1580188	Ms. Codex 9
+mscodex11_wk1	1580207	Ms. Codex 11
+mscodex80_wk1	1580388	Ms. Codex 80
+mscodex80_wk1	1580388	Ms. Codex 80
+mscodex81_wk1	1580389	Ms. Codex 81
+mscodex81_wk1	1580389	Ms. Codex 81
+mscodex82_wk1	1580390	Ms. Codex 82
+mscodex83_wk1	1580391	Ms. Codex 83
+mscodex83_wk1	1580391	Ms. Codex 83
+miscmss_ferdinand_wk1	1580392	Misc Mss
+mscodex84_wk1	1580394	Ms. Codex 84
+mscodex84_wk1	1580394	Ms. Codex 84
+mscodex86_wk1	1580395	Ms. Codex 86
+mscodex87_wk1	1580396	Ms. Codex 87
+mscodex87_wk1	1580396	Ms. Codex 87
+mscodex88_wk1	1580397	Ms. Codex 88
+mscodex88_wk1	1580397	Ms. Codex 88
+mscoll85_wk1	1580398	Ms. Coll. 85
+mscoll85_wk1	1580398	Ms. Coll. 85
+mscoll86_wk1	1580399	Ms. Coll. 86
+mscoll86_wk1	1580399	Ms. Coll. 86
+mscoll87_wk1	1580400	Ms. Coll. 792
+mscoll87_wk1	1580400	Ms. Coll. 792
+miscmsslarge_gregoryxi_wk1	1580401	Misc Mss (Large)
+miscmsslarge_gregoryxi_wk1	1580401	Misc Mss (Large)
+mscoll88_wk1	1580404	Ms. Coll. 88
+mscoll88_wk1	1580404	Ms. Coll. 88
+msoversize13_wk1	1580405	Ms. Oversize 13
+mscodex90_wk1_back0008	1580406	Ms. Codex 90
+mscodex90_wk1_back0008	1580406	Ms. Codex 90
+mscodex91_wk1	1580407	Ms. Codex 91
+mscodex91_wk1	1580407	Ms. Codex 91
+mscodex92_wk1	1580408	Ms. Codex 92
+mscoll89_wk1	1580409	Ms. Coll. 89
+mscoll89_wk1	1580409	Ms. Coll. 89
+mscodex93_wk1	1580410	Ms. Codex 93
+mscodex93_wk1	1580410	Ms. Codex 93
+mscodex94_wk1	1580411	Ms. Codex 94
+mscodex94_wk1	1580411	Ms. Codex 94
+mscodex95_wk1	1580412	Ms. Codex 95
+miscmss_joanofaragon_wk1	1580413	Misc Mss
+mscodex96_wk1	1580415	Ms. Codex 96
+mscodex96_wk1	1580415	Ms. Codex 96
+mscodex96_wk1_body0003	1580416	Ms. Codex 96
+mscodex96_wk1_body0007	1580417	Ms. Codex 96
+mscodex96_wk1_body0023	1580418	Ms. Codex 96
+mscodex96_wk1_body0039	1580419	Ms. Codex 96
+mscodex96_wk1_body0053	1580420	Ms. Codex 96
+mscodex96_wk1_body0077	1580421	Ms. Codex 96
+mscodex96_wk1_body0193	1580422	Ms. Codex 96
+mscodex96_wk1_body0201	1580423	Ms. Codex 96
+mscodex96_wk1_body0205	1580424	Ms. Codex 96
+mscodex96_wk1_body0225	1580425	Ms. Codex 96
+mscodex96_wk1_body0233	1580426	Ms. Codex 96
+mscodex96_wk1_body0233	1580427	Ms. Codex 96
+mscodex96_wk1_body0241	1580428	Ms. Codex 96
+mscodex96_wk1_body0240	1580429	Ms. Codex 96
+mscodex96_wk1_body0247	1580430	Ms. Codex 96
+mscodex96_wk1_body0253	1580431	Ms. Codex 96
+mscodex96_wk1_body0259	1580432	Ms. Codex 96
+mscodex96_wk1_body0261	1580433	Ms. Codex 96
+mscodex96_wk1_body0265	1580434	Ms. Codex 96
+mscodex96_wk1_body0289	1580435	Ms. Codex 96
+mscodex96_wk1_body0309	1580436	Ms. Codex 96
+mscodex96_wk1_body0311	1580437	Ms. Codex 96
+mscodex96_wk1_body0312	1580438	Ms. Codex 96
+mscodex96_wk1_body0311	1580439	Ms. Codex 96
+mscodex97_wk1	1580440	Ms. Codex 97
+mscodex97_wk1	1580440	Ms. Codex 97
+mscodex98_wk1	1580441	Ms. Codex 98
+mscodex98_wk1	1580441	Ms. Codex 98
+mscodex99_wk1	1580442	Ms. Codex 99
+mscodex102_wk1	1580443	Ms. Codex 102
+mscodex102_wk1	1580443	Ms. Codex 102
+mscodex101_wk1_back0004	1580444	Ms. Codex 101
+mscodex103_wk1	1580445	Ms. Codex 103
+mscodex103_wk1	1580445	Ms. Codex 103
+mscodex104_wk1	1580446	Ms. Codex 104
+mscodex104_wk1	1580446	Ms. Codex 104
+mscodex105_wk1	1580447	Ms. Codex 105
+mscodex105_wk1	1580447	Ms. Codex 105
+mscodex106_wk1	1580448	Ms. Codex 106
+mscodex106_wk1	1580448	Ms. Codex 106
+mscodex107_wk1	1580449	Ms. Codex 107
+mscodex107_wk1	1580449	Ms. Codex 107
+mscodex108_wk1	1580450	Ms. Codex 108
+mscodex108_wk1	1580450	Ms. Codex 108
+mscodex0109_wk1	1580451	Ms. Codex 109
+mscodex0109_wk1	1580451	Ms. Codex 109
+mscodex110_wk1	1580452	Ms. Codex 110
+mscodex110_wk1	1580453	Ms. Codex 110
+mscodex110_wk1_body0019	1580454	Ms. Codex 110
+mscodex110_wk1_body0025	1580455	Ms. Codex 110
+mscodex110_wk1_body0083	1580456	Ms. Codex 110
+mscodex111_wk1	1580457	Ms. Codex 111
+mscodex112_wk1	1580493	Ms. Codex 112
+mscodex112_wk1	1580493	Ms. Codex 112
+mscodex113_wk1	1580511	Ms. Codex 113
+mscodex113_wk1	1580511	Ms. Codex 113
+mscodex114_wk1	1580512	Ms. Codex 114
+mscodex115_wk1	1580513	Ms. Codex 115
+mscodex115_wk1	1580513	Ms. Codex 115
+mscodex116_wk1	1580514	Ms. Codex 116
+mscodex117_wk1	1580515	Ms. Codex 117
+mscodex118_wk1	1580516	Ms. Codex 118
+mscodex119_wk1	1580535	Ms. Codex 119
+mscodex120_wk1	1580536	Ms. Codex 120
+mscodex121_wk1	1580537	Ms. Codex 121
+mscodex122_wk1	1580538	Ms. Codex 122
+mscodex123_wk1	1580539	Ms. Codex 123
+mscodex124_wk1	1580540	Ms. Codex 124
+mscodex124_wk1	1580540	Ms. Codex 124
+mscodex125_wk1	1580541	Ms. Codex 125
+mscodex126_wk1	1580542	Ms. Codex 126
+mscodex126_wk1	1580542	Ms. Codex 126
+mscodex127_wk1	1580543	Ms. Codex 127
+mscodex144_wk1	1580550	Ms. Codex 144
+mscodex144_wk1	1580550	Ms. Codex 144
+mscodex145_wk1	1580551	Ms. Codex 145
+mscoll104_wk1	1580552	Ms. Coll. 104
+mscodex156_wk1	1580553	Ms. Codex 156
+mscodex146_wk1	1580554	Ms. Codex 146
+mscodex146_wk1	1580554	Ms. Codex 146
+mscodex150_wk1	1580555	Ms. Codex 150
+mscodex150_wk1	1580555	Ms. Codex 150
+mscodex147_wk1	1580556	Ms. Codex 147
+mscodex147_wk1	1580556	Ms. Codex 147
+mscodex148_wk1	1580557	Ms. Codex 148
+mscodex148_wk1	1580557	Ms. Codex 148
+mscodex149_wk1	1580558	Ms. Codex 149
+mscodex149_wk1	1580558	Ms. Codex 149
+mscoll105_wk1	1580559	Ms. Coll. 105
+mscoll106_wk1	1580560	Ms. Coll. 106
+mscodex151_wk1	1580561	Ms. Codex 151
+mscodex151_wk1	1580561	Ms. Codex 151
+mscoll270_wk1	1580563	Ms. Coll. 270
+mscodex153_wk1	1580564	Ms. Codex 153
+mscodex153_wk1	1580564	Ms. Codex 153
+mscodex154_wk1	1580565	Ms. Codex 154
+mscodex155_wk1	1580566	Ms. Codex 155
+mscodex157_wk1	1580567	Ms. Codex 157
+mscodex158_wk1	1580568	Ms. Codex 158
+mscodex159_wk1	1580569	Ms. Codex 159
+mscodex160_wk1	1580570	Ms. Codex 160
+mscodex161_wk1	1580571	Ms. Codex 161
+mscodex161_wk1	1580571	Ms. Codex 161
+mscodex162_wk1	1580572	Ms. Codex 162
+mscodex162_wk1	1580572	Ms. Codex 162
+mscodex163_wk1	1580573	Ms. Codex 163
+mscodex163_wk1	1580573	Ms. Codex 163
+mscodex164_wk1	1580574	Ms. Codex 164
+mscodex165_wk1	1580575	Ms. Codex 165
+mscodex192_wk1	1580578	Ms. Codex 192
+mscodex185_wk1	1580579	Ms. Codex 185
+mscodex174_wk1	1580580	Ms. Codex 174
+mscodex173_wk1	1580581	Ms. Codex 173
+mscodex170_wk1	1580582	Ms. Codex 170
+mscodex167_wk1	1580585	Ms. Codex 167
+mscodex175_wk1	1580589	Ms. Codex 175
+mscodex176_wk1	1580590	Ms. Codex 176
+mscodex177_wk1	1580591	Ms. Codex 177
+mscodex178_wk1	1580592	Ms. Codex 178
+mscodex179_wk1	1580593	Ms. Codex 179
+mscodex191_wk1	1580594	Ms. Codex 191
+mscodex191_wk1	1580594	Ms. Codex 191
+mscodex197_wk1	1580595	Ms. Codex 197
+mscodex197_wk1	1580595	Ms. Codex 197
+mscodex199_wk1	1580596	Ms. Codex 199
+mscodex203_wk1	1580597	Ms. Codex 203
+mscodex204_wk1	1580598	Ms. Codex 204
+mscodex211_wk1	1580599	Ms. Codex 211
+mscodex240_wk1	1580600	Ms. Codex 240
+mscodex215_wk1	1580601	Ms. Codex 215
+mscodex224_wk1	1580604	Ms. Codex 224
+mscodex226_wk1	1580606	Ms. Codex 226
+mscodex227_wk1	1580607	Ms. Codex 227
+mscodex229_wk1	1580609	Ms. Codex 229
+mscodex230_wk1	1580611	Ms. Codex 230
+mscodex232_wk1	1580612	Ms. Codex 232
+mscodex233_wk1	1580613	Ms. Codex 233
+mscodex61_wk1	1580615	Ms. Codex 61
+mscodex61_wk1	1580615	Ms. Codex 61
+mscodex62_wk1	1580617	Ms. Codex 62
+mscodex62_wk1	1580617	Ms. Codex 62
+mscodex68_wk1	1580618	Ms. Codex 68
+mscodex68_wk1	1580618	Ms. Codex 68
+mscodex71_wk1	1580619	Ms. Codex 71
+mscodex72_wk1	1580620	Ms. Codex 72
+mscodex72_wk1	1580620	Ms. Codex 72
+mscodex78_wk1	1580622	Ms. Codex 78
+mscodex78_wk1	1580623	Ms. Codex 78
+mscodex78_wk1_body0069	1580624	Ms. Codex 78
+mscodex78_wk1_body0127	1580625	Ms. Codex 78
+mscodex78_wk1_body0309	1580626	Ms. Codex 78
+mscodex78_wk1_body0347	1580627	Ms. Codex 78
+mscodex78_wk1_body0351	1580628	Ms. Codex 78
+mscodex79_wk1	1580629	Ms. Codex 79
+mscodex79_wk1	1580629	Ms. Codex 79
+mscodex216_wk1	1580638	Ms. Codex 216
+mscodex235_wk1	1580742	Ms. Codex 235
+folio_inc_p762_wk1	1580838	Folio Inc P-762
+mscodex251_wk1	1580839	Ms. Codex 251
+mscodex252_wk1	1580840	Ms. Codex 252
+mscodex241_wk1	1580841	Ms. Codex 241
+mscodex241_wk1	1580841	Ms. Codex 241
+mscodex242_wk1	1580849	Ms. Codex 242
+mscodex242_wk1	1580849	Ms. Codex 242
+mscodex243_wk1	1580850	Ms. Codex 243
+mscodex243_wk1	1580850	Ms. Codex 243
+mscodex244_wk1	1580854	Ms. Codex 244
+mscodex244_wk1	1580854	Ms. Codex 244
+mscodex191_wk1_body0111	1580856	
+mscodex249_wk1	1580858	Ms. Codex 249
+mscodex249_wk1	1580858	Ms. Codex 249
+mscodex248_wk1	1580859	Ms. Codex 248
+mscodex250_wk1	1580860	Ms. Codex 250
+mscodex235_wk1	1580861	Ms. Codex 253
+mscodex254_wk1	1580862	Ms. Codex 254
+mscodex254_wk1	1580862	Ms. Codex 254
+mscodex255_wk1	1580863	Ms. Codex 255
+mscodex256_wk1	1580871	Ms. Codex 256
+mscodex256_wk1	1580871	Ms. Codex 256
+mscodex257_wk1	1580872	Ms. Codex 257
+mscodex258_wk1	1580873	Ms. Codex 258
+mscodex258_wk1	1580873	Ms. Codex 258
+mscodex259_wk1	1580874	Ms. Codex 259
+mscodex260_wk1	1580875	Ms. Codex 260
+mscodex260_wk1	1580875	Ms. Codex 260
+mscodex261_wk1	1580876	Ms. Codex 261
+mscodex262_wk1	1580877	Ms. Codex 262
+mscodex264_wk1	1580878	Ms. Codex 264
+mscodex265_wk1	1580879	Ms. Codex 265
+mscodex266_wk1	1580880	Ms. Codex 266
+mscodex266_wk1	1580880	Ms. Codex 266
+mscodex267_wk1	1580881	Ms. Codex 267
+mscodex269_wk1	1580882	Ms. Codex 269
+mscodex270_wk1	1580883	Ms. Codex 270
+mscodex270_wk1	1580883	Ms. Codex 270
+mscodex272_wk1	1580884	Ms. Codex 272
+mscodex272_wk1	1580884	Ms. Codex 272
+mscodex271_wk1	1580885	Ms. Codex 271
+mscodex271_wk1	1580885	Ms. Codex 271
+mscodex274_wk1	1580886	Ms. Codex 274
+mscodex274_wk1	1580886	Ms. Codex 274
+mscodex275_wk1	1580887	Ms. Codex 275
+mscodex276_wk1	1580888	Ms. Codex 276
+mscodex277_wk1	1580889	Ms. Codex 277
+mscodex278_wk1	1580890	Ms. Codex 278
+mscodex279_wk1	1580891	Ms. Codex 279
+mscodex280_wk1	1580892	Ms. Codex 280
+mscodex281_wk1	1580893	Ms. Codex 281
+mscodex281_wk1	1580893	Ms. Codex 281
+mscodex282_wk1	1580894	Ms. Codex 282
+mscodex283_wk1	1580895	Ms. Codex 283
+mscodex284_wk1	1580896	Ms. Codex 284
+mscodex285_wk1	1580897	Ms. Codex 285
+mscodex286_wk1	1580898	Ms. Codex 286
+mscodex288_wk1	1580899	Ms. Codex 288
+mscodex289_wk1	1580900	Ms. Codex 289
+mscodex289_wk1	1580900	Ms. Codex 289
+mscodex290_wk1	1580901	Ms. Codex 290
+mscodex290_wk1	1580901	Ms. Codex 290
+mscodex291_wk1	1580902	Ms. Codex 291
+mscodex291_wk1	1580902	Ms. Codex 291
+mscodex292_wk1	1580904	Ms. Codex 292
+mscodex293_wk1	1580905	Ms. Codex 293
+mscodex294_wk1	1580906	Ms. Codex 294
+mscodex295_wk1	1580907	Ms. Codex 295
+mscodex302_wk1	1580908	Ms. Codex 302
+mscodex301_wk1	1580909	Ms. Codex 301
+mscodex303_wk1	1580911	Ms. Codex 303
+mscodex303_wk1	1580911	Ms. Codex 303
+mscodex296_wk1	1580912	Ms. Codex 296
+mscodex298_wk1	1580913	Ms. Codex 298
+mscodex299_wk1	1580914	Ms. Codex 299
+mscodex297_wk1	1580915	Ms. Codex 297
+mscodex304_wk1	1580916	Ms. Codex 304
+mscodex305_wk1	1580918	Ms. Codex 305
+mscodex307_wk1	1580920	Ms. Codex 307
+mscodex320_wk1	1580921	Ms. Codex 320
+mscodex320_wk1	1580921	Ms. Codex 320
+mscodex321_wk1	1580922	Ms. Codex 321
+mscodex322_wk1	1580923	Ms. Codex 322
+mscodex323_wk1	1580924	Ms. Codex 323
+mscodex323_wk1	1580924	Ms. Codex 323
+mscodex308_wk1	1580925	Ms. Codex 308
+mscodex309_wk1	1580926	Ms. Codex 309
+mscodex310_wk1	1580927	Ms. Codex 310
+mscodex311_wk1	1580928	Ms. Codex 311
+mscodex311_wk1	1580928	Ms. Codex 311
+mscodex311_wk1	1580928	Ms. Codex 311
+mscodex312_wk1	1580929	Ms. Codex 312
+mscodex312_wk1	1580929	Ms. Codex 312
+mscodex312_wk1	1580929	Ms. Codex 312
+mscodex331_wk1	1580930	Ms. Codex 331
+mscodex331_wk1	1580930	Ms. Codex 331
+mscodex318_wk1	1580931	Ms. Codex 318
+mscodex318_wk1	1580931	Ms. Codex 318
+mscodex500_wk1	1580932	Ms. Codex 500
+mscodex501_wk1	1580933	Ms. Codex 501
+mscodex502_wk1	1580934	Ms. Codex 502
+mscodex503_wk1	1580935	Ms. Codex 503
+mscodex314_wk1	1580936	Ms. Codex 314
+mscodex314_wk1	1580936	Ms. Codex 314
+mscodex315_wk1	1580937	Ms. Codex 315
+mscodex315_wk1	1580937	Ms. Codex 315
+mscodex315_wk1	1580937	Ms. Codex 315
+mscodex504_wk1	1580938	Ms. Codex 504
+mscodex316_wk1	1580939	Ms. Codex 316
+mscodex317_wk1	1580940	Ms. Codex 317
+mscodex317_wk1	1580940	Ms. Codex 317
+mscodex319_wk1	1580941	Ms. Codex 319
+mscodex319_wk1	1580941	Ms. Codex 319
+mscodex505_wk1	1580942	Ms. Codex 505
+mscodex506_wk1	1580943	Ms. Codex 506
+mscodex507_wk1	1580944	Ms. Codex 507
+mscodex508_wk1	1580945	Ms. Codex 508
+mscodex509_wk1	1580946	Ms. Codex 509
+mscodex333_wk1	1580947	Ms. Codex 333
+mscoll168_wk1	1580948	Ms. Coll. 168
+mscodex325_wk1	1580949	Ms. Codex 325
+mscodex324_wk1	1580950	Ms. Codex 324
+mscodex510_wk1	1580951	Ms. Codex 510
+mscodex326_wk1	1580952	Ms. Codex 326
+mscodex511_wk1	1580953	Ms. Codex 511
+mscodex512_wk1	1580954	Ms. Codex 512
+mscodex327_wk1	1580955	Ms. Codex 327
+mscodex328_wk1	1580956	Ms. Codex 328
+mscodex330_wk1	1580957	Ms. Codex 330
+mscodex513_wk1	1580958	Ms. Codex 513
+mscodex329_wk1	1580959	Ms. Codex 329
+mscodex332_wk1	1580960	Ms. Codex 332
+mscodex514_wk1	1580961	Ms. Codex 514
+mscodex515_wk1	1580962	Ms. Codex 515
+mscodex334_wk1	1580963	Ms. Codex 334
+mscodex334_wk1	1580963	Ms. Codex 334
+mscodex335_wk1	1580964	Ms. Codex 335
+mscodex335_wk1	1580964	Ms. Codex 335
+mscodex336_wk1	1580965	Ms. Codex 336
+mscodex337_wk1	1580966	Ms. Codex 337
+mscodex338_wk1	1580968	Ms. Codex 338
+mscodex339_wk1	1580969	Ms. Codex 339
+mscodex516_wk1	1580970	Ms. Codex 516
+mscodex340_wk1	1580971	Ms. Codex 340
+mscodex340_wk1	1580971	Ms. Codex 340
+mscodex341_wk1	1580973	Ms. Codex 341
+mscodex343_wk1	1580975	Ms. Codex 343
+mscodex344_wk1	1580976	Ms. Codex 344
+mscodex344_wk1	1580976	Ms. Codex 344
+mscodex518_wk1	1580977	Ms. Codex 518
+n6923_b9_g5_1564_wk1	1580979	N6923.B9 G5 1564
+mscodex519_wk1	1580980	Ms. Codex 519
+mscodex345_wk1	1580981	Ms. Codex 345
+mscodex346_wk1_back0002	1580982	Ms. Codex 346
+mscodex347_wk1	1580983	Ms. Codex 347
+mscodex355_wk1	1580984	Ms. Codex 355
+mscodex348_wk1	1580985	Ms. Codex 348
+mscodex351_wk1	1580986	Ms. Codex 351
+mscodex349_wk1	1580987	Ms. Codex 349
+mscodex350_wk1	1580988	Ms. Codex 350
+mscodex350_wk1	1580988	Ms. Codex 350
+mscodex521_wk1	1580991	Ms. Codex 521
+mscoll790_wk1	1580992	Ms. Coll. 790
+mscodex352_wk1	1580993	Ms. Codex 352
+mscodex352_wk1	1580993	Ms. Codex 352
+mscodex353_wk1	1580994	Ms. Codex 353
+mscodex353_wk1	1580994	Ms. Codex 353
+mscodex356_wk1	1580995	Ms. Codex 356
+mscodex357_wk1	1580996	Ms. Codex 357
+mscodex358_wk1	1580997	Ms. Codex 358
+mscodex359_wk1	1580998	Ms. Codex 359
+mscodex359_wk1	1580998	Ms. Codex 359
+mscodex360_wk1	1581000	Ms. Codex 360
+mscodex361_wk1	1581001	Ms. Codex 361
+mscodex361_wk1	1581001	Ms. Codex 361
+mscodex362_wk1	1581002	Ms. Codex 362
+mscodex522_wk1	1581003	Ms. Codex 522
+mscodex363_wk1	1581005	Ms. Codex 363
+mscodex363_wk1	1581005	Ms. Codex 363
+mscodex364_wk1	1581006	Ms. Codex 364
+mscodex365_wk1	1581008	Ms. Codex 365
+mscodex366_wk1	1581009	Ms. Codex 366
+mscodex366_wk1	1581009	Ms. Codex 366
+mscodex367_wk1	1581014	Ms. Codex 367
+mscodex375_wk1	1581081	Ms. Codex 375
+mscodex473_wk1	1581082	Ms. Codex 473
+mscodex376_wk1	1581084	Ms. Codex 376
+mscodex479_wk1	1581085	Ms. Codex 479
+mscodex482_wk1	1581086	Ms. Codex 482
+mscodex483_wk1	1581087	Ms. Codex 483
+mscodex485_wk1	1581088	Ms. Codex 485
+mscodex377_wk1	1581089	Ms. Codex 377
+mscodex486_wk1	1581090	Ms. Codex 486
+mscodex487_wk1	1581091	Ms. Codex 487
+mscodex490_wk1	1581095	Ms. Codex 490
+mscodex492_wk1	1581096	Ms. Codex 492
+mscodex378_wk1	1581098	Ms. Codex 378
+mscodex497_wk1	1581100	Ms. Codex 497
+mscodex498_wk1	1581101	Ms. Codex 498
+mscodex498_wk1	1581101	Ms. Codex 498
+mscodex379_wk1	1581102	Ms. Codex 379
+mscodex380_wk1	1581103	Ms. Codex 380
+mscodex381_wk1	1581105	Ms. Codex 381
+mscodex382_wk1	1581106	Ms. Codex 382
+mscodex383_wk1	1581107	Ms. Codex 383
+mscodex387_wk1	1581109	Ms. Codex 387
+mscodex389_wk1	1581116	Ms. Codex 389
+mscodex394_wk1	1581167	Ms. Codex 394
+mscodex395_wk1	1581176	Ms. Codex 395
+mscodex395_wk1	1581176	Ms. Codex 395
+mscodex402_wk1	1581177	Ms. Codex 402
+mscodex403_wk1	1581178	Ms. Codex 403
+mscodex405_wk1	1581179	Ms. Codex 405
+mscodex406_wk1	1581180	Ms. Codex 406
+mscodex408_wk1	1581182	Ms. Codex 408
+mscodex409_wk1	1581183	Ms. Codex 409
+mscodex410_wk1	1581184	Ms. Codex 410
+mscodex411_wk1	1581185	Ms. Codex 411
+mscodex412_wk1	1581186	Ms. Codex 412
+mscodex428_wk1	1581187	Ms. Codex 428
+mscodex433_wk1	1581188	Ms. Codex 433
+mscodex373_wk1	1581189	Ms. Codex 373
+mscodex374_wk1	1581190	Ms. Codex 374
+mscodex491_wk1	2356152	Ms. Codex 491
+mscodex616_wk1	2356874	Ms. Codex 616
+mscodex617_wk1	2356875	Ms. Codex 617
+mscodex618_wk1	2356876	Ms. Codex 618
+mscodex619_wk1	2357621	Ms. Codex 619
+mscodex620_wk1	2357628	Ms. Codex 620
+mscodex620_wk1	2357628	Ms. Codex 620
+mscodex526_wk1	2357699	Ms. Codex 526
+mscodex626_wk1	2362740	Ms. Codex 626
+mscodex627_wk1	2362746	Ms. Codex 627
+mscodex205_wk1	2362772	Ms. Codex 205
+mscodex214_wk1	2362773	Ms. Codex 214
+mscodex388_wk1	2362774	Ms. Codex 388
+mscodex629_wk1	2362777	Ms. Codex 629
+mscodex630_wk1	2362902	Ms. Codex 630
+mscodex631_wk1	2362947	Ms. Codex 631
+mscodex632_wk1	2363083	Ms. Codex 632
+mscodex635_wk1	2363154	Ms. Codex 635
+mscodex636_wk1	2363199	Ms. Codex 636
+mscodex623_wk1	2363259	Ms. Codex 623
+mscodex624_wk1	2363299	Ms. Codex 624
+mscodex625_wk1	2363300	Ms. Codex 625
+mscodex637_wk1	2369328	Ms. Codex 637
+mscodex640_wk1	2374092	Ms. Codex 640
+mscodex100_wk1	2486426	Ms. Codex 100
+mscodex198_wk1	2486428	Ms. Codex 198
+mscodex198_wk1	2486428	Ms. Codex 198
+mscodex200_wk1	2486429	Ms. Codex 200
+mscodex202_wk1	2486430	Ms. Codex 202
+mscodex206_wk1	2486432	Ms. Codex 206
+mscodex207_wk1	2486433	Ms. Codex 207
+mscodex208_wk1	2486434	Ms. Codex 208
+mscodex210_wk1	2486436	Ms. Codex 210
+mscodex212_wk1	2486437	Ms. Codex 212
+mscodex217_wk1	2486440	Ms. Codex 217
+mscodex218_wk1	2486441	Ms. Codex 218
+mscodex218_wk1	2486441	Ms. Codex 218
+mscodex219_wk1	2486442	Ms. Codex 219
+mscodex47_wk1	2486445	Ms. Codex 47
+mscodex48_wk1	2486446	Ms. Codex 48
+mscodex246_wk1	2486447	Ms. Codex 246
+mscodex247_wk1	2486448	Ms. Codex 247
+mscodex263_wk1	2486449	Ms. Codex 263
+mscodex273_wk1	2486451	Ms. Codex 273
+mscodex273_wk1	2486451	Ms. Codex 273
+mscodex287_wk1	2486452	Ms. Codex 287
+mscodex313_wk1	2486453	Ms. Codex 313
+mscodex313_wk1	2486453	Ms. Codex 313
+mscodex313_wk1	2486453	Ms. Codex 313
+mscodex354_wk1	2486454	Ms. Codex 354
+mscodex525_wk1	2486456	Ms. Codex 525
+mscodex368_wk1	2486458	Ms. Codex 368
+mscodex466_wk1	2486459	Ms. Codex 466
+mscodex467_wk1	2486460	Ms. Codex 467
+mscodex468_wk1	2486461	Ms. Codex 468
+mscodex469_wk1	2486462	Ms. Codex 469
+mscodex470_wk1	2486463	Ms. Codex 470
+mscodex472_wk1	2486466	Ms. Codex 472
+mscodex476_wk1	2486468	Ms. Codex 476
+mscodex477_wk1	2486469	Ms. Codex 477
+mscodex478_wk1	2486470	Ms. Codex 478
+mscodex480_wk1	2486471	Ms. Codex 480
+mscodex481_wk1	2486472	Ms. Codex 481
+mscodex484_wk1	2486473	Ms. Codex 484
+mscodex493_wk1	2486474	Ms. Codex 493
+mscodex496_wk1	2486475	Ms. Codex 496
+mscodex531_wk1	2486476	Ms. Codex 531
+mscodex615_wk1	2486477	Ms. Codex 615
+mscodex615_wk1	2486477	Ms. Codex 615
+mscodex499_wk1	2486478	Ms. Codex 499
+mscodex527_wk1	2486479	Ms. Codex 527
+mscodex528_wk1	2486480	Ms. Codex 528
+mscodex529_wk1	2486481	Ms. Codex 529
+mscodex530_wk1	2486482	Ms. Codex 530
+mscodex539_wk1	2486483	Ms. Codex 539
+mscodex540_wk1	2486485	Ms. Codex 540
+mscodex533_wk1	2486487	Ms. Codex 533
+mscodex534_wk1	2486488	Ms. Codex 534
+mscodex535_wk1	2486489	Ms. Codex 535
+mscodex536_wk1	2486491	Ms. Codex 536
+mscodex537_wk1	2486492	Ms. Codex 537
+mscodex538_wk1	2486493	Ms. Codex 538
+mscodex541_wk1	2486494	Ms. Codex 541
+mscodex542_wk1	2486495	Ms. Codex 542
+mscodex543_wk1	2486496	Ms. Codex 543
+mscodex544_wk1	2486497	Ms. Codex 544
+mscodex545_wk1	2486498	Ms. Codex 545
+mscodex546_wk1	2486499	Ms. Codex 546
+mscodex547_wk1	2486500	Ms. Codex 547
+mscodex547_wk1	2486500	Ms. Codex 547
+mscodex548_wk1	2486501	Ms. Codex 548
+mscodex549_wk1	2486502	Ms. Codex 549
+mscodex550_wk1	2486503	Ms. Codex 550
+mscodex552_wk1	2486505	Ms. Codex 552
+mscodex553_wk1	2486506	Ms. Codex 553
+mscodex555_wk1	2486508	Ms. Codex 555
+mscodex555_wk1	2486508	Ms. Codex 555
+mscodex556_wk1	2486509	Ms. Codex 556
+mscodex557_wk1	2486510	Ms. Codex 557
+mscodex558_wk1	2486511	Ms. Codex 558
+mscodex559_wk1	2486512	Ms. Codex 559
+mscodex560_wk1	2486513	Ms. Codex 560
+mscodex561_wk1	2486514	Ms. Codex 561
+mscodex562_wk1	2486515	Ms. Codex 562
+mscodex562_wk1	2486515	Ms. Codex 562
+mscodex563_wk1	2486516	Ms. Codex 563
+mscodex564_wk1	2486517	Ms. Codex 564
+mscodex564_wk1	2486517	Ms. Codex 564
+mscodex566_wk1	2486519	Ms. Codex 566
+mscodex567_wk1	2486520	Ms. Codex 567
+mscodex614_wk1	2486522	Ms. Codex 614
+mscodex614_wk1	2486522	Ms. Codex 614
+mscodex568_wk1	2486523	Ms. Codex 568
+mscodex568_wk1	2486523	Ms. Codex 568
+mscodex570_wk1	2486525	Ms. Codex 570
+mscodex571_wk1	2486526	Ms. Codex 571
+mscodex572_wk1	2486527	Ms. Codex 572
+mscodex573_wk1	2486528	Ms. Codex 573
+mscodex574_wk1	2486529	Ms. Codex 574
+mscodex575_wk1	2486530	Ms. Codex 575
+mscodex576_wk1	2486531	Ms. Codex 576
+mscodex577_wk1	2486532	Ms. Codex 577
+mscodex579_wk1	2486533	Ms. Codex 579
+mscodex580_wk1	2486534	Ms. Codex 580
+mscodex384_wk1	2486535	Ms. Codex 384
+mscodex581_wk1	2486536	Ms. Codex 581
+mscodex582_wk1	2486537	Ms. Codex 582
+mscodex583_wk1	2486538	Ms. Codex 583
+mscodex584_wk1	2486539	Ms. Codex 584
+mscodex585_wk1	2486540	Ms. Codex 585
+mscodex586_wk1	2486541	Ms. Codex 586
+mscodex587_wk1	2486542	Ms. Codex 587
+mscodex588_wk1	2486543	Ms. Codex 588
+mscodex589_wk1	2486544	Ms. Codex 589
+mscodex590_wk1	2486545	Ms. Codex 590
+mscodex385_wk1	2486546	Ms. Codex 385
+mscodex591_wk1	2486547	Ms. Codex 591
+mscodex593_wk1	2486548	Ms. Codex 593
+mscodex594_wk1	2486549	Ms. Codex 594
+mscodex592_wk1	2486550	Ms. Codex 592
+mscodex595_wk1	2486551	Ms. Codex 595
+mscodex596_wk1	2486552	Ms. Codex 596
+mscodex597_wk1	2486553	Ms. Codex 597
+mscodex598_wk1	2486554	Ms. Codex 598
+mscodex600_wk1	2486556	Ms. Codex 600
+mscodex601_wk1	2486558	Ms. Codex 601
+mscodex602_wk1	2486559	Ms. Codex 602
+mscodex604_wk1	2486561	Ms. Codex 604
+mscodex605_wk1	2486562	Ms. Codex 605
+mscodex606_wk1	2486563	Ms. Codex 606
+mscodex608_wk1	2486564	Ms. Codex 608
+mscodex607_wk1	2486565	Ms. Codex 607
+mscodex609_wk1	2486566	Ms. Codex 609
+mscodex610_wk1	2486567	Ms. Codex 610
+mscodex611_wk1	2486568	Ms. Codex 611
+mscodex612_wk1	2486569	Ms. Codex 612
+mscodex613_wk1	2486570	Ms. Codex 613
+mscodex390_wk1	2486571	Ms. Codex 390
+mscodex391_wk1	2486572	Ms. Codex 391
+mscodex392_wk1	2486573	Ms. Codex 392
+mscodex396_wk1	2486575	Ms. Codex 396
+mscodex397_wk1	2486576	Ms. Codex 397
+mscodex397_wk1	2486576	Ms. Codex 397
+mscodex398_wk1	2486577	Ms. Codex 398
+mscodex399_wk1	2486578	Ms. Codex 399
+mscodex400_wk1	2486579	Ms. Codex 400
+mscodex401_wk1	2486580	Ms. Codex 401
+mscodex404_wk1	2486581	Ms. Codex 404
+mscodex369_wk1	2486582	Ms. Codex 369
+mscodex369_wk1	2486582	Ms. Codex 369
+mscodex413_wk1	2486583	Ms. Codex 413
+mscodex414_wk1	2486584	Ms. Codex 414
+mscodex415_wk1	2486585	Ms. Codex 415
+mscodex370_wk1	2486586	Ms. Codex 370
+mscodex416_wk1	2486587	Ms. Codex 416
+mscodex417_wk1	2486588	Ms. Codex 417
+mscodex418_wk1	2486589	Ms. Codex 418
+mscodex419_wk1	2486590	Ms. Codex 419
+mscodex420_wk1	2486591	Ms. Codex 420
+mscodex421_wk1	2486592	Ms. Codex 421
+mscodex422_wk1	2486593	Ms. Codex 422
+mscodex423_wk1	2486594	Ms. Codex 423
+mscodex424_wk1	2486595	Ms. Codex 424
+mscodex425_wk1	2486596	Ms. Codex 425
+mscodex371_wk1	2486597	Ms. Codex 371
+mscodex426_wk1	2486598	Ms. Codex 426
+mscodex427_wk1	2486599	Ms. Codex 427
+mscodex429_wk1	2486600	Ms. Codex 429
+mscodex430_wk1	2486601	Ms. Codex 430
+mscodex431_wk1	2486602	Ms. Codex 431
+mscodex432_wk1	2486603	Ms. Codex 432
+mscodex434_wk1	2486604	Ms. Codex 434
+mscodex434_wk1	2486604	Ms. Codex 434
+mscodex434_wk1	2486604	Ms. Codex 434
+mscodex434_wk1	2486604	Ms. Codex 434
+mscodex435_wk1	2486605	Ms. Codex 435
+mscodex436_wk1	2486607	Ms. Codex 436
+mscodex437_wk1	2486608	Ms. Codex 437
+mscodex438_wk1	2486609	Ms. Codex 438
+mscodex439_wk1	2486610	Ms. Codex 439
+mscodex440_wk1	2486611	Ms. Codex 440
+mscodex441_wk1	2486612	Ms. Codex 441
+mscodex442_wk1	2486613	Ms. Codex 442
+mscodex444_wk1	2486615	Ms. Codex 444
+mscodex445_wk1	2486616	Ms. Codex 445
+mscodex446_wk1	2486617	Ms. Codex 446
+mscodex448_wk1	2486619	Ms. Codex 448
+mscodex449_wk1	2486620	Ms. Codex 449
+mscodex450_wk1	2486621	Ms. Codex 450
+mscodex451_wk1	2486622	Ms. Codex 451
+mscodex453_wk1	2486624	Ms. Codex 453
+mscodex454_wk1	2486625	Ms. Codex 454
+mscodex456_wk1	2486627	Ms. Codex 456
+mscodex457_wk1	2486628	Ms. Codex 457
+mscodex458_wk1	2486629	Ms. Codex 458
+mscodex459_wk1	2486630	Ms. Codex 459
+mscodex460_wk1	2486631	Ms. Codex 460
+mscodex461_wk1	2486632	Ms. Codex 461
+mscodex461_wk1	2486632	Ms. Codex 461
+mscodex462_wk1	2486633	Ms. Codex 462
+mscodex462_wk1	2486633	Ms. Codex 462
+mscodex463_wk1	2486634	Ms. Codex 463
+mscodex464_wk1	2486635	Ms. Codex 464
+mscodex465_wk1	2486636	Ms. Codex 465
+mscoll197_wk1	2486637	Ms. Coll. 197
+mscoll197_wk1	2486637	Ms. Coll. 197
+mscodex621_wk1	2486638	Ms. Codex 621
+mscodex621_wk1	2486638	Ms. Codex 621
+mscodex622_wk1	2486639	Ms. Codex 622
+mscodex622_wk1	2486639	Ms. Codex 622
+mscodex641_wk1	2486680	Ms. Codex 641
+mscodex642_wk1	2486714	Ms. Codex 642
+mscodex643_wk1	2487039	Ms. Codex 643
+mscodex643_wk1	2487039	Ms. Codex 643
+mscodex644_wk1	2487336	Ms. Codex 644
+mscodex646_wk1	2487338	Ms. Codex 646
+mscodex647_wk1	2487394	Ms. Codex 647
+mscodex650_wk1	2487432	Ms. Codex 650
+mscodex650_wk1	2487432	Ms. Codex 650
+mscodex653_wk1	2487439	Ms. Codex 653
+mscodex654_wk1	2487440	Ms. Codex 654
+mscodex655_wk1	2487441	Ms. Codex 655
+mscodex655_wk1	2487441	Ms. Codex 655
+mscodex656_wk1	2487442	Ms. Codex 656
+mscodex657_wk1	2487443	Ms. Codex 657
+mscodex658_wk1	2487444	Ms. Codex 658
+mscodex658_wk1	2487444	Ms. Codex 658
+mscodex659_wk1	2487445	Ms. Codex 659
+mscodex659_wk1	2487445	Ms. Codex 659
+mscodex660_wk1	2487446	Ms. Codex 660
+mscodex660_wk1	2487446	Ms. Codex 660
+mscodex661_wk1	2487447	Ms. Codex 661
+mscodex662_wk1	2487448	Ms. Codex 662
+mscodex662_wk1	2487448	Ms. Codex 662
+mscodex663_wk1	2487449	Ms. Codex 663
+mscodex664_wk1	2487450	Ms. Codex 664
+mscodex665_wk1	2487451	Ms. Codex 665
+mscodex665_wk1	2487451	Ms. Codex 665
+mscodex666_wk1	2487452	Ms. Codex 666
+mscodex667_wk1	2487453	Ms. Codex 667
+mscodex668_wk1	2487454	Ms. Codex 668
+mscodex669_wk1	2487455	Ms. Codex 669
+mscodex670_wk1	2487456	Ms. Codex 670
+mscodex671_wk1	2487457	Ms. Codex 671
+mscodex672_wk1	2487458	Ms. Codex 672
+mscodex673_wk1	2487459	Ms. Codex 673
+mscodex674_wk1	2487460	Ms. Codex 674
+mscodex674_wk1	2487460	Ms. Codex 674
+mscodex675_wk1	2487461	Ms. Codex 675
+mscodex676_wk1	2487462	Ms. Codex 676
+mscodex677_wk1	2487463	Ms. Codex 677
+mscodex678_wk1	2487464	Ms. Codex 678
+mscodex679_wk1	2487465	Ms. Codex 679
+mscodex679_wk1	2487465	Ms. Codex 679
+mscodex680_wk1	2487466	Ms. Codex 680
+mscodex680_wk1	2487466	Ms. Codex 680
+mscodex681_wk1	2487467	Ms. Codex 681
+mscodex681_wk1	2487467	Ms. Codex 681
+mscodex682_wk1	2487468	Ms. Codex 682
+mscodex683_wk1	2487470	Ms. Codex 683
+mscodex683_wk1	2487470	Ms. Codex 683
+mscodex684_wk1	2487471	Ms. Codex 684
+mscodex684_wk1	2487471	Ms. Codex 684
+mscodex685_wk1	2487472	Ms. Codex 685
+mscodex685_wk1	2487472	Ms. Codex 685
+mscodex686_wk1	2487473	Ms. Codex 686
+mscodex686_wk1	2487473	Ms. Codex 686
+mscodex687_wk1	2487475	Ms. Codex 687
+mscodex687_wk1	2487475	Ms. Codex 687
+mscodex688_wk1	2487476	Ms. Codex 688
+mscodex688_wk1	2487476	Ms. Codex 688
+mscodex689_wk1	2487478	Ms. Codex 689
+mscodex689_wk1	2487478	Ms. Codex 689
+mscodex690_wk1	2487479	Ms. Codex 690
+mscodex690_wk1	2487479	Ms. Codex 690
+mscodex691_wk1	2487480	Ms. Codex 691
+mscodex691_wk1	2487480	Ms. Codex 691
+mscodex692_wk1	2487482	Ms. Codex 692
+mscodex692_wk1	2487482	Ms. Codex 692
+mscodex693_wk1	2487483	Ms. Codex 693
+mscodex693_wk1	2487483	Ms. Codex 693
+mscodex694_wk1	2487484	Ms. Codex 694
+mscodex694_wk1	2487484	Ms. Codex 694
+mscodex695_wk1	2487485	Ms. Codex 695
+mscodex698_wk1	2487487	Ms. Codex 698
+mscodex696_wk1	2487489	Ms. Codex 696
+mscodex696_wk1	2487489	Ms. Codex 696
+mscodex697_wk1	2487490	Ms. Codex 697
+mscodex697_wk1	2487490	Ms. Codex 697
+mscodex699_wk1	2487493	Ms. Codex 699
+mscodex699_wk1	2487493	Ms. Codex 699
+mscodex700_wk1	2487494	Ms. Codex 700
+mscodex700_wk1	2487494	Ms. Codex 700
+mscodex760_wk1	2487495	Ms. Codex 760
+mscodex760_wk1	2487495	Ms. Codex 760
+mscodex701_wk1	2487496	Ms. Codex 701
+mscodex701_wk1	2487496	Ms. Codex 701
+mscodex702_wk1	2487497	Ms. Codex 702
+mscodex703_wk1	2487498	Ms. Codex 703
+mscodex704_wk1	2487499	Ms. Codex 704
+mscodex705_wk1	2487500	Ms. Codex 705
+mscodex706_wk1	2487501	Ms. Codex 706
+mscodex761_wk1	2487502	Ms. Codex 761
+mscodex707_wk1	2487504	Ms. Codex 707
+mscodex707_wk1	2487504	Ms. Codex 707
+mscodex708_wk1	2487506	Ms. Codex 708
+mscodex708_wk1	2487506	Ms. Codex 708
+mscodex709_wk1	2487508	Ms. Codex 709
+mscodex709_wk1	2487508	Ms. Codex 709
+mscodex762_wk1	2487510	Ms. Codex 762
+mscodex762_wk1	2487510	Ms. Codex 762
+mscodex710_wk1	2487512	Ms. Codex 710
+mscodex711_wk1	2487514	Ms. Codex 711
+mscodex712_wk1	2487515	Ms. Codex 712
+mscodex712_wk1	2487515	Ms. Codex 712
+mscodex763_wk1	2487516	Ms. Codex 763
+mscodex763_wk1	2487516	Ms. Codex 763
+mscodex764_wk1	2487517	Ms. Codex 764
+mscodex764_wk1	2487517	Ms. Codex 764
+mscodex713_wk1	2487521	Ms. Codex 713
+mscodex713_wk1	2487521	Ms. Codex 713
+mscodex765_wk1	2487522	Ms. Codex 765
+mscodex765_wk1	2487522	Ms. Codex 765
+mscodex714_wk1	2487523	Ms. Codex 714
+mscodex714_wk1	2487523	Ms. Codex 714
+mscodex715_wk1	2487524	Ms. Codex 715
+mscodex715_wk1	2487524	Ms. Codex 715
+mscodex766_wk1	2487525	Ms. Codex 766
+mscodex716_wk1	2487527	Ms. Codex 716
+mscodex716_wk1	2487527	Ms. Codex 716
+mscodex717_wk1	2487528	Ms. Codex 717
+mscodex717_wk1	2487528	Ms. Codex 717
+mscodex718_wk1	2487529	Ms. Codex 718
+mscodex718_wk1	2487529	Ms. Codex 718
+mscodex719_wk1	2487530	Ms. Codex 719
+mscodex719_wk1	2487530	Ms. Codex 719
+mscodex767_wk1	2487531	Ms. Codex 767
+mscodex767_wk1	2487531	Ms. Codex 767
+mscodex768_wk1	2487532	Ms. Codex 768
+mscodex720_wk1	2487533	Ms. Codex 720
+mscodex720_wk1	2487533	Ms. Codex 720
+mscodex769_wk1	2487534	Ms. Codex 769
+mscodex770_wk1_back0002	2487537	Ms. Codex 770
+mscodex721_wk1	2487538	Ms. Codex 721
+mscodex721_wk1	2487538	Ms. Codex 721
+mscodex771_wk1	2487539	Ms. Codex 771
+mscodex722_wk1	2487540	Ms. Codex 722
+mscodex722_wk1	2487540	Ms. Codex 722
+mscodex723_wk1	2487542	Ms. Codex 723
+mscodex723_wk1	2487542	Ms. Codex 723
+mscodex724_wk1	2487544	Ms. Codex 724
+mscodex724_wk1	2487544	Ms. Codex 724
+mscodex772_wk1	2487545	Ms. Codex 772
+mscodex726_wk1	2487547	Ms. Codex 726
+mscodex773_wk1_back0004	2487548	Ms. Codex 773
+mscodex774_wk1	2487549	Ms. Codex 774
+mscodex725_wk1	2487551	Ms. Codex 725
+mscodex725_wk1	2487551	Ms. Codex 725
+mscodex775_wk1	2487552	Ms. Codex 775
+mscodex727_wk1	2487553	Ms. Codex 727
+mscodex727_wk1	2487553	Ms. Codex 727
+mscodex776_wk1	2487554	Ms. Codex 776
+mscodex740_wk1	2487556	Ms. Codex 740
+mscodex740_wk1	2487556	Ms. Codex 740
+mscodex741_wk1	2487557	Ms. Codex 741
+mscodex741_wk1	2487557	Ms. Codex 741
+mscodex742_wk1	2487558	Ms. Codex 742
+mscodex742_wk1	2487558	Ms. Codex 742
+mscodex743_wk1	2487559	Ms. Codex 743
+mscodex743_wk1	2487559	Ms. Codex 743
+mscodex744_wk1	2487560	Ms. Codex 744
+mscodex744_wk1	2487560	Ms. Codex 744
+mscodex745_wk1	2487561	Ms. Codex 745
+mscodex777_wk1	2487562	Ms. Codex 777
+mscodex778_wk1	2487563	Ms. Codex 778
+mscodex779_wk1	2487565	Ms. Codex 779
+mscodex746_wk1	2487566	Ms. Codex 746
+mscodex746_wk1	2487566	Ms. Codex 746
+mscoll196_wk1	2487567	Ms. Coll. 196
+mscodex747_wk1	2487568	Ms. Codex 747
+mscodex747_wk1	2487568	Ms. Codex 747
+mscodex728_wk1	2487569	Ms. Codex 728
+mscodex728_wk1	2487569	Ms. Codex 728
+mscodex729_wk1	2487571	Ms. Codex 729
+mscodex729_wk1	2487571	Ms. Codex 729
+mscodex748_wk1	2487572	Ms. Codex 748
+mscodex748_wk1	2487572	Ms. Codex 748
+mscodex749_wk1	2487574	Ms. Codex 749
+mscodex749_wk1	2487574	Ms. Codex 749
+mscodex730_wk1	2487575	Ms. Codex 730
+mscodex730_wk1	2487575	Ms. Codex 730
+mscodex731_wk1	2487576	Ms. Codex 731
+mscodex731_wk1	2487576	Ms. Codex 731
+mscodex738_wk1	2487577	Ms. Codex 738
+mscodex738_wk1	2487577	Ms. Codex 738
+mscodex750_wk1	2487578	Ms. Codex 750
+mscodex750_wk1	2487578	Ms. Codex 750
+mscodex752_wk1	2487581	Ms. Codex 752
+mscodex737_wk1	2487582	Ms. Codex 737
+mscodex737_wk1	2487582	Ms. Codex 737
+mscodex732_wk1	2487583	Ms. Codex 732
+mscodex732_wk1	2487583	Ms. Codex 732
+mscodex733_wk1	2487584	Ms. Codex 733
+mscodex733_wk1	2487584	Ms. Codex 733
+mscodex734_wk1	2487585	Ms. Codex 734
+mscodex754_wk1	2487586	Ms. Codex 754
+mscodex754_wk1	2487586	Ms. Codex 754
+mscodex736_wk1	2487587	Ms. Codex 736
+mscodex736_wk1	2487587	Ms. Codex 736
+mscodex753_wk1	2487591	Ms. Codex 753
+mscodex578_wk1	2703982	Ms. Codex 578
+mscodex739_wk1	2703984	Ms. Codex 739
+mscodex739_wk1	2703984	Ms. Codex 739
+mscodex758_wk1	2704550	Ms. Codex 758
+mscodex758_wk1	2704550	Ms. Codex 758
+mscodex756_wk1	2704561	Ms. Codex 756
+mscodex152_wk1	2704673	Ms. Codex 152
+mscodex780_wk1	2704933	Ms. Codex 780
+mscodex782_wk1	2704977	Ms. Codex 782
+mscodex783_wk1	2705011	Ms. Codex 783
+mscodex784_wk1	2705022	Ms. Codex 784
+mscodex238_wk1	2705122	Ms. Codex 238
+mscodex237_wk1	2705336	Ms. Codex 237
+mscoll276_wk1	2705554	Ms. Coll. 276
+mscoll276_wk1	2705554	Ms. Coll. 276
+mscodex802_wk1	2706826	Ms. Codex 802
+mscodex803_wk1	2706828	Ms. Codex 803
+mscodex785_wk1	2706829	Ms. Codex 785
+mscodex804_wk1	2706830	Ms. Codex 804
+mscodex805_wk1	2706831	Ms. Codex 805
+mscodex89_wk1	2706995	Ms. Codex 89
+mscodex755_wk1	2707104	Ms. Codex 755
+mscodex757_wk1	2707273	Ms. Codex 757
+mscodex789_wk1	2707436	Ms. Codex 789
+mscodex141_wk1	2975410	Ms. Codex 141
+mscodex141_wk1	2975410	Ms. Codex 141
+mscodex808_wk1	2975765	Ms. Codex 808
+mscodex809_wk1	2975789	Ms. Codex 809
+mscodex810_wk1	2975923	Ms. Codex 810
+mscodex811_wk1	2975937	Ms. Codex 811
+mscodex812_wk1	2975960	Ms. Codex 812
+mscodex813_wk1	2976063	Ms. Codex 813
+mscodex814_wk1	2976068	Ms. Codex 814
+mscodex815_wk1	2976462	Ms. Codex 815
+mscodex816_wk1	2976468	Ms. Codex 816
+mscodex817_wk1	2976470	Ms. Codex 817
+mscodex818_wk1	2976480	Ms. Codex 818
+mscodex807_wk1	2976499	Ms. Codex 807
+mscodex819_wk1	2976526	Ms. Codex 819
+mscodex820_wk1	2976555	Ms. Codex 820
+miscmss_falconieri_wk1	2976606	Misc Mss
+miscmss_falconieri_wk1	2976606	Misc Mss
+miscmss_farnese_a_wk1	2976632	Misc Mss
+mscodex823_wk1	2976654	Ms. Codex 823
+mscodex823_wk1	2976654	Ms. Codex 823
+mscodex824_wk1	2976685	Ms. Codex 824
+mscodex824_wk1	2976685	Ms. Codex 824
+mscodex827_wk1	3175561	Ms. Codex 827
+mscodex827_wk1	3175561	Ms. Codex 827
+mscodex828_wk1	3176525	Ms. Codex 828
+mscodex828_wk1	3176525	Ms. Codex 828
+mscodex829_wk1	3176551	Ms. Codex 829
+mscodex829_wk1	3176551	Ms. Codex 829
+mscodex829_wk1	3176551	Ms. Codex 829
+mscodex829_wk1	3176551	Ms. Codex 829
+mscodex829_wk1	3176551	Ms. Codex 829
+mscodex830_wk1	3176575	Ms. Codex 830
+mscodex832_wk1	3176905	Ms. Codex 832
+mscodex833_wk1	3177219	Ms. Codex 833
+mscodex834_wk1	3177520	Ms. Codex 834
+mscodex835_wk1	3177704	Ms. Codex 835
+mscodex836_wk1	3177978	Ms. Codex 836
+mscodex837_wk1	3177979	Ms. Codex 837
+mscodex447_wk1	3177980	Ms. Codex 447
+mscodex838_wk1	3177981	Ms. Codex 838
+mscodex838_wk1	3177981	Ms. Codex 838
+mscodex839_wk1	3177982	Ms. Codex 839
+mscodex839_wk1	3177982	Ms. Codex 839
+mscodex840_wk1	3177983	Ms. Codex 840
+mscodex840_wk1	3177983	Ms. Codex 840
+mscodex841_wk1	3177986	Ms. Codex 841
+mscodex841_wk1	3177986	Ms. Codex 841
+mscodex842_wk1	3177987	Ms. Codex 842
+mscodex842_wk1	3177987	Ms. Codex 842
+mscodex843_wk1	3177988	Ms. Codex 843
+mscodex843_wk1	3177988	Ms. Codex 843
+mscodex844_wk1	3177989	Ms. Codex 844
+mscodex844_wk1	3177989	Ms. Codex 844
+mscodex845_wk1	3177991	Ms. Codex 845
+mscodex845_wk1	3177991	Ms. Codex 845
+mscodex846_wk1	3177995	Ms. Codex 846
+mscodex847_wk1	3177996	Ms. Codex 847
+mscodex848_wk1	3178000	Ms. Codex 848
+mscodex851_wk1	3178005	Ms. Codex 851
+mscodex852_wk1	3178009	Ms. Codex 852
+mscodex853_wk1	3178014	Ms. Codex 853
+mscodex854_wk1	3178018	Ms. Codex 854
+mscodex855_wk1	3178019	Ms. Codex 855
+mscodex856_wk1	3178020	Ms. Codex 856
+mscodex856_wk1	3178020	Ms. Codex 856
+mscodex857_wk1	3178022	Ms. Codex 857
+mscodex857_wk1	3178022	Ms. Codex 857
+mscodex858_wk1	3178023	Ms. Codex 858
+mscodex859_wk1	3178039	Ms. Codex 859
+mscodex860_wk1	3178050	Ms. Codex 860
+mscodex861_wk1	3178051	Ms. Codex 861
+mscodex863_wk1	3178054	Ms. Codex 863
+mscodex864_wk1	3178055	Ms. Codex 864
+mscodex864_wk1	3178055	Ms. Codex 864
+mscodex865_wk1	3178058	Ms. Codex 865
+mscodex866_wk1	3178059	Ms. Codex 866
+mscodex866_wk1	3178059	Ms. Codex 866
+mscodex867_wk1	3178061	Ms. Codex 867
+mscodex868_wk1	3178063	Ms. Codex 868
+mscodex869_wk1	3178073	Ms. Codex 869
+mscodex869_wk1	3178073	Ms. Codex 869
+mscoll387_wk1	3178088	Ms. Coll. 387
+mscodex870_wk1	3178095	Ms. Codex 870
+mscodex872_wk1	3178553	Ms. Codex 872
+mscodex873_wk1	3178578	Ms. Codex 873
+mscodex874_wk1	3178687	Ms. Codex 874
+mscodex875_wk1	3178698	Ms. Codex 875
+mscodex876_wk1	3179041	Ms. Codex 876
+mscodex825_wk1	3180040	Ms. Codex 825
+mscodex825_wk1	3180040	Ms. Codex 825
+mscodex826_wk1	3180041	Ms. Codex 826
+mscodex826_wk1	3180041	Ms. Codex 826
+mscodex880_wk1	3180172	Ms. Codex 880
+mscodex881_wk1	3180183	Ms. Codex 881
+mscodex882_wk1	3180185	Ms. Codex 882
+mscodex883_wk1	3180186	Ms. Codex 883
+mscodex904_wk1	3187159	Ms. Codex 904
+mscodex885_wk1	3189919	Ms. Codex 885
+msoversize18_wk1	3430693	Ms. Oversize 18
+msoversize18_wk1	3430693	Ms. Oversize 18
+mscodex888_wk1	3430707	Ms. Codex 888
+mscodex891_wk1	3430896	Ms. Codex 891
+mscodex892_wk1	3430898	Ms. Codex 892
+mscodex894_wk1	3430901	Ms. Codex 894
+mscodex894_wk1	3430901	Ms. Codex 894
+mscodex895_wk1	3430904	Ms. Codex 895
+mscodex899_wk1	3430916	Ms. Codex 899
+mscodex900_wk1	3432064	Ms. Codex 900
+mscodex901_wk1	3432065	Ms. Codex 901
+mscoll476_wk1	3432102	Ms. Coll. 476
+mscodex903_wk1	3432106	Ms. Codex 903
+mscodex827_wk1	3556068	Ms. Codex 827
+mscodex827_wk1	3556068	Ms. Codex 827
+mscodex827_wk1_body0029	3556105	Ms. Codex 827
+mscodex926_wk1	3559145	Ms. Codex 926
+mscodex906_wk1	3559152	Ms. Codex 906
+mscodex906_wk1	3559152	Ms. Codex 906
+mscodex907_wk1	3559153	Ms. Codex 907
+mscodex927_wk1	3559154	Ms. Codex 927
+mscodex910_wk1	3559157	Ms. Codex 910
+mscodex911_wk1	3559161	Ms. Codex 911
+mscodex912_wk1	3559162	Ms. Codex 912
+mscodex912_wk1	3559162	Ms. Codex 912
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex902_wk1	3559163	Ms. Codex 902
+mscodex928_wk1	3559895	Ms. Codex 928
+mscodex929_wk1	3561505	Ms. Codex 929
+mscodex930_wk1	3561507	Ms. Codex 930
+mscodex931_wk1	3561513	Ms. Codex 931
+mscodex932_wk1	3564341	Ms. Codex 932
+mscodex934_wk1	3565245	Ms. Codex 934
+mscodex934_wk1	3565245	Ms. Codex 934
+mscodex735_wk1	3567073	Ms. Codex 735
+mscodex735_wk1	3567073	Ms. Codex 735
+mscodex781_wk1	3567682	Ms. Codex 781
+mscodex781_wk1	3567682	Ms. Codex 781
+mscodex849_wk1	3567792	Ms. Codex 849
+mscodex849_wk1	3567792	Ms. Codex 849
+mscodex850_wk1	3568449	Ms. Codex 850
+mscodex850_wk1	3568449	Ms. Codex 850
+mscodex862_wk1	3569337	Ms. Codex 862
+mscodex862_wk1	3569337	Ms. Codex 862
+mscodex933_wk1	3570010	Ms. Codex 933
+mscodex933_wk1	3570010	Ms. Codex 933
+mscodex935_wk1	3570295	Ms. Codex 935
+mscodex936_wk1	3574717	Ms. Codex 936
+mscodex937_wk1	3574860	Ms. Codex 837
+mscodex938_wk1	3575750	Ms. Codex 938
+mscodex939_wk1	3575938	Ms. Codex 939
+mscodex940_wk1	3576335	Ms. Codex 940
+mscodex941_wk1	3577606	Ms. Codex 941
+mscodex941_wk1	3577606	Ms. Codex 941
+mscodex942_wk1	3579268	Ms. Codex 942
+mscodex943_wk1	3580076	Ms. Codex 943
+mscodex944_wk1	3581679	Ms. Codex 944
+mscodex945_wk1	3582354	Ms. Codex 945
+mscodex946_wk1	3582479	Ms. Codex 946
+mscodex946_wk1	3582479	Ms. Codex 946
+mscodex947_wk1	3582698	Ms. Codex 947
+mscodex947_wk1	3582698	Ms. Codex 947
+mscodex948_wk1	3583380	Ms. Codex 948
+mscodex948_wk1	3583380	Ms. Codex 948
+mscodex949_wk1	3583577	Ms. Codex 949
+mscodex949_wk1	3583577	Ms. Codex 949
+filename	3583991	Ms. Codex 950
+mscodex951_wk1	3584252	Ms. Codex 951
+mscodex952_wk1	3584578	Ms. Codex 952
+mscodex953_wk1	3584944	Ms. Codex 953
+mscodex954_wk1	3585148	Ms. Codex 954
+mscodex955_wk1	3585805	Ms. Codex 955
+mscodex956_wk1	3589083	Ms. Codex 956
+mscodex956_wk1	3589083	Ms. Codex 956
+mscodex957_wk1	3589352	Ms. Codex 957
+mscodex959_wk1	3593627	Ms. Codex 959
+mscodex960_wk1	3595873	Ms. Codex 960
+mscodex961_wk1	3596876	Ms. Codex 961
+mscodex962_wk1	3596878	Ms. Codex 962
+mscodex963_wk1	3596879	Ms. Codex 963
+mscodex964_wk1	3597467	Ms. Codex 964
+mscodex965_wk1	3597808	Ms. Codex 965
+mscodex966_wk1	3598845	Ms. Codex 966
+mscodex967_wk1	3599708	Ms. Codex 967
+mscodex968_wk1	3601429	Ms. Codex 968
+mscodex969_wk1	3602422	Ms. Codex 969
+mscodex970_wk1	3603039	Ms. Codex 970
+mscodex970_wk1	3603039	Ms. Codex 970
+mscodex971_wk1	3605679	Ms. Codex 971
+mscodex972_wk1	3605982	Ms. Codex 972
+msoversize23_wk1	3606100	Ms. Oversize 23
+miscmss1_wk1	3607613	Misc Mss 1
+mscodex975_wk1	3610578	Ms. Codex 975
+mscodex976_wk1	3634677	Ms. Codex 976
+mscodex977_wk1	3634981	Ms. Codex 977
+miscmss13_wk1	3642248	Misc Mss 13
+mscodex979_wk1	3655724	Ms. Codex 979
+mscodex980_wk1	3655747	Ms. Codex 980
+mscodex981_wk1	3660114	Ms. Codex 981
+mscodex982_wk1	3661040	Ms. Codex 982
+mscodex983_wk1	3663290	Ms. Codex 983
+mscodex983_wk1	3663290	Ms. Codex 983
+mscodex984_wk1	3663975	Ms. Codex 984
+mscodex985_wk1	3664868	Ms. Codex 985
+mscodex986_wk1	3665374	Ms. Codex 986
+mscodex268_wk1	3665865	Ms. Codex 268
+mscodex989_wk1	3668149	Ms. Codex 989
+mscodex990_wk1	3728194	Ms. Codex 990
+mscodex991_wk1	3728196	Ms. Codex 991
+mscodex991_wk1	3728196	Ms. Codex 991
+mscodex993_wk1	3746785	Ms. Codex 993
+mscodex994_wk1	3751433	Ms. Codex 994
+mscodex995_wk1	3751559	Ms. Codex 995
+mscodex996_wk1	3755811	Ms. Codex 996
+mscodex997_wk1	3755895	Ms. Codex 997
+mscodex998_wk1	3760125	Ms. Codex 998
+mscodex999_wk1	3760337	Ms. Codex 999
+mscodex1000_v1_wk1	3766521	Ms. Codex 1000 v.1
+mscodex1000_v2_wk1_back0008	3766525	Ms. Codex 1000 v.2
+mscodex1000_v3_wk1	3766797	Ms. Codex 1000 v.3
+mscodex1000_v4_wk1_back0012	3767038	Ms. Codex 1000 v.4
+mscodex1000_v5_wk1	3767130	Ms. Codex 1000 v.5
+mscodex1000_v6_wk1	3767196	Ms. Codex 1000 v.6
+mscodex1000_v7_wk1	3767679	Ms. Codex 1000 v.7
+mscodex1001_wk1	3768718	Ms. Codex 1001
+mscodex1001_wk1	3768718	Ms. Codex 1001
+mscodex1002_wk1	3769054	Ms. Codex 1002
+mscodex1003_wk1	3770172	Ms. Codex 1003
+mscodex1005_wk1	3771168	Ms. Codex 1005
+mscodex1006_wk1	3771493	Ms. Codex 1006
+mscodex1007_wk1	3773835	Ms. Codex 1007
+ms_coll_700_item54_wk1	3775794	Ms. Coll. 700
+mscodex1008_wk1	3777779	Ms. Codex 1008
+mscodex1008_wk1	3777779	Ms. Codex 1008
+mscodex1009_wk1	3778095	Ms. Codex 1009
+mscodex1010_wk1	3778239	Ms. Codex 1010
+mscodex1011_wk1	3778354	Ms. Codex 1011
+ms_coll_700_item92_wk1	3780570	Ms. Coll. 700
+ms_coll_700_item92_wk1	3780570	Ms. Coll. 700
+mscodex1012_wk1	3782701	Ms. Codex 1012
+mscodex987_wk1	3792067	Ms. Codex 987
+mscodex987_wk1	3792067	Ms. Codex 987
+mscodex988_wk1	3792069	Ms. Codex 988
+mscodex1013_wk1	3797201	Ms. Codex 1013
+mscodex1015_wk1	3820530	Ms. Codex 1015
+mscodex1016_wk1	3820868	Ms. Codex 1016
+mscodex1017_wk1	3825721	Ms. Codex 1017
+mscodex1018_wk1	3830872	Ms. Codex 1018
+mscodex1019_wk1	3843669	Ms. Codex 1019
+mscodex1020_wk1	3845336	Ms. Codex 1020
+mscodex1021_wk1	3848047	Ms. Codex 1021
+mscodex1022_wk1	3848862	Ms. Codex 1022
+mscodex1023_wk1	3849805	Ms. Codex 1023
+mscodex1026_wk1	3856730	Ms. Codex 1026
+mscodex1027_wk1	3865468	Ms. Codex 1027
+mscodex1028_wk1	3872907	Ms. Codex 1028
+mscoll591_f3_wk1	3882405	Ms. Coll. 591, Folder 3
+mscoll591_f3_wk1	3882405	Ms. Coll. 591, Folder 3
+mscoll591_f1_wk1	3882406	Ms. Coll. 591, Folder 1
+mscoll591_f1_wk1	3882406	Ms. Coll. 591, Folder 1
+mscoll591_f2_wk1	3882407	Ms. Coll. 591, Folder 2
+mscoll591_f2_wk1	3882407	Ms. Coll. 591, Folder 2
+mscoll591_f4_wk1	3882516	Ms. Coll. 591, Folder 4
+mscoll591_f4_wk1	3882516	Ms. Coll. 591, Folder 4
+mscoll591_f5_wk1	3882566	Ms. Coll. 591, Folder 5
+mscoll591_f5_wk1	3882566	Ms. Coll. 591, Folder 4
+mscoll591_f6_wk1	3882665	Ms. Coll. 591, Folder 6
+mscoll591_f6_wk1	3882665	Ms. Coll. 591, Folder 6
+mscoll591_f7_wk1	3882717	Ms. Coll. 591, Folder 7
+mscoll591_f7_wk1	3882717	Ms. Coll. 591, Folder 7
+mscoll591_f8_wk1	3882865	Ms. Coll. 591, Folder 8
+mscoll591_f8_wk1	3882865	Ms. Coll. 591, Folder 8
+mscoll591_f10_wk1	3882940	Ms. Coll. 591, Folder 10
+mscoll591_f10_wk1	3882940	Ms. Coll. 591, Folder 10
+mscoll591_f11_wk1	3882948	Ms. Coll. 591, Folder 11
+mscoll591_f11_wk1	3882948	Ms. Coll. 591, Folder 11
+mscoll591_f9_wk1	3883119	Ms. Coll. 591, Folder 9
+mscoll591_f9_wk1	3883119	Ms. Coll. 591, Folder 9
+mscoll591_f12_wk1	3883183	Ms. Coll. 591, Folder 12
+mscoll591_f12_wk1	3883183	Ms. Coll. 591, Folder 12
+mscoll591_f13_wk1	3883200	Ms. Coll. 591, Folder 13
+mscoll591_f13_wk1	3883200	Ms. Coll. 591, Folder 13
+mscoll591_f14_wk1	3883230	Ms. Coll. 591, Folder 14
+mscoll591_f14_wk1	3883230	Ms. Coll. 591, Folder 14
+mscoll591_f15_wk1	3883249	Ms. Coll. 591, Folder 15
+mscoll591_f15_wk1	3883249	Ms. Coll. 591, Folder 15
+mscodex1030_wk1	3888114	Ms. Codex 1030
+mscodex1031_wk1	3897153	Ms. Codex 1031
+mscodex1032_wk1	3900135	Ms. Codex 1032
+mscodex1033_wk1	3905229	Ms. Codex 1033
+mscoll596_wk1	3918993	Ms. Coll. 596
+mscodex1034_wk1	3927390	Ms. Codex 1034
+mscodex1035_wk1	3928038	Ms. Codex 1035
+mscodex1036_wk1	3928554	Ms. Codex 1036
+mscodex1037_wk1	3945748	Ms. Codex 1037
+mscodex1038_wk1	3947224	Ms. Codex 1038
+mscodex1040_wk1	3951547	Ms. Codex 1040
+mscoll591_f16_wk1	3956983	Ms. Coll. 591, Folder 16
+mscoll591_f16_wk1	3956983	Ms. Coll. 591, Folder 16
+mscodex1041_wk1	3957168	Ms. Codex 1041
+mscodex1042_wk1	3959202	Ms. Codex 1042
+mscodex1042_wk1	3959202	Ms. Codex 1042
+mscodex1043_wk1	3964200	Ms. Codex 1043
+mscodex1044_wk1	3965063	Ms. Codex 1044
+mscodex1045_wk1	3978015	Ms. Codex 1045
+mscodex1046_wk1	3989233	Ms. Codex 1046
+mscodex1047_wk1	3991332	Ms. Codex 1047
+mscodex1047_wk1	3991332	Ms. Codex 1047
+mscodex1048_wk1	3999874	Ms. Codex 1048
+mscodex1048_wk1	3999874	Ms. Codex 1048
+mscodex1050_wk1	4006350	Ms. Codex 1050
+mscodex1049_wk1	4008367	Ms. Codex 1049
+mscodex908_wk1	4009802	Ms. Codex 908
+mscodex909_wk1	4009804	Ms. Codex 909
+mscodex909_wk1	4009804	Ms. Codex 909
+mscodex913_wk1	4009808	Ms. Codex 913
+mscodex1051_wk1	4019075	Ms. Codex 1051
+mscodex914_wk1	4023849	Ms. Codex 914
+mscodex1052_wk1	4024283	Ms. Codex 1052
+mscodex1052_wk1	4024283	Ms. Codex 1052
+mscodex1053_wk1	4024565	Ms. Codex 1053
+mscodex1053_wk1	4024565	Ms. Codex 1053
+mscodex915_wk1	4032205	Ms. Codex 915
+mscodex915_wk1	4032205	Ms. Codex 915
+mscodex916_wk1	4045751	Ms. Codex 916
+mscodex916_wk1	4045751	Ms. Codex 916
+mscodex1054_wk1	4072571	Ms. Codex 1054
+mscodex1055_wk1	4072605	Ms. Codex 1055
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex_1057_wk1	4087611	Ms. Codex 1057
+mscodex_1057_wk1	4087611	Ms. Codex 1057
+mscodex_1057_wk1	4087611	Ms. Codex 1057
+mscodex_1057_wk1	4087611	Ms. Codex 1057
+mscodex1058_wk1	4094853	Ms. Codex 1058
+mscodex1058_wk1	4094853	Ms. Codex 1058
+mscodex1058_wk1	4094853	Ms. Codex 1058
+mscodex1058_wk1	4094853	Ms. Codex 1058
+mscoll637_wk1	4106850	Ms. Coll. 637
+mscodex1060_wk1	4133301	Ms. Codex 1060
+mscodex1060_wk1	4133301	Ms. Codex 1060
+mscodex1062_wk1	4146722	Ms. Codex 1062
+mscodex1061_wk1	4147936	Ms. Codex 1061
+mscodex1061_wk1	4147936	Ms. Codex 1061
+mscodex1059_wk1	4148110	Ms. Codex 1059
+mscodex1059_wk1	4148110	Ms. Codex 1059
+mscoll591_f17_wk1	4149812	Ms. Coll. 591, Folder 17
+mscoll591_f17_wk1	4149812	Ms. Coll. 591, Folder 17
+mscoll591_f17_wk1	4149812	Ms. Coll. 591, Folder 17
+mscoll591_f17_wk1	4149812	Ms. Coll. 591, Folder 17
+mscoll591_f18_wk1	4150030	Ms. Coll. 591, Folder 18
+mscoll591_f18_wk1	4150030	Ms. Coll. 591, Folder 18
+miscmsslarge_biblentjohn_wk1	4150272	Misc Mss (Large)
+miscmsslarge_biblentjohn_wk1	4150272	Misc Mss (Large)
+mscodex1063_wk1	4154279	Ms. Codex 1063
+mscodex1063_wk1	4154279	Ms. Codex 1063
+mscodex1063_wk1	4154279	Ms. Codex 1063
+mscodex1063_wk1	4154279	Ms. Codex 1063
+mscoll591_f19_wk1	4164908	Ms. Coll. 591, Folder 19
+mscoll591_f19_wk1	4164908	Ms. Coll. 591, Folder 19
+mscoll591_f20_wk1	4165652	Ms. Coll. 591, Folder 20
+mscoll591_f20_wk1	4165652	Ms. Coll. 591, Folder 20
+mscoll591_f21_wk1	4166254	Ms. Coll. 591, Folder 21
+mscoll591_f21_wk1	4166254	Ms. Coll. 591, Folder 21
+miscmsslarge_catholicchurchbreviary_wk1	4167288	Misc Mss (Large)
+miscmsslarge_catholicchurchbreviary_wk1	4167288	Misc Mss (Large)
+miscmsslarge_bicknacre_wk1	4168369	Misc Mss (Large)
+miscmsslarge_privycouncil_wk1	4168506	Misc Mss (Large)
+mscodex1064_wk1	4170141	Ms. Codex 1064
+mscodex1065_wk1	4170457	Ms. Codex 1065
+mscodex1065_wk1	4170457	Ms. Codex 1065
+msroll1066_wk1	4171757	Ms. Roll 1066
+msroll1066_wk1	4171757	Ms. Roll 1066
+mscodex1069_wk1	4212168	Ms. Codex 1069
+mscodex1068_wk1	4217444	Ms. Codex 1068
+mscodex1070_wk1	4218616	Ms. Codex 1070
+mscodex1070_wk1	4218616	Ms. Codex 1070
+mscodex918_wk1	4219225	Ms. Codex 918
+mscodex918_wk1	4219225	Ms. Codex 918
+mscodex917_wk1	4219275	Ms. Codex 917
+mscodex917_wk1	4219275	Ms. Codex 917
+mscodex1071_wk1	4220868	Ms. Codex 1071
+mscodex1071_wk1	4220868	Ms. Codex 1071
+mscodex919_wk1	4226060	Ms. Codex 919
+mscodex919_wk1	4226060	Ms. Codex 919
+mscodex920_wk1	4226583	Ms. Codex 920
+mscodex920_wk1	4226583	Ms. Codex 920
+mscodex1073_wk1	4227068	Ms. Codex 1073
+mscodex921_wk1	4227178	Ms. Codex 921
+mscodex921_wk1	4227178	Ms. Codex 921
+mscodex1074_wk1	4227671	Ms. Codex 1074
+mscodex922_wk1	4227956	Ms. Codex 922
+mscodex922_wk1	4227956	Ms. Codex 922
+mscodex1075_wk1	4228533	Ms. Codex 1075
+mscodex1076_wk1	4228724	Ms. Codex 1076
+mscodex1077_wk1	4229416	Ms. Codex 1077
+mscodex1077_wk1	4229416	Ms. Codex 1077
+mscodex1078_wk1	4230336	Ms. Codex 1078
+mscodex1079_wk1	4230702	Ms. Codex 1079
+mscodex1079_wk1	4230702	Ms. Codex 1079
+mscodex923_wk1	4230720	Ms. Codex 923
+mscodex1080_wk1	4230859	Ms. Codex 1080
+mscodex1080_wk1	4230859	Ms. Codex 1080
+mscodex1081_wk1	4231065	Ms. Codex 1081
+mscodex1081_wk1	4231065	Ms. Codex 1081
+mscodex1072_wk1	4231642	Ms. Codex 1072
+mscodex1082_wk1	4231759	Ms. Codex 1082
+mscodex1083_wk1	4232800	Ms. Codex 1083
+mscodex1083_wk1	4232800	Ms. Codex 1083
+mscodex1084_wk1	4233221	Ms. Codex 1084
+mscodex1084_wk1	4233221	Ms. Codex 1084
+mscodex1085_wk1	4233317	Ms. Codex 1085
+mscodex1086_wk1	4233381	Ms. Codex 1086
+mscodex1087_wk1	4234316	Ms. Codex 1087
+mscodex1087_wk1	4234316	Ms. Codex 1087
+mscodex924_wk1	4234400	Ms. Codex 924
+mscodex1088_wk1	4236580	Ms. Codex 1088
+mscodex1088_wk1	4236580	Ms. Codex 1088
+mscodex1089_wk1	4237389	Ms. Codex 1089
+mscodex1089_wk1	4237389	Ms. Codex 1089
+mscodex1090_wk1	4237686	Ms. Codex 1090
+mscodex1091_wk1	4237699	Ms. Codex 1091
+mscodex925_wk1	4237753	Ms. Codex 925
+mscodex925_wk1	4237753	Ms. Codex 925
+mscodex1092_wk1	4238473	Ms. Codex 1092
+mscodex1093_wk1	4238585	Ms. Codex 1093
+miscmsslarge_catholicchurchmissal_wk1	4246186	Misc Mss (Large)
+miscmsslarge_catholicchurchmissal_wk1	4246186	Misc Mss (Large)
+mscodex1094_wk1	4247227	Ms. Codex 1094
+mscodex1095_wk1	4248065	Ms. Codex 1095
+mscodex1095_wk1	4248065	Ms. Codex 1095
+mscodex1096_wk1	4248391	Ms. Codex 1096
+mscodex1096_wk1	4248391	Ms. Codex 1096
+mscodex1097_wk1	4248398	Ms. Codex 1097
+mscodex1098_wk1	4249545	Ms. Codex 1098
+mscodex1098_wk1	4249545	Ms. Codex 1098
+mscodex1099_wk1	4249717	Ms. Codex 1099
+mscodex1100_wk1	4250239	Ms. Codex 1100
+mscodex1101_wk1	4251050	Ms. Codex 1101
+mscodex1102_wk1	4251480	Ms. Codex 1102
+mscodex1104_wk1	4252268	Ms. Codex 1104
+mscodex1104_wk1	4252268	Ms. Codex 1104
+mscodex1103_wk1	4252275	Ms. Codex 1103
+mscodex1105_wk1	4252398	Ms. Codex 1105
+mscodex1106_wk1	4252766	Ms. Codex 1106
+mscodex1107_wk1	4253064	Ms. Codex 1107
+mscodex1108_wk1	4253169	Ms. Codex 1108
+mscodex1109_wk1	4253195	Ms. Codex 1109
+mscodex1110_wk1	4253400	Ms. Codex 1110
+mscodex1111_wk1	4253671	Ms. Codex 1111
+miscmss_maximilianII_wk1	4254183	Misc Mss
+mscodex1112_wk1	4255448	Ms. Codex 1112
+mscodex1113_wk1	4255449	Ms. Codex 1113
+mscodex1114_wk1	4256140	Ms. Codex 1114
+mscodex1115_wk1	4256394	Ms. Codex 1115
+mscodex1116_wk1	4257047	Ms. Codex 1116
+mscodex1117_wk1	4258128	Ms. Codex 1117
+mscodex1118_wk1	4258494	Ms. Codex 1118
+mscodex1134_wk1	4258574	Ms. Codex 1134
+mscodex1134_wk1	4258574	Ms. Codex 1134
+mscodex1120_wk1	4259941	Ms. Codex 1120
+mscodex1121_wk1	4259943	Ms. Codex 1121
+mscodex1122_wk1	4261005	Ms. Codex 1122
+mscodex1122_wk1	4261005	Ms. Codex 1122
+mscodex1123_wk1	4261009	Ms. Codex 1123
+mscodex1124_wk1	4261656	Ms. Codex 1124
+mscodex1125_wk1	4261887	Ms. Codex 1125
+mscodex1126_wk1	4263205	Ms. Codex 1126
+mscodex1129_wk1	4263548	Ms. Codex 1129
+mscodex1128_wk1	4263611	Ms. Codex 1128
+mscodex1128_wk1	4263611	Ms. Codex 1128
+mscodex1131_wk1	4265697	Ms. Codex 1131
+mscodex1131_wk1	4265697	Ms. Codex 1131
+mscodex1130_wk1	4266169	Ms. Codex 1130
+mscodex1133_wk1	4267843	Ms. Codex 1133
+mscodex1133_wk1	4267843	Ms. Codex 1133
+mscodex1132_wk1	4268385	Ms. Codex 1132
+mscodex1119_wk1	4269380	Ms. Codex 1119
+msoversize33_wk1	4270055	Ms. Oversize 33
+mscodex1136_wk1	4270649	Ms. Codex 1136
+mscodex1136_wk1	4270649	Ms. Codex 1136
+mscodex1135_wk1	4271401	Ms. Codex 1135
+mscodex1137_wk1	4271772	Ms. Codex 1137
+mscodex1139_wk1	4273007	Ms. Codex 1139
+mscodex1138_wk1	4275291	Ms. Codex 1138
+mscodex1140_wk1	4282943	Ms. Codex 1140
+mscodex1141_wk1	4282947	Ms. Codex 1141
+mscodex1141_wk1	4282947	Ms. Codex 1141
+mscodex1142_wk1	4284182	Ms. Codex 1142
+mscodex1143_wk1	4284186	Ms. Codex 1143
+mscodex1145_wk1	4285855	Ms. Codex 1145
+mscodex1146_wk1	4285986	Ms. Codex 1146
+mscodex1146_wk1	4285986	Ms. Codex 1146
+mscodex1147_wk1	4286455	Ms. Codex 1147
+mscodex1147_wk1	4286455	Ms. Codex 1147
+mscodex1148_wk1	4286462	Ms. Codex 1148
+mscodex1150_wk1	4286466	Ms. Codex 1150
+mscodex1150_wk1	4286466	Ms. Codex 1150
+mscodex1149_wk1	4286468	Ms. Codex 1149
+mscodex1151_wk1	4292694	Ms. Codex 1151
+mscodex1151_wk1	4292694	Ms. Codex 1151
+msoversize7_wk1	4293035	Ms. Oversize 7
+msoversize7_wk1	4293035	Ms. Oversize 7
+mscodex1152_wk1	4293038	Ms. Codex 1152
+mscodex1152_wk1	4293038	Ms. Codex 1152
+mscodex1153_wk1	4293040	Ms. Codex 1153
+mscodex1154_wk1	4294345	Ms. Codex 1154
+mscodex1154_wk1	4294345	Ms. Codex 1154
+mscodex1155_wk1	4294845	Ms. Codex 1155
+mscodex1156_wk1	4294938	Ms. Codex 1156
+mscodex1157_wk1	4295150	Ms. Codex 1157
+mscodex1159_wk1	4295748	Ms. Codex 1159
+mscodex1158_wk1	4297208	Ms. Codex 1158
+mscodex1158_wk1	4297208	Ms. Codex 1158
+mscodex1160_wk1	4297278	Ms. Codex 1160
+mscodex1161_wk1	4299108	Ms. Codex 1161
+mscodex1162_wk1	4300549	Ms. Codex 1162
+mscodex1163_wk1	4300944	Ms. Codex 1163
+mscodex1164_wk1	4300982	Ms. Codex 1164
+mscodex1164_wk1	4300982	Ms. Codex 1164
+mscodex1165_wk1	4302224	Ms. Codex 1165
+mscodex1167_wk1	4303172	Ms. Codex 1167
+mscodex1168_wk1	4303176	Ms. Codex 1168
+mscodex1169_wk1	4303576	Ms. Codex 1169
+mscodex1171_wk1	4303613	Ms. Codex 1171
+miscmss17_wk1	4304239	Misc Mss 17
+miscmsslarge_cnipius_wk1	4305877	Misc Mss (Large)
+mscodex1172_wk1	4306733	Ms. Codex 1172
+mscodex1172_wk1	4306733	Ms. Codex 1172
+mscodex1170_wk1	4306735	Ms. Codex 1170
+mscodex1170_wk1	4306735	Ms. Codex 1170
+mscodex1173_wk1	4306871	Ms. Codex 1173
+mscodex1174_wk1	4307036	Ms. Codex 1174
+mscodex1175_wk1	4307040	Ms. Codex 1175
+miscmss_ernst_wk1	4307570	Misc Mss
+mscodex1176_wk1	4308115	Ms. Codex 1176
+mscodex1177_wk1	4308447	Ms. Codex 1177
+mscodex1177_wk1	4308447	Ms. Codex 1177
+msoversize27_wk1	4308609	Ms. Oversize 27
+msoversize27_wk1	4308609	Ms. Oversize 27
+msoversize28_wk1	4308937	Ms. Oversize 28
+msoversize28_wk1	4308937	Ms. Oversize 28
+mscodex1179_wk1	4311092	Ms. Codex 1179
+mscodex1179_wk1	4311092	Ms. Codex 1179
+mscodex1178_wk1	4311797	Ms. Codex 1178
+mscodex1181_wk1	4312481	Ms. Codex 1181
+mscodex1180_wk1	4312491	Ms. Codex 1180
+miscmss_gerbel_wk1	4312925	Misc Mss
+mscodex1183_wk1	4313754	Ms. Codex 1183
+mscodex1184_wk1	4314057	Ms. Codex 1184
+mscodex1185_wk1	4314153	Ms. Codex 1185
+mscodex1186_wk1	4314359	Ms. Codex 1186
+mscodex1190_wk1	4315749	Ms. Codex 1190
+mscodex1188_wk1	4315798	Ms. Codex 1188
+mscodex1187_wk1	4316207	Ms. Codex 1187
+mscodex1189_wk1	4316209	Ms. Codex 1189
+mscodex1191_wk1	4316622	Ms. Codex 1191
+mscodex1192_wk1_back0002	4316624	Ms. Codex 1192
+mscodex1193_wk1	4316625	Ms. Codex 1193
+mscodex1194_wk1	4320769	Ms. Codex 1194
+mscodex1195_wk1	4320775	Ms. Codex 1195
+mscodex1196_wk1	4320780	Ms. Codex 1196
+mscodex1197_wk1	4321448	Ms. Codex 1197
+mscodex1211_wk1	4321823	Ms. Codex 1211
+mscodex1199_wk1	4322016	Ms. Codex 1199
+mscodex1212_wk1	4322056	Ms. Codex 1212
+mscodex1213_wk1	4322208	Ms. Codex 1213
+mscodex1198_wk1	4322622	Ms. Codex 1198
+mscodex1200_wk1	4322623	Ms. Codex 1200
+mscodex1202_wk1	4322625	Ms. Codex 1202
+mscodex1203_wk1	4322626	Ms. Codex 1203
+mscodex1203_wk1	4322626	Ms. Codex 1203
+mscodex1205_wk1	4322628	Ms. Codex 1205
+mscodex1206_wk1	4322629	Ms. Codex 1206
+mscodex1206_wk1	4322629	Ms. Codex 1206
+mscodex1207_wk1	4322631	Ms. Codex 1207
+mscodex1208_wk1	4322632	Ms. Codex 1208
+mscodex1209_wk1	4322636	Ms. Codex 1209
+mscodex1210_wk1g	4322639	Ms. Codex 1210
+mscodex1214_wk1	4322642	Ms. Codex 1214
+mscodex1201_wk1	4322645	Ms. Codex 1201
+mscodex1215_wk1	4322648	Ms. Codex 1215
+mscodex1215_wk1	4322648	Ms. Codex 1215
+miscmss_vinnen_wk1	4322650	Misc Mss
+miscmss_vinnen_wk1	4322650	Misc Mss
+miscmss_goussen_wk1	4322651	Misc Mss
+miscmss_goussen_wk1	4322651	Misc Mss
+miscmsslarge_charlesix_wk1	4322652	Misc Mss (Large)
+mscodex1216_wk1	4322835	Ms. Codex 1216
+mscodex1217_wk1	4324590	Ms. Codex 1217
+mscodex1218_wk1	4324591	Ms. Codex 1218
+mscodex1219_wk1	4324592	Ms. Codex 1219
+mscodex1220_wk1	4324593	Ms. Codex 1220
+mscodex1222_wk1	4324597	Ms. Codex 1222
+mscodex1222_wk1	4324597	Ms. Codex 1222
+mscodex1224_wk1	4324598	Ms. Codex 1224
+mscodex1225_wk1	4324599	Ms. Codex 1225
+mscodex1225_wk1	4324599	Ms. Codex 1225
+msoversize36_wk1	4324600	Ms. Oversize 36
+msoversize36_wk1	4324600	Ms. Oversize 36
+miscmss_alexandervi_wk1	4324601	Misc Mss
+mscodex1221_wk1	4324623	Ms. Codex 1221
+mscodex1229_wk1	4335571	Ms. Codex 1229
+mscodex1229_wk1	4335571	Ms. Codex 1229
+mscodex1226_wk1	4336206	Ms. Codex 1226
+mscodex1226_wk1	4336206	Ms. Codex 1226
+mscodex1227_wk1	4336209	Ms. Codex 1227
+mscodex1228_wk1	4336212	Ms. Codex 1228
+mscodex1223_wk1	4350977	Ms. Codex 1223
+mscodex1223_wk1	4350977	Ms. Codex 1223
+mscodex1230_wk1	4350980	Ms. Codex 1230
+miscmsslarge_martinuzzi_wk1	4350986	Misc Mss (Large)
+miscmsslarge_beraldus_wk1	4351911	Misc Mss (Large)
+mscodex1231_wk1	4351912	Ms. Codex 1231
+mscodex1231_wk1	4351912	Ms. Codex 1231
+mscodex1236_wk1	4364567	Ms. Codex 1236
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex1233_wk1	4367723	Ms. Codex 1233
+miscmsslarge2_wk1	4368626	Misc Mss (Large) 2
+mscodex1232_wk1	4368653	Ms. Codex 1232
+mscodex1232_wk1	4368653	Ms. Codex 1232
+mscodex1234_wk1	4368748	Ms. Codex 1234
+miscmss_balbi_wk1	4368765	Misc Mss
+miscmss_balbi_wk1	4368765	Misc Mss
+miscmss_carteron_wk1	4368767	Misc Mss
+miscmss_carteron_wk1	4368767	Misc Mss
+miscmss_claustris_wk1	4368815	Misc Mss
+miscmss_claustris_wk1	4368815	Misc Mss
+miscmss_luscinius_wk1	4368817	Misc Mss
+miscmsslarge_girardi_wk1	4368818	Misc Mss (Large)
+miscmsslarge_rolet_wk1	4368819	Misc Mss (Large)
+miscmsslarge_rolet_wk1	4368819	Misc Mss (Large)
+msoversize38_wk1	4368820	Ms. Oversize 38
+msoversize38_wk1	4368820	Ms. Oversize 38
+msoversize39_wk1	4368823	Ms. Oversize 39
+msoversize39_wk1	4368823	Ms. Oversize 39
+mscodex1239_wk1	4369908	Ms. Codex 1239
+mscodex1239_wk1	4369908	Ms. Codex 1239
+mscodex1235_wk1	4371196	Ms. Codex 1235
+mscodex1237_wk1	4371197	Ms. Codex 1237
+mscodex1237_wk1	4371197	Ms. Codex 1237
+mscodex1238_wk1	4371199	Ms. Codex 1238
+mscoll591_f22_wk1	4371203	Ms. Coll. 591, Folder 22
+mscoll591_f22_wk1	4371203	Ms. Coll. 591, Folder 22
+mscoll591_f23_wk1	4371207	Ms. Coll. 591, Folder 23
+mscoll591_f23_wk1	4371207	Ms. Coll. 591, Folder 23
+mscoll591_f24_wk1	4371212	Ms. Coll. 591, Folder 24
+mscoll591_f24_wk1	4371212	Ms. Coll. 591, Folder 24
+mscoll591_f25_wk1	4371216	Ms. Coll. 591, Folder 25
+mscoll591_f25_wk1	4371216	Ms. Coll. 591, Folder 25
+mscoll709_wk1	4371222	Ms. Coll. 709
+mscodex1240_wk1	4371896	Ms. Codex 1240
+mscodex1241_wk1	4372145	Ms. Codex 1241
+mscoll591_f26_wk1	4372154	Ms. Coll. 591, Folder 26
+mscoll591_f26_wk1	4372154	Ms. Coll. 591, Folder 26
+miscmss_berry_wk1	4372162	Misc Mss
+miscmss_berry_wk1	4372162	Misc Mss
+miscmss_bethencourt_wk1	4372163	Misc Mss
+miscmss_bethencourt_wk1	4372163	Misc Mss
+miscmss_lempereur_wk1	4372168	Misc Mss
+miscmss_lempereur_wk1	4372168	Misc Mss
+miscmss_maliers_wk1	4372171	Misc Mss
+miscmss_maliers_wk1	4372171	Misc Mss
+mscoll591_f28_wk1	4374302	Ms. Coll. 591, Folder 28
+mscoll591_f28_wk1	4374302	Ms. Coll. 591, Folder 28
+mscoll591_f27_wk1	4374309	Ms. Coll. 591, Folder 27
+mscoll591_f27_wk1	4374309	Ms. Coll. 591, Folder 27
+mscoll693_wk1	4374314	Ms. Coll. 693
+mscoll693_wk1	4374314	Ms. Coll. 693
+mscodex1242_wk1	4375183	Ms. Codex 1242
+mscodex1243_wk1	4375191	Ms. Codex 1243
+mscodex1243_wk1	4375191	Ms. Codex 1243
+miscmss_rubeus_wk1	4375195	Misc Mss
+miscmss_rubeus_wk1	4375195	Misc Mss
+mscoll713_wk1	4376416	Ms. Coll. 713
+mscoll713_wk1	4376416	Ms. Coll. 713
+mscodex1244_wk1	4377969	Ms. Codex 1244
+mscodex1248_wk1	4381716	Ms. Codex 1248
+mscodex1248_wk1	4381716	Ms. Codex 1248
+mscodex1245_wk1	4384405	Ms. Codex 1245
+mscodex1246_wk1	4384410	Ms. Codex 1246
+mscodex1246_wk1	4384410	Ms. Codex 1246
+mscodex1247_wk1	4384415	Ms. Codex 1247
+mscodex1247_wk1	4384415	Ms. Codex 1247
+mscodex1249_wk1_back0004	4384417	Ms. Codex 1249
+mscodex1249_wk1_back0004	4384417	Ms. Codex 1249
+mscodex1254_wk1	4384422	Ms. Codex 1254
+mscodex1250_wk1	4385880	Ms. Codex 1250
+mscodex1250_wk1	4385880	Ms. Codex 1250
+mscodex1251_wk1	4385881	Ms. Codex 1251
+mscodex1251_wk1	4385881	Ms. Codex 1251
+mscodex1253_wk1_back0003	4386210	Ms. Codex 1253
+mscodex1253_wk1_back0003	4386210	Ms. Codex 1253
+mscodex1252_wk1	4386219	Ms. Codex 1252
+mscodex1255_wk1_back0004	4386560	Ms. Codex 1255
+mscodex1256_wk1	4395426	Ms. Codex 1256
+mscodex1260_wk1	4397106	Ms. Codex 1260
+mscodex1260_wk1	4397106	Ms. Codex 1260
+mscodex1259_wk1	4397107	Ms. Codex 1259
+mscodex1258_wk1	4397109	Ms. Codex 1258
+mscodex1257_wk1	4397116	Ms. Codex 1257
+mscodex1263_wk1	4400619	Ms. Codex 1263
+mscodex1263_wk1	4400619	Ms. Codex 1263
+msoversize41_wk1	4400913	Ms. Coll. 791
+msoversize41_wk1	4400913	Ms. Coll. 791
+mscodex1264_wk1	4401393	Ms. Codex 1264
+mscodex1265_wk1	4405047	Ms. Codex 1265
+mscodex1262_wk1	4410908	Ms. Codex 1262
+mscodex1262_wk1	4410908	Ms. Codex 1262
+mscodex1266_wk1	4412522	Ms. Codex 1266
+mscodex1267_wk1	4416421	Ms. Codex 1267
+mscodex1267_wk1	4416421	Ms. Codex 1267
+mscodex1269_wk1	4417644	Ms. Codex 1269
+mscoll720_wk1	4418728	Ms. Coll. 720
+mscoll720_wk1	4418728	Ms. Coll. 720
+mscodex1268_wk1	4420908	Ms. Codex 1268
+mscodex1268_wk1	4420908	Ms. Codex 1268
+miscmss_clementvii_wk1	4420920	Misc Mss
+miscmsslarge_villabalzana_wk1	4423448	Misc Mss (Large)
+miscmss_volpe_wk1	4423459	Misc Mss
+miscmss_volpe_wk1	4423459	Misc Mss
+miscmss_marano_wk1	4423475	Misc Mss
+miscmsslarge_cavaciis_wk1	4423489	Misc Mss (Large)
+miscmsslarge_cavaciis_wk1	4423489	Misc Mss (Large)
+miscmss22_wk1	4423495	Misc Mss 22
+miscmsslarge_rudolf_wk1	4424713	Misc Mss (Large)
+msoversize10_wk1	4425139	Ms. Oversize 10
+msoversize10_wk1	4425139	Ms. Oversize 10
+mscodex1271_wk1	4426573	Ms. Codex 1271
+mscodex1271_wk1	4426573	Ms. Codex 1271
+mscodex1272_wk1	4426698	Ms. Codex 1272
+mscodex1273_wk1	4427022	Ms. Codex 1273
+mscodex1274_wk1	4427919	Ms. Codex 1274
+mscodex1276_wk1	4428531	Ms. Codex 1276
+mscodex1277_wk1	4428534	Ms. Codex 1277
+mscodex1278_wk1	4430247	Ms. Codex 1278
+mscodex1279_wk1	4430249	Ms. Codex 1279
+mscodex1280_wk1	4430252	Ms. Codex 1280
+mscodex1281_wk1	4430253	Ms. Codex 1281
+mscodex1285_wk1	4430703	Ms. Codex 1285
+mscodex1285_wk1	4430703	Ms. Codex 1285
+mscodex1282_wk1	4430708	Ms. Codex 1282
+mscodex1284_wk1	4430711	Ms. Codex 1284
+mscodex1283_wk1	4430712	Ms. Codex 1283
+mscodex1286_wk1	4431115	Ms. Codex 1286
+mscodex1287_wk1	4431116	Ms. Codex 1287
+mscodex1288_wk1	4431117	Ms. Codex 1288
+mscodex1289_wk1	4431118	Ms. Codex 1289
+mscodex1290_wk1	4431130	Ms. Codex 1290
+miscmss_borgia_wk1	4432030	Misc Mss
+mscodex1291_wk1	4432963	Ms. Codex 1291
+mscodex1292_wk1	4432970	Ms. Codex 1292
+mscodex1293_wk1	4432974	Ms. Codex 1293
+mscodex1294_wk1	4432980	Ms. Codex 1294
+mscodex1295_wk1	4432985	Ms. Codex 1295
+mscodex1296_wk1	4432988	Ms. Codex 1296
+mscodex1297_wk1	4432992	Ms. Codex 1297
+mscodex1298_wk1	4432995	Ms. Codex 1298
+mscodex1299_wk1	4432998	Ms. Codex 1299
+mscodex1300_wk1	4433002	Ms. Codex 1300
+mscodex1301_wk1	4433005	Ms. Codex 1301
+mscodex1302_wk1	4433009	Ms. Codex 1302
+mscodex1303_wk1	4433013	Ms. Codex 1303
+mscodex1304_wk1	4433020	Ms. Codex 1304
+mscodex1305_wk1	4433026	Ms. Codex 1305
+mscodex1306_wk1	4433027	Ms. Codex 1306
+mscodex1307_wk1	4433028	Ms. Codex 1307
+mscodex1308_wk1	4433055	Ms. Codex 1308
+mscodex1309_wk1	4433134	Ms. Codex 1309
+mscodex1275_wk1	4433275	Ms. Codex 1275
+mscodex1311_wk1	4434799	Ms. Codex 1311
+mscodex1310_wk1	4434801	Ms. Codex 1310
+mscodex1312_wk1	4435187	Ms. Codex 1312
+mscodex1313_wk1	4435271	Ms. Codex 1313
+miscmss_carafa_wk1	4435616	Misc Mss
+mscodex1315_wk1	4435722	Ms. Codex 1315
+mscodex1314_wk1	4435727	Ms. Codex 1314
+mscodex1316_wk1	4435760	Ms. Codex 1316
+mscodex1319_wk1	4435983	Ms. Codex 1319
+mscodex1317_wk1	4436792	Ms. Codex 1317
+mscodex1320_wk1	4436804	Ms. Codex 1320
+mscodex1321_wk1	4436807	Ms. Codex 1321
+mscodex1321_wk1	4436807	Ms. Codex 1321
+mscodex1322_wk1	4436829	Ms. Codex 1322
+mscodex1322_wk1	4436829	Ms. Codex 1322
+mscodex1318_wk1	4437141	Ms. Codex 1318
+mscodex1323_wk1	4438956	Ms. Codex 1323
+mscodex1323_wk1	4438956	Ms. Codex 1323
+mscodex1324_wk1	4439096	Ms. Codex 1324
+mscodex1325_wk1	4439444	Ms. Codex 1325
+mscodex1326_wk1	4439608	Ms. Codex 1326
+mscodex1327_wk1	4439610	Ms. Codex 1327
+mscodex1328_wk1	4439614	Ms. Codex 1328
+mscodex1329_wk1	4439968	Ms. Codex 1329
+mscodex1329_wk1	4439968	Ms. Codex 1329
+mscodex1329_wk1	4439968	Ms. Codex 1329
+mscodex1333_wk1	4440494	Ms. Codex 1333
+mscodex1332_wk1	4440495	Ms. Codex 1332
+mscodex1330_wk1	4440502	Ms. Codex 1330
+mscodex1331_wk1	4440504	Ms. Codex 1331
+mscodex1334_wk1	4441410	Ms. Codex 1334
+mscodex1338_wk1	4441731	Ms. Codex 1338
+mscodex1336_wk1	4441749	Ms. Codex 1336
+mscodex1335_wk1	4441751	Ms. Codex 1335
+mscodex1339_wk1	4441756	Ms. Codex 1339
+mscodex1340_wk1	4441761	Ms. Codex 1340
+mscodex1341_wk1	4441763	Ms. Codex 1341
+mscodex1342_wk1	4441767	Ms. Codex 1342
+mscodex1343_wk1	4442110	Ms. Codex 1343
+mscodex1344_wk1	4442112	Ms. Codex 1344
+mscodex1345_wk1	4442365	Ms. Codex 1345
+mscodex1346_wk1	4442472	Ms. Codex 1346
+mscodex1347_wk1	4442476	Ms. Codex 1347
+mscodex1348_wk1	4442480	Ms. Codex 1348
+mscodex1351_wk1	4443054	Ms. Codex 1351
+mscodex1352_wk1	4443063	Ms. Codex 1352
+mscodex1349_wk1	4443086	Ms. Codex 1349
+mscodex1350_wk1	4443090	Ms. Codex 1350
+msoversize17_wk1	4443094	Ms. Oversize 17
+msoversize17_wk1	4443094	Ms. Oversize 17
+miscmss_dellarovere_wk1	4443110	Misc Mss
+mscodex1353_wk1	4443331	Ms. Codex 1353
+mscodex1354_wk1	4444052	Ms. Codex 1354
+mscodex1355_wk1	4444053	Ms. Codex 1355
+mscodex1356_wk1	4444056	Ms. Codex 1356
+mscodex1358_wk1	4444520	Ms. Codex 1358
+mscodex1359_wk1	4444523	Ms. Codex 1359
+mscodex1360_wk1	4444611	Ms. Codex 1360
+mscodex1361_wk1_back0004	4444631	Ms. Codex 1361
+mscodex1357_wk1	4444638	Ms. Codex 1357
+mscodex1362_wk1	4444976	Ms. Codex 1362
+mscodex1366_wk1	4445011	Ms. Codex 1366
+mscodex1365_wk1	4445013	Ms. Codex 1365
+mscodex1364_wk1	4445017	Ms. Codex 1364
+mscodex1370_wk1	4445673	Ms. Codex 1370
+mscodex1370_wk1	4445673	Ms. Codex 1370
+mscodex1369_wk1	4445674	Ms. Codex 1369
+mscodex1369_wk1	4445674	Ms. Codex 1369
+mscodex1368_wk1	4445675	Ms. Codex 1368
+mscodex1363_wk1	4446177	Ms. Codex 1368
+mscodex1367_wk1	4446185	Ms. Codex 1367
+miscmss_guidiccioni_wk1	4446186	Misc Mss
+mscodex1377_wk1	4446223	Ms. Codex 1377
+mscodex1378_wk1	4446254	Ms. Codex 1378
+mscodex1375_wk1	4446454	Ms. Codex 1375
+mscodex1374_wk1	4446455	Ms. Codex 1374
+mscodex1373_wk1	4446456	Ms. Codex 1373
+mscodex1372_wk1	4446461	Ms. Codex 1372
+mscodex1372_wk1	4446461	Ms. Codex 1372
+mscodex1371_wk1	4446463	Ms. Codex 1371
+mscodex1371_wk1	4446463	Ms. Codex 1371
+miscmss_pucci_wk1	4446491	Misc Mss
+mscodex1381_wk1	4446720	Ms. Codex 1381
+mscodex1380_wk1	4446722	Ms. Codex 1380
+mscodex1379_wk1	4446726	Ms. Codex 1379
+mscodex1385_wk1	4447373	Ms. Codex 1385
+mscodex1383_wk1	4447437	Ms. Codex 1383
+mscodex1384_wk1	4447438	Ms. Codex 1384
+mscodex1382_wk1	4447450	Ms. Codex 1382
+mscodex1388_wk1	4448426	Ms. Codex 1388
+mscodex1389_wk1	4448435	Ms. Codex 1389
+mscodex1390_wk1	4448455	Ms. Codex 1390
+mscodex1390_wk1	4448455	Ms. Codex 1390
+mscodex1387_wk1	4448456	Ms. Codex 1387
+mscodex1386_wk1	4448458	Ms. Codex 1386
+mscodex1396_wk1	4449396	Ms. Codex 1396
+mscodex1394_wk1	4449412	Ms. Codex 1394
+mscodex1391_wk1	4449480	Ms. Codex 1391
+mscodex1392_wk1	4449484	Ms. Codex 1392
+mscodex1393_wk1	4449504	Ms. Codex 1393
+mscodex1395_wk1	4449521	Ms. Codex 1395
+mscodex1397_wk1	4449534	Ms. Codex 1397
+mscodex1398_wk1	4449777	Ms. Codex 1398
+mscodex1399_wk1	4450354	Ms. Codex 1399
+mscodex1400_wk1	4452089	Ms. Codex 1400
+mscodex1401_wk1	4452131	Ms. Codex 1401
+mscodex1402_wk1	4452172	Ms. Codex 1402
+mscodex1403_wk1	4452184	Ms. Codex 1403
+mscodex1404_wk1	4452193	Ms. Codex 1404
+mscodex1405_wk1	4452244	Ms. Codex 1405
+mscodex1410_wk1	4452268	Ms. Codex 1410
+mscodex1411_wk1	4452273	Ms. Codex 1411
+mscodex1413_wk1	4452276	Ms. Codex 1413
+mscodex1414_wk1	4452278	Ms. Codex 1414
+mscodex1415_wk1	4452280	Ms. Codex 1415
+mscodex1406_wk1	4452289	Ms. Codex 1406
+mscodex1407_wk1	4452295	Ms. Codex 1407
+mscodex1408_wk1	4452308	Ms. Codex 1408
+mscodex1416_wk1	4452318	Ms. Codex 1416
+mscodex1412_wk1	4452320	Ms. Codex 1412
+mscodex1417_wk1	4452992	Ms. Codex 1417
+mscodex1418_wk1	4453003	Ms. Codex 1418
+mscodex1418_wk1	4453003	Ms. Codex 1418
+mscodex1420_wk1	4453008	Ms. Codex 1420
+mscodex1422_wk1	4453020	Ms. Codex 1422
+mscodex1422_wk1	4453020	Ms. Codex 1422
+mscodex1423_wk1	4453022	Ms. Codex 1423
+mscodex1423_wk1	4453022	Ms. Codex 1423
+mscodex1424_wk1	4453533	Ms. Codex 1424
+mscodex1409_wk1	4453534	Ms. Codex 1409
+mscodex1425_wk1	4453539	Ms. Codex 1425
+mscodex1419_wk1	4453540	Ms. Codex 1419
+mscodex1427_wk1	4453544	Ms. Codex 1427
+mscodex1426_wk1	4454036	Ms. Codex 1426
+mscodex1428_wk1	4454279	Ms. Codex 1428
+mscodex1429_wk1	4454283	Ms. Codex 1429
+mscodex1430_wk1	4454285	Ms. Codex 1430
+mscodex1421_wk1	4454791	Ms. Codex 1421
+mscodex1432_wk1	4454843	Ms. Codex 1432
+mscodex1433_wk1	4454910	Ms. Codex 1433
+mscodex1434_wk1	4454913	Ms. Codex 1434
+mscodex1434_wk1	4454913	Ms. Codex 1434
+mscodex1431_wk1	4454916	Ms. Codex 1431
+mscodex1435_wk1	4455394	Ms. Codex 1435
+mscodex1435_wk1	4455394	Ms. Codex 1435
+mscodex1437_wk1	4455407	Ms. Codex 1437
+mscodex1438_wk1	4455708	Ms. Codex 1438
+mscodex1439_wk1	4460974	Ms. Codex 1439
+mscodex1440_wk1	4463814	Ms. Codex 1440
+mscodex1442_wk1	4464091	Ms. Codex 1442
+mscodex1446_wk1	4464715	Ms. Codex 1446
+mscodex1443_wk1	4465146	Ms. Codex 1443
+mscodex1449_wk1	4466383	Ms. Codex 1449
+mscodex1450_wk1	4466943	Ms. Codex 1450
+mscodex1447_wk1	4466961	Ms. Codex 1447
+mscodex1448_wk1	4467017	Ms. Codex 1448
+mscodex1444_wk1	4467686	Ms. Codex 1444
+mscodex1445_wk1	4467704	Ms. Codex 1445
+mscodex1451_wk1	4467712	Ms. Codex 1451
+miscmss_auzina_wk1	4468240	Misc Mss
+miscmss_gracia_wk1	4468245	Misc Mss
+mscodex1453_wk1	4468935	Ms. Codex 1453
+mscodex1455_wk1	4469081	Ms. Codex 1455
+mscodex1452_wk1	4472125	Ms. Codex 1452
+mscodex1452_wk1	4472125	Ms. Codex 1452
+mscodex1459_wk1	4473253	Ms. Codex 1459
+mscodex1461_wk1	4473266	Ms. Codex 1461
+mscodex1461_wk1	4473266	Ms. Codex 1461
+mscodex1457_wk1	4475425	Ms. Codex 1457
+mscodex1457_wk1	4475425	Ms. Codex 1457
+mscodex1462_wk1	4475427	Ms. Codex 1462
+mscodex1463_wk1	4475561	Ms. Codex 1463
+mscodex1465_wk1	4475567	Ms. Codex 1465
+mscodex1464_wk1	4475575	Ms. Codex 1464
+mscodex1466_wk1	4476115	Ms. Codex 1466
+mscodex1467_wk1	4476119	Ms. Codex 1467
+mscodex1468_wk1	4476581	Ms. Codex 1468
+mscodex1469_wk1	4476583	Ms. Codex 1469
+mscodex1470_wk1	4477032	Ms. Codex 1470
+mscodex1471_wk1	4477042	Ms. Codex 1471
+mscoll49_f1_wk1	4477372	Ms. Coll. 49, Folder 1
+mscoll49_f2_wk1	4477377	Ms. Coll. 49, Folder 2
+mscoll49_f3_wk1	4477388	Ms. Coll. 49, Folder 3
+mscoll49_f4_wk1	4477392	Ms. Coll. 49, Folder 4
+mscoll49_f5_wk1	4477393	Ms. Coll. 49, Folder 5
+mscoll49_f6_wk1	4477397	Ms. Coll. 49, Folder 6
+mscoll49_f8_wk1	4477426	Ms. Coll. 49, Folder 8
+mscoll49_f9_wk1	4477431	Ms. Coll. 49, Folder 9
+mscoll49_f10_wk1	4477454	Ms. Coll. 49, Folder 10
+mscoll49_f11_wk1	4477463	Ms. Coll. 49, Folder 11
+mscoll49_f14_wk1	4477672	Ms. Coll. 49, Folder 14
+mscol49_f15_wk1	4477692	Ms. Coll. 49, Folder 15
+mscoll49_f12_wk1	4477697	Ms. Coll. 49, Folder 12
+mscoll49_f13_wk1	4477701	Ms. Coll. 49, Folder 13
+mscoll49_f16_wk1	4477710	Ms. Coll. 49, Folder 16
+mscoll49_f17_wk1	4477715	Ms. Coll. 49, Folder 17
+mscoll49_f18_wk1	4477725	Ms. Coll. 49, Folder 18
+mscoll49_f19_wk1	4477745	Ms. Coll. 49, Folder 19
+mscodex1472_wk1	4477755	Ms. Codex 1472
+mscoll49_f20_wk1	4477756	Ms. Coll. 49, Folder 20
+mscoll49_f21_wk1	4477849	Ms. Coll. 49, Folder 21
+mscoll49_f22_wk1	4477855	Ms. Coll. 49, Folder 22
+mscoll49_f23_wk1	4477861	Ms. Coll. 49, Folder 23
+mscoll49_f24_wk1	4477869	Ms. Coll. 49, Folder 24
+mscoll49_f25_wk1	4477872	Ms. Coll. 49, Folder 25
+mscoll49_f26_wk1	4477877	Ms. Coll. 49, Folder 26
+mscoll49_f27_wk1	4477880	Ms. Coll. 49, Folder 27
+mscoll49_f28_wk1	4478013	Ms. Coll. 49, Folder 28
+mscoll49_f29_wk1	4478021	Ms. Coll. 49, Folder 29
+mscoll49_f31_wk1	4478267	Ms. Coll. 49, Folder 31
+mscoll49_f32_wk1	4478446	Ms. Coll. 49, Folder 32
+mscoll49_f33_wk1	4478447	Ms. Coll. 49, Folder 33
+mscoll49_f30_wk1	4478457	Ms. Coll. 49, Folder 30
+mscoll49_f34_wk1	4478482	Ms. Coll. 49, Folder 34
+mscoll49_f35_wk1	4478494	Ms. Coll. 49, Folder 35
+mscoll49_f36_wk1	4478499	Ms. Coll. 49, Folder 36
+mscoll49_f37_wk1	4478506	Ms. Coll. 49, Folder 37
+mscoll49_f38_wk1	4478509	Ms. Coll. 49, Folder 38
+mscodex1473_wk1	4478526	Ms. Codex 1473
+mscodex1474_wk1	4478587	Ms. Codex 1474
+mscoll49_f42_wk1	4478832	Ms. Coll. 49, Folder 42
+mscoll49_f44_wk1	4478835	Ms. Coll. 49, Folder 44
+mscoll49_f45_wk1	4478837	Ms. Coll. 49, Folder 45
+mscoll49_7_wk1	4478875	Ms. Coll. 49, Folder 7
+mscodex1475_wk1	4478878	Ms. Codex 1475
+mscodex1476_wk1	4478879	Ms. Codex 1476
+mscoll49_f39_wk1	4478880	Ms. Coll. 49, Folder 39
+mscoll49_f40_wk1	4478881	Ms. Coll. 49, Folder 40
+mscoll49_f41_wk1	4478885	Ms. Coll. 49, Folder 41
+mscoll49_f63_wk1	4478926	Ms. Coll. 49, Folder 63
+mscoll49_f65_wk1	4478995	Ms. Coll. 49, Folder 65
+mscoll49_f66_wk1	4478998	Ms. Coll. 49, Folder 66
+mscoll49_f67_wk1	4479001	Ms. Coll. 49, Folder 67
+mscoll49_f68_wk1	4479004	Ms. Coll. 49, Folder 68
+mscoll49_f69_wk1	4479007	Ms. Coll. 49, Folder 69
+mscoll49_f70_wk1	4479011	Ms. Coll. 49, Folder 70
+mscoll49_f71_wk1	4479020	Ms. Coll. 49, Folder 71
+mscoll49_f72_wk1	4479047	Ms. Coll. 49, Folder 72
+mscoll49_f73_wk1	4479053	Ms. Coll. 49, Folder 73
+mscoll49_f74_wk1	4479061	Ms. Coll. 49, Folder 74
+mscoll49_f75_wk1	4479070	Ms. Coll. 49, Folder 75
+mscoll49_f76_wk1	4479079	Ms. Coll. 49, Folder 76
+mscoll49_f77_wk1	4479094	Ms. Coll. 49, Folder 77
+mscoll49_f78_wk1	4479096	Ms. Coll. 49, Folder 78
+mscoll49_f79_wk1	4479097	Ms. Coll. 49, Folder 79
+mscoll49_f80_wk1	4479101	Ms. Coll. 49, Folder 80
+mscoll49_f81_wk1	4479104	Ms. Coll. 49, Folder 81
+mscoll49_f82_wk1	4479106	Ms. Coll. 49, Folder 82
+mscoll49_f83_wk1	4479109	Ms. Coll. 49, Folder 83
+mscoll49_f84_wk1	4479112	Ms. Coll. 49, Folder 84
+mscoll49_f85_wk1	4479116	Ms. Coll. 49, Folder 85
+mscodex1460_wk1	4479316	Ms. Codex 1460
+mscodex1460_wk1	4479316	Ms. Codex 1460
+miscmsslarge_torelli_wk1	4479395	Misc Mss (Large)
+miscmsslarge_bremlen_wk1	4479494	Misc Mss (Large)
+mscoll49_f43_wk1	4479603	Ms. Coll. 49, Folder 43
+mscodex1477_wk1	4479957	Ms. Codex 1477
+mscodex1478_wk1	4480226	Ms. Codex 1478
+mscodex1480_wk1	4481210	Ms. Codex 1480
+mscodex1482_wk1	4481241	Ms. Codex 1482
+mscodex1484_wk1	4482085	Ms. Codex 1484
+mscodex1483_wk1	4482613	Ms. Codex 1483
+mscodex1485_wk1	4482632	Ms. Codex 1485
+mscodex1486_wk1	4483418	Ms. Codex 1486
+mscodex1488_wk1	4485894	Ms. Codex 1488
+mscodex1489_wk1	4485902	Ms. Codex 1489
+mscodex1490_wk1	4485908	Ms. Codex 1490
+mscodex1491_wk1	4485916	Ms. Codex 1491
+mscodex1492_wk1	4485922	Ms. Codex 1492
+mscodex1494_wk1_back0002	4486569	Ms. Codex 1494
+mscodex1493_wk1	4486578	Ms. Codex 1493
+mscodex1496_wk1_back0002	4486972	Ms. Codex 1496
+mscodex1495_wk1	4487012	Ms. Codex 1495
+mscodex1495_wk1	4487012	Ms. Codex 1495
+mscoll728_wk1	4487066	Ms. Coll. 728
+mscodex1497_wk1_back0002	4487573	Ms. Codex 1497
+mscodex1499_wk1_back0002	4487580	Ms. Codex 1499
+mscodex1499_wk1_back0002	4487580	Ms. Codex 1499
+mscodex1500_wk1	4487591	Ms. Codex 1500
+mscodex1501_wk1	4487596	Ms. Codex 1501
+mscodex1502_wk1	4487777	Ms. Codex 1502
+mscodex1504_wk1	4488189	Ms. Codex 1504
+mscodex1503_wk1	4488199	Ms. Codex 1503
+mscodex1507_wk1	4488604	Ms. Codex 1507
+mscodex1508_wk1	4488610	Ms. Codex 1508
+mscodex1508_wk1	4488610	Ms. Codex 1508
+mscodex1505_wk1	4488625	Ms. Codex 1505
+mscodex1509_wk1	4489110	Ms. Codex 1509
+mscodex1510_wk1	4489118	Ms. Codex 1510
+mscodex1506_wk1	4489312	Ms. Codex 1506
+mscodex1513_wk1	4489962	Ms. Codex 1513
+mscodex1512_wk1	4489966	Ms. Codex 1512
+mscodex1511_wk1	4490058	Ms. Codex 1511
+mscodex1515_wk1	4490778	Ms. Codex 1515
+mscodex1516_wk1	4490799	Ms. Codex 1516
+mscodex1516_wk1	4490799	Ms. Codex 1516
+mscoll732_wk1	4490840	Ms. Coll. 732
+mscoll732_wk1	4490840	Ms. Coll. 732
+mscoll733_wk1	4490843	Ms. Coll. 733
+mscodex1517_wk1	4490881	Ms. Codex 1517
+mscodex1518_wk1	4492204	Ms. Codex 1518
+mscodex1519_wk1	4492206	Ms. Codex 1519
+mscodex1519_wk1	4492206	Ms. Codex 1519
+mscoll752_wk1	4493575	Ms. Coll. 752
+miscmss_pistoia_wk1	4493742	Misc Mss
+miscmss_artedellalana_wk1	4493748	Misc Mss
+miscmss25_wk1	4494121	Misc Mss 25
+miscmss_milan_wk1	4495583	Misc Mss
+miscmss_catholicchurch_wk1	4495586	Misc Mss
+miscmss_florence_wk1	4495609	Misc Mss
+miscmss27_wk1	4495612	Misc Mss 27
+mscodex1531_wk1	4495986	Ms. Codex 1531
+mscodex1531_wk1	4495986	Ms. Codex 1531
+mscodex1523_wk1	4496269	Ms. Codex 1523
+mscodex1524_wk1	4496283	Ms. Codex 1524
+mscodex1525_wk1	4496302	Ms. Codex 1525
+mscodex1526_wk1	4496311	Ms. Codex 1526
+mscodex1527_wk1	4496331	Ms. Codex 1527
+mscodex1528_wk1	4496346	Ms. Codex 1528
+mscodex1529_wk1	4496353	Ms. Codex 1529
+mscodex1534_wk1	4497191	Ms. Codex 1534
+mscodex1534_wk1	4497191	Ms. Codex 1534
+mscodex1533_wk1	4497261	Ms. Codex 1533
+mscodex1530_wk1	4497264	Ms. Codex 1530
+miscmss_foscarini_wk1	4497714	Misc Mss
+miscmss_foscarini_wk1	4497714	Misc Mss
+mscodex1536_wk1	4499278	Ms. Codex 1536
+mscodex1536_wk1	4499278	Ms. Codex 1536
+mscoll736_wk1	4499330	Ms. Coll. 736
+mscodex1535_wk1	4499335	Ms. Codex 1535
+mscodex1535_wk1	4499335	Ms. Codex 1535
+mscodex1537_wk1	4499969	Ms. Codex 1537
+mscodex1537_wk1	4499969	Ms. Codex 1537
+mscodex1538_wk1	4499972	Ms. Codex 1538
+mscodex1522_wk1	4500246	Ms. Codex 1522
+mscodex1522_wk1	4500246	Ms. Codex 1522
+mscodex1539_wk1	4500289	Ms. Codex 1539
+mscodex1540_wk1	4500295	Ms. Codex 1540
+mscodex1541_wk1	4501474	Ms. Codex 1541
+mscodex1542_wk1	4501812	Ms. Codex 1542
+mscodex1546_wk1	4504438	Ms. Codex 1546
+mscodex1546_wk1	4504438	Ms. Codex 1546
+mscodex1549_wk1	4507372	Ms. Codex 1549
+mscoll591_f29_wk1	4508676	Ms. Coll. 591, Folder 29
+mscoll591_f29_wk1	4508676	Ms. Coll. 591, Folder 29
+mscoll591_f30_wk1	4508926	Ms. Coll. 591, Folder 30
+mscoll591_f30_wk1	4508926	Ms. Coll. 591, Folder 30
+mscodex1548_wk1	4516722	Ms. Codex 1548
+mscodex1520_wk1	4517561	Ms. Codex 1520
+mscodex1520_wk1	4517561	Ms. Codex 1520
+mscoll739_wk1	4517565	Ms. Coll. 739
+mscoll591_f31_wk1	4523639	Ms. Coll. 591, Folder 31
+mscoll591_f31_wk1	4523639	Ms. Coll. 591, Folder 31
+mscodex1545_wk1	4524288	Ms. Codex 1545
+mscodex1547_wk1	4524347	Ms. Codex 1547
+mscodex1552_wk1	4526275	Ms. Codex 1552
+mscodex1552_wk1	4526275	Ms. Codex 1552
+miscmss28_wk1	4529085	Misc Mss 28
+	4530758	
+mscodex1555_wk1	4533386	Ms. Codex 1555
+mscodex1550_wk1	4533387	Ms. Codex 1550
+mscodex1551_wk1	4539402	Ms. Codex 1551
+mscodex1556_wk1	4543698	Ms. Codex 1556
+mscodex1558_wk1	4545117	Ms. Codex 1558
+mscodex1557_wk1	4545243	Ms. Codex 1557
+mscoll753_wk1	4546512	Ms. Coll. 753
+mscoll754_wk1	4546999	Ms. Coll. 754
+miscmsslarge_burdet_wk1	4549078	Misc Mss (Large)
+miscmss_plantagenet_wk1	4549160	Misc Mss
+miscmss_plantagenet_wk1	4549160	Misc Mss
+miscmss_davenport_wk1	4552933	Misc Mss
+miscmss_davenport_wk1	4552933	Misc Mss
+mscoll755_wk1	4572715	Ms. Coll. 755
+miscmss_love_wk1	4575007	Misc Mss
+miscmss_love_wk1	4575007	Misc Mss
+miscmsslarge_bingham_wk1	4576180	Misc Mss (Large)
+miscmsslarge_bingham_wk1	4576180	Misc Mss (Large)
+miscmss_brooke_wk1	4577678	Misc Mss
+miscmss_brooke_wk1	4577678	Misc Mss
+miscmss_bonyngton_wk1	4578166	Misc Mss
+miscmss_bonyngton_wk1	4578166	Misc Mss
+miscmss_lee_wk1	4587938	Misc Mss
+miscmss_lee_wk1	4587938	Misc Mss
+msoversize40_wk1	4589703	Ms. Oversize 40
+msoversize40_wk1	4589703	Ms. Oversize 40
+mscodex1559_wk1	4589921	Ms. Codex 1559
+mscodex1559_wk1	4589921	Ms. Codex 1559
+miscmss_paulus_wk1	4593809	Misc Mss
+miscmss_paulus_wk1	4593809	Misc Mss
+mscodex1560_wk1	4609637	Ms. Codex 1560
+mscodex1560_wk1	4609637	Ms. Codex 1560
+mscoll742_f29_wk1	4612411	Ms. Coll. 742, Folder 29
+mscoll742_f29_wk1	4612411	Ms. Coll. 742, Folder 29
+mscoll742_f1_wk1	4612432	Ms. Coll. 742, Folder 1
+mscoll742_f1_wk1	4612432	Ms. Coll. 742, Folder 1
+mscoll742_f27_wk1	4612437	Ms. Coll. 742, Folder 27
+mscoll742_f27_wk1	4612437	Ms. Coll. 742, Folder 27
+mscoll751_wk1	4612455	Ms. Coll. 751
+mscoll751_wk1	4612455	Ms. Coll. 751
+mscoll742_f13_wk1	4624705	Ms. Coll. 742, Folder 13
+mscoll742_f13_wk1	4624705	Ms. Coll. 742, Folder 13
+mscoll742_f12_wk1	4624713	Ms. Coll. 742, Folder 12
+mscoll742_f12_wk1	4624713	Ms. Coll. 742, Folder 12
+mscoll742_f19_wk1	4625981	Ms. Coll. 742, Folder 19
+mscoll742_f10_wk1	4625996	Ms. Coll. 742, Folder 10
+mscoll742_f10_wk1	4625996	Ms. Coll. 742, Folder 10
+mscoll742_f38_wk1	4625999	Ms. Coll. 742, Folder 38
+mscoll742_f38_wk1	4625999	Ms. Coll. 742, Folder 38
+mscoll742_f39_wk1	4626012	Ms. Coll. 742, Folder 39
+mscoll742_f39_wk1	4626012	Ms. Coll. 742, Folder 39
+mscoll742_f26_wk1	4626022	Ms. Coll. 742, Folder 26
+mscoll742_f26_wk1	4626022	Ms. Coll. 742, Folder 26
+mscoll742_f56_wk1	4626029	Ms. Coll. 742, Folder 56
+mscoll742_f56_wk1	4626029	Ms. Coll. 742, Folder 56
+mscoll742_f11_wk1	4626030	Ms. Coll. 742, Folder 11
+mscoll742_f11_wk1	4626030	Ms. Coll. 742, Folder 11
+ljs384_wk1	4626269	LJS 384
+ljs384_wk1	4626269	LJS 384
+ljs421_wk1	4626305	LJS 421
+ljs421_wk1	4626305	LJS 421
+mscoll742_f75_wk1	4627022	Ms. Coll. 742, Folder 75
+mscoll742_f75_wk1	4627022	Ms. Coll. 742, Folder 75
+mscoll742_f70_wk1	4627061	Ms. Coll. 742, Folder 70
+mscoll742_f70_wk1	4627061	Ms. Coll. 742, Folder 70
+mscoll742_f82_wk1	4627073	Ms. Coll. 742, Folder 82
+mscoll742_f89_wk1	4627084	Ms. Coll. 742, Folder 89
+mscoll742_f92_wk1	4627117	Ms. Coll. 742, Folder 92
+mscoll742_f88_wk1	4632014	Ms. Coll. 742, Folder 88
+mscoll742_f87_wk1	4632044	Ms. Coll. 742, Folder 87
+mscoll742_f86_wk1	4632052	Ms. Coll. 742, Folder 86
+mscoll742_f96_wk1	4632055	Ms. Coll. 742, Folder 96
+mscoll742_f91_wk1	4632066	Ms. Coll. 742, Folder 91
+mscodex1544_wk1	4632135	Ms. Codex 1544
+mscoll_761_wk1	4634274	Ms. Coll. 761
+mscodex1454_wk1	4634485	Ms. Codex 1454
+miscmss_grimaldi_wk1	4634803	Misc Mss
+miscmss_farnese_r_wk1	4634832	Misc Mss
+miscmss_armellinimedici_wk1	4634914	Misc Mss
+mscoll742_f95_wk1	4636912	Ms. Coll. 742, Folder 95
+mscoll742_f81_wk1	4636964	Ms. Coll. 742, Folder 81
+mscoll742_f81_wk1	4636964	Ms. Coll. 742, Folder 81
+mscoll742_f80_wk1	4636980	Ms. Coll. 742, Folder 80
+mscoll742_f80_wk1	4636980	Ms. Coll. 742, Folder 80
+mscoll742_f78_wk1	4636991	Ms. Coll. 742, Folder 78
+mscoll742_f78_wk1	4636991	Ms. Coll. 742, Folder 78
+mscoll742_f79_wk1	4636993	Ms. Coll. 742, Folder 79
+mscoll742_f79_wk1	4636993	Ms. Coll. 742, Folder 79
+mscoll742_f77_wk1	4637001	Ms. Coll. 742, Folder 77
+mscoll742_f77_wk1	4637001	Ms. Coll. 742, Folder 77
+mscoll742_f74_wk1	4637005	Ms. Coll. 742, Folder 74
+mscoll742_f74_wk1	4637005	Ms. Coll. 742, Folder 74
+mscoll742_f73_wk1	4637009	Ms. Coll. 742, Folder 73
+mscoll742_f73_wk1	4637009	Ms. Coll. 742, Folder 73
+mscoll742_f97_wk1	4637279	Ms. Coll. 742, Folder 97
+mscoll742_f98_wk1	4637287	Ms. Coll. 742, Folder 98
+mscoll742_f100_wk1	4637291	Ms. Coll. 742, Folder 100
+mscoll742_f101_wk1	4637308	Ms. Coll. 742, Folder 101
+mscoll742_f102_wk1	4637319	Ms. Coll. 742, Folder 102
+mscoll742_f76_wk1	4637379	Ms. Coll. 742, Folder 76
+mscoll742_f76_wk1	4637379	Ms. Coll. 742, Folder 76
+mscoll742_f71_wk1	4637391	Ms. Coll. 742, Folder 71
+mscoll742_f71_wk1	4637391	Ms. Coll. 742, Folder 71
+mscoll742_f83_wk1	4637404	Ms. Coll. 742, Folder 83
+mscoll742_f84_wk1	4637787	Ms. Coll. 742, Folder 84
+mscoll742_f107_wk1	4637803	Ms. Coll. 742, Folder 107
+mscoll742_f105_wk1	4637838	Ms. Coll. 742, Folder 105
+mscoll742_f106_wk1	4638083	Ms. Coll. 742, Folder 106
+mscoll742_f108_wk1	4638210	Ms. Coll. 742, Folder 108
+mscoll742_f109_wk1	4638239	Ms. Coll. 742, Folder 109
+mscoll742_f110_wk1	4638296	Ms. Coll. 742, Folder 110
+mscoll742_f111_wk1	4638325	Ms. Coll. 742, Folder 111
+mscoll742_f112_wk1	4638327	Ms. Coll. 742, Folder 112
+mscoll742_f113_wk1	4638533	Ms. Coll. 742, Folder 113
+mscoll750_f1_2_wk1	4638537	Ms. Coll. 750, Folder 1-2
+mscoll750_f3_f135_wk1	4638540	Ms. Coll. 750, Folder 3, 135
+mscoll750_f4_f5_wk1	4638541	Ms. Coll. 750, Folder 4-5
+mscoll750_f6_wk1	4638542	Ms. Coll. 750, Folder 6
+mscoll750_f7_wk1	4638543	Ms. Coll. 750, Folder 7
+mscoll750_f8_f10_wk1	4638545	Ms. Coll. 750, Folder 8-10
+mscoll750_f11_wk1	4638547	Ms. Coll. 750, Folder 11
+mscoll750_f12_wk1	4638550	Ms. Coll. 750, Folder 12
+mscoll750_f13_wk1	4638551	Ms. Coll. 750, Folder 13
+mscoll750_f14_21_wk1	4638554	Ms. Coll. 750, Folder 14-21
+mscoll750_f22_wk1	4638556	Ms. Coll. 750, Folder 22
+mscoll750_f30_wk1	4638559	Ms. Coll. 750, Folder 30
+mscoll750_f33_f34_wk1	4638653	Ms. Coll. 750, Folder 33-34
+mscoll750_f39_f46_wk1	4638659	Ms. Coll. 750, Folder 39-46
+mscoll750_f47_wk1	4638661	Ms. Coll. 750, Folder 47
+mscoll750_f48_wk1	4638665	Ms. Coll. 750, Folder 48
+mscoll750_f49_f57_wk1	4638669	Ms. Coll. 750, Folder 49-57
+mscoll750_f58_wk1	4638672	Ms. Coll. 750, Folder 58
+mscoll750_f59_f62_wk1	4638676	Ms. Coll. 750, Folder 59-62
+mscoll750_f63_f70_wk1	4638682	Ms. Coll. 750, Folder 63-70
+mscoll750_f71_wk1	4638688	Ms. Coll. 750, Folder 71
+mscoll742_f66_wk1	4639440	Ms. Coll. 742, Folder 66
+mscoll742_f66_wk1	4639440	Ms. Coll. 742, Folder 66
+mscoll742_f114_wk1	4639453	Ms. Coll. 742, Folder 114
+mscoll742_f115_wk1	4639460	Ms. Coll. 742, Folder 115
+mscoll742_f116_wk1	4639462	Ms. Coll. 742, Folder 116
+mscoll742_f90_wk1	4639653	Ms. Coll. 742, Folder 90
+mscoll742_f94_wk1	4639661	Ms. Coll. 742, Folder 94
+mscoll742_f117_wk1	4639702	Ms. Coll. 742, Folder 117
+mscoll742_f118_wk1	4639754	Ms. Coll. 742, Folder 118
+mscoll742_f119_wk1	4640124	Ms. Coll. 742, Folder 119
+mscoll742_f120_wk1	4640352	Ms. Coll. 742, Folder 120
+mscoll742_f121_wk1	4640362	Ms. Coll. 742, Folder 121
+mscoll742_f122_wk1	4640369	Ms. Coll. 742, Folder 122
+mscoll742_f123_wk1	4640374	Ms. Coll. 742, Folder 123
+mscoll742_f124_wk1	4640388	Ms. Coll. 742, Folder 124
+mscoll742_f125_wk1	4640398	Ms. Coll. 742, Folder 125
+mscoll742_f99_wk1	4640416	Ms. Coll. 742, Folder 99
+mscoll742_f93_wk1	4641769	Ms. Coll. 742, Folder 93
+mscoll742_f42_wk1	4641774	Ms. Coll. 742, Folder 42
+mscoll742_f42_wk1	4641774	Ms. Coll. 742, Folder 42
+mscoll742_f62_wk1	4642211	Ms. Coll. 742, Folder 62
+mscoll742_f62_wk1	4642211	Ms. Coll. 742, Folder 62
+mscoll742_f48_wk1	4642223	Ms. Coll. 742, Folder 48
+mscoll742_f48_wk1	4642223	Ms. Coll. 742, Folder 48
+mscoll742_f63_wk1	4642352	Ms. Coll. 742, Folder 63
+mscoll742_f63_wk1	4642352	Ms. Coll. 742, Folder 63
+mscoll742_f67_wk1	4642449	Ms. Coll. 742, Folder 67
+mscoll742_f67_wk1	4642449	Ms. Coll. 742, Folder 67
+mscoll742_f64_wk1	4642667	Ms. Coll. 742, Folder 64
+mscoll742_f64_wk1	4642667	Ms. Coll. 742, Folder 64
+mscoll742_f65_wk1	4642756	Ms. Coll. 742, Folder 65
+mscoll742_f65_wk1	4642756	Ms. Coll. 742, Folder 65
+mscoll742_f31_wk1	4644131	Ms. Coll. 742, Folder 31
+mscoll742_f31_wk1	4644131	Ms. Coll. 742, Folder 31
+ljs60_wk1	4645163	LJS 60
+ljs60_wk1	4645163	LJS 60
+mscoll742_f25_wk1	4645231	Ms. Coll. 742, Folder 25
+mscoll742_f25_wk1	4645231	Ms. Coll. 742, Folder 25
+mscoll742_f2_wk1	4645242	Ms. Coll. 742, Folder 2
+mscoll742_f2_wk1	4645242	Ms. Coll. 742, Folder 2
+ljs25_wk1	4645815	LJS 25
+ljs25_wk1	4645815	LJS 25
+ljs26_wk1	4646348	LJS 26
+ljs26_wk1	4646348	LJS 26
+mscoll742_f3_wk1	4646540	Ms. Coll. 742, Folder 3
+mscoll742_f3_wk1	4646540	Ms. Coll. 742, Folder 3
+mscoll742_f4_wk1	4646618	Ms. Coll. 742, Folder 4
+mscoll742_f4_wk1	4646618	Ms. Coll. 742, Folder 4
+mscoll742_f5_wk1	4646680	Ms. Coll. 742, Folder 5
+mscoll742_f5_wk1	4646680	Ms. Coll. 742, Folder 5
+ljs381_wk1	4649182	LJS 381
+ljs381_wk1	4649182	LJS 381
+mscoll742_f6_wk1	4650858	Ms. Coll. 742, Folder 6
+mscoll742_f6_wk1	4650858	Ms. Coll. 742, Folder 6
+ljs495_wk1	4650884	LJS 495
+ljs495_wk1	4650884	LJS 495
+mscoll742_f7_wk1	4650999	Ms. Coll. 742, Folder 7
+mscoll742_f7_wk1	4650999	Ms. Coll. 742, Folder 7
+mscodex1561_wk1	4651813	Ms. Codex 1561
+mscodex1561_wk1	4651813	Ms. Codex 1561
+mscoll771_wk1	4683643	Ms. Coll. 771
+mscoll771_wk1	4683643	Ms. Coll. 771
+mscodex565_wk1	4684372	Ms. Codex 565
+ljs420_wk1	4733161	LJS 420
+ljs420_wk1	4733161	LJS 420
+ljs451_wk1	4738506	LJS 451
+ljs451_wk1	4738506	LJS 451
+ljs482_wk1	4741544	LJS 482
+ljs482_wk1	4741544	LJS 482
+mscoll742_f8_wk1	4741569	Ms. Coll. 742, Folder 8
+mscoll742_f8_wk1	4741569	Ms. Coll. 742, Folder 8
+mscoll742_f9_wk1	4743281	Ms. Coll. 742, Folder 9
+mscoll742_f9_wk1	4743281	Ms. Coll. 742, Folder 9
+mscoll742_f14_wk1	4743454	Ms. Coll. 742, Folder 14
+mscoll742_f14_wk1	4743454	Ms. Coll. 742, Folder 14
+ljs477_wk1	4745542	LJS 477
+ljs477_wk1	4745542	LJS 477
+mscoll591_f32_wk1	4746619	Ms. Coll. 742, Folder 32
+mscoll591_f32_wk1	4746619	Ms. Coll. 742, Folder 32
+ljs23_wk1	4746981	LJS 23
+ljs23_wk1	4746981	LJS 23
+mscoll742_f15_wk1	4748116	Ms. Coll. 742, Folder 15
+mscoll742_f15_wk1	4748116	Ms. Coll. 742, Folder 15
+ljs308_wk1	4748833	LJS 308
+ljs308_wk1	4748833	LJS 308
+ljs308_wk1	4748833	LJS 308
+mscoll742_f16_wk1	4758120	Ms. Coll. 742, Folder 16
+mscoll742_f16_wk1	4758120	Ms. Coll. 742, Folder 16
+mscoll742_f17_wk1	4758239	Ms. Coll. 742, Folder 17
+mscoll742_f17_wk1	4758239	Ms. Coll. 742, Folder 17
+ljs252_wk1	4759444	LJS 252
+ljs252_wk1	4759444	LJS 252
+ljs252_wk1	4759444	LJS 252
+mscoll742_f18_wk1	4760254	Ms. Coll. 742, Folder 18
+mscoll742_f18_wk1	4760254	Ms. Coll. 742, Folder 18
+mscoll742_f20_wk1	4760279	Ms. Coll. 742, Folder 20
+mscoll742_f20_wk1	4760279	Ms. Coll. 742, Folder 20
+mscoll742_f21_wk1	4760813	Ms. Coll. 742, Folder 21
+mscoll742_f21_wk1	4760813	Ms. Coll. 742, Folder 21
+mscoll742_f22_wk1	4760828	Ms. Coll. 742, Folder 22
+mscoll742_f22_wk1	4760828	Ms. Coll. 742, Folder 22
+mscoll742_f23_wk1	4760834	Ms. Coll. 742, Folder 23
+mscoll742_f23_wk1	4760834	Ms. Coll. 742, Folder 23
+mscoll742_f24_wk1	4760867	Ms. Coll. 742, Folder 24
+mscoll742_f24_wk1	4760867	Ms. Coll. 742, Folder 24
+mscoll742_f28_wk1	4761049	Ms. Coll. 742, Folder 28
+mscoll742_f28_wk1	4761049	Ms. Coll. 742, Folder 28
+mscoll742_f30_wk1	4761301	Ms. Coll. 742, Folder 30
+mscoll742_f30_wk1	4761301	Ms. Coll. 742, Folder 30
+mscoll742_f32_wk1	4762038	Ms. Coll. 742, Folder 32
+mscoll742_f32_wk1	4762038	Ms. Coll. 742, Folder 32
+ljs492_wk1	4762411	LJS 492
+ljs492_wk1	4762411	LJS 492
+ljs493_wk1	4762524	LJS 493
+ljs493_wk1	4762524	LJS 493
+mscoll750_f112_f121_f140_wk1	4763940	Ms. Coll. 750, Folder 112-121, 140
+mscoll750_f93_f111_wk1	4763942	Ms. Coll. 750, Folder 93-111
+mscoll750_f82_f92_wk1	4763944	Ms. Coll. 750, Folder 82-92
+mscoll750_f122_f134_f141_wk1	4763945	Ms. Coll. 750, Folder 122-134, 141
+mscoll750_f35_f38_f137_f138_wk1	4763956	Ms. Coll. 750, Folder 35-38, 137-138
+mscoll750_f31_f32_wk1	4763961	Ms. Coll. 750, Folder 31-21
+mscoll750_f23_f29_wk1	4763963	Ms. Coll. 750, Folder 23-29, 136
+mscodex1562_wk1	4764695	Ms. Codex 1562
+ljs265_wk1	4767534	LJS 265
+ljs265_wk1	4767534	LJS 265
+ljs265_wk1	4767534	LJS 265
+mscoll742_f33_wk1	4767919	Ms. Coll. 742, Folder 33
+mscoll742_f33_wk1	4767919	Ms. Coll. 742, Folder 33
+mscoll742_f34_wk1	4767973	Ms. Coll. 742, Folder 34
+mscoll742_f34_wk1	4767973	Ms. Coll. 742, Folder 34
+ljs237_wk1	4769953	LJS 237
+ljs237_wk1	4769953	LJS 237
+mscoll742_f36_wk1	4770682	Ms. Coll. 742, Folder 36
+mscoll742_f36_wk1	4770682	Ms. Coll. 742, Folder 36
+mscoll742_f37_wk1	4773925	Ms. Coll. 742, Folder 37
+mscoll742_f37_wk1	4773925	Ms. Coll. 742, Folder 37
+mscoll742_f40_wk1	4773952	Ms. Coll. 742, Folder 40
+mscoll742_f40_wk1	4773952	Ms. Coll. 742, Folder 40
+mscoll742_f41_wk1	4774039	Ms. Coll. 742, Folder 41
+mscoll742_f41_wk1	4774039	Ms. Coll. 742, Folder 41
+mscoll742_f43_wk1	4777807	Ms. Coll. 742, Folder 43
+mscoll742_f43_wk1	4777807	Ms. Coll. 742, Folder 43
+mscoll742_f44_wk1	4777821	Ms. Coll. 742, Folder 44
+mscoll742_f44_wk1	4777821	Ms. Coll. 742, Folder 44
+mscoll742_f45_wk1	4777851	Ms. Coll. 742, Folder 45
+mscoll742_f45_wk1	4777851	Ms. Coll. 742, Folder 45
+mscoll742_f46_wk1	4777858	Ms. Coll. 742, Folder 46
+mscoll742_f46_wk1	4777858	Ms. Coll. 742, Folder 46
+mscoll742_f47_wk1	4778587	Ms. Coll. 742, Folder 47
+mscoll742_f47_wk1	4778587	Ms. Coll. 742, Folder 47
+mscoll742_f49_wk1	4778617	Ms. Coll. 742, Folder 49
+mscoll742_f49_wk1	4778617	Ms. Coll. 742, Folder 49
+mscoll742_f50_wk1	4778649	Ms. Coll. 742, Folder 50
+mscoll742_f50_wk1	4778649	Ms. Coll. 742, Folder 50
+mscoll742_f51_wk1	4779782	Ms. Coll. 742, Folder 51
+mscoll742_f51_wk1	4779782	Ms. Coll. 742, Folder 51
+mscoll742_f52_wk1	4780380	Ms. Coll. 742, Folder 52
+mscoll742_f52_wk1	4780380	Ms. Coll. 742, Folder 52
+mscoll742_f53_wk1	4780381	Ms. Coll. 742, Folder 53
+mscoll742_f53_wk1	4780381	Ms. Coll. 742, Folder 53
+mscoll742_f54_wk1	4780399	Ms. Coll. 742, Folder 54
+mscoll742_f54_wk1	4780399	Ms. Coll. 742, Folder 54
+mscoll742_f55_wk1	4782641	Ms. Coll. 742, Folder 55
+mscoll742_f55_wk1	4782641	Ms. Coll. 742, Folder 55
+mscoll742_f57_wk1	4782959	Ms. Coll. 742, Folder 57
+mscoll742_f57_wk1	4782959	Ms. Coll. 742, Folder 57
+mscoll742_f58_wk1	4783094	Ms. Coll. 742, Folder 58
+mscoll742_f58_wk1	4783094	Ms. Coll. 742, Folder 58
+mscoll742_f59_wk1	4783649	Ms. Coll. 742, Folder 59
+mscoll742_f59_wk1	4783649	Ms. Coll. 742, Folder 59
+mscoll742_f60_wk1	4783660	Ms. Coll. 742, Folder 60
+mscoll742_f60_wk1	4783660	Ms. Coll. 742, Folder 60
+mscodex1564_wk1	4784386	Ms. Codex 1564
+mscoll742_f61_wk1	4785421	Ms. Coll. 742, Folder 61
+mscoll742_f61_wk1	4785421	Ms. Coll. 742, Folder 61
+mscoll742_f68_wk1	4785518	Ms. Coll. 742, Folder 68
+mscoll742_f68_wk1	4785518	Ms. Coll. 742, Folder 68
+mscoll742_f69_wk1	4785647	Ms. Coll. 742, Folder 69
+mscoll742_f69_wk1	4785647	Ms. Coll. 742, Folder 69
+mscoll742_f72_wk1	4785666	Ms. Coll. 742, Folder 72
+mscoll742_f72_wk1	4785666	Ms. Coll. 742, Folder 72
+mscoll742_f85_wk1	4785746	Ms. Coll. 742, Folder 85
+mscoll795_wk1	4794524	Ms. Coll. 795
+mscodex1565_wk1	4795723	Ms. Codex 1565
+ljs27_wk1	4797419	LJS 27
+ljs27_wk1	4797419	LJS 27
+ljs27_wk1	4797419	LJS 27
+ljs27_wk1	4797419	LJS 27
+ljs27_wk1	4797419	LJS 27
+miscmsslarge_cistercianmissal_wk1	4799169	Misc Mss (Large)
+miscmsslarge_cistercianmissal_wk1	4799169	Misc Mss (Large)
+mscoll591_f33_wk1	4799176	Ms. Coll. 591, Folder 33
+mscoll591_f33_wk1	4799176	Ms. Coll. 591, Folder 33
+mscodex1567_wk1_back0002	4805345	Ms. Codex 1567
+ljs37_wk1	4805493	LJS 37
+ljs460_wk1	4805622	LJS 460
+ljs460_wk1	4805622	LJS 460
+ljs49_wk1	4805876	LJS 49
+ljs55_wk1	4806056	LJS 55
+ljs55_wk1	4806056	LJS 55
+ljs55_wk1	4806056	LJS 55
+francais146_wk1	4808460	
+francais146_wk1	4808460	
+mscodex1566_wk1	4809196	Ms. Codex 1566
+ljs64_wk1	4809379	LJS 64
+ljs186_wk1	4811616	LJS 186
+ljs194_wk1	4812024	LJS 194
+ljs194_wk1	4812024	LJS 194
+ljs194_wk1	4812024	LJS 194
+ljs194_wk1	4812024	LJS 194
+ljs216_wk1	4812482	LJS 216
+ljs223_wk1	4817502	LJS 223
+ljs223_wk1	4817502	LJS 223
+ljs225_wk1	4817906	LJS 225
+ljs225_wk1	4817906	LJS 225
+ljs232_wk1	4818189	LJS 232
+mscodex1568_wk1	4818573	Ms. Codex 1568
+ljs286_wk1	4818812	LJS 286
+ljs293_wk1	4819340	LJS 293
+ljs293_wk1	4819340	LJS 293
+ljs320_wk1	4822440	LJS 320
+ljs320_wk1	4822440	LJS 320
+mscodex1572_wk1	4823417	Ms. Codex 1572
+ljs389_wk1	4824235	LJS 389
+ljs386_wk1	4824919	LJS 386
+ljs386_wk1	4824919	LJS 386
+ljs399_wk1	4825651	LJS 399
+mscodex1573_wk1	4825679	Ms. Codex 1573
+mscodex1571_wk1	4826087	Ms. Codex 1571
+ljs408_wk1	4826279	LJS 408
+ljs412_wk1	4827043	LJS 412
+ljs429_wk1	4827446	LJS 429
+ljs429_wk1	4827446	LJS 429
+ljs432_wk1	4827623	LJS 432
+ljs433_wk1	4827745	LJS 433
+ljs434_wk1	4828727	LJS 434
+ljs435_wk1	4828896	LJS 435
+mscodex1574_wk1	4829474	Ms. Codex 1574
+ljs439_wk1	4830256	LJS 439
+ljs464_wk1	4830464	LJS 464
+mscodex1577_wk1	4833882	Ms. Codex 1577
+mscodex1575_wk1	4834871	Ms. Codex 1575
+ljs449_wk1	4838166	LJS 449
+mscodex1579_wk1	4838368	Ms. Codex 1579
+mscodex1580_wk1	4842419	Ms. Codex 1580
+ljs463_wk1	4842563	LJS 463
+ljs473_wk1_back0004	4844091	LJS 473
+mscodex1576_wk1	4844329	Ms. Codex 1576
+ljs28_wk1	4845262	LJS 28
+mscodex1582_wk1	4849564	Ms. Codex 1582
+ljs46_wk1_back0002	4849768	LJS 46
+ljs47_wk1	4851000	LJS 47
+ljs57_wk1	4852174	LJS 57
+ljs62_wk1	4854632	LJS 62
+mscoll788_burgio_wk1	4855637	Ms. Coll. 788, Folder 1-65, 525-526, 535-537 
+ljs239_wk1	4855835	LJS 239
+ljs251_wk1	4856519	LJS 251
+mscoll788_carretto_wk1	4857937	Ms. Coll. 788, Folder 66-84
+mscoll788_galletti_wk1	4858069	Ms. Coll. 788, Folder 85-105
+ljs254_wk1	4858832	LJS 254
+mscoll788_morso_wk1	4860104	Ms. Coll. 788, Folder 107-160
+mscoll788_f106_wk1	4860106	Ms. Coll. 788, Folder 106
+mscodex1584_wk1	4861406	Ms. Codex 1584
+ljs267_wk1	4861706	LJS 267
+mscoll788_naselli_wk1	4903827	Ms. Coll. 788, Folders 161-288, 527-529, 538-539 
+mscoll802_wk1	4913420	Ms. Coll. 802
+mscoll788_f289_324_wk1	4914246	Ms. Coll. 788, Folder 289-324
+ljs497_wk1	4915187	LJS 497
+mscoll788_f325_wk1	4916145	Ms. Coll. 788, Folder 325
+mscoll788_racalmuto_wk1	4916155	Ms. Coll. 788, Folder 326-440, 530-532, 540-543 
+ljs278_wk1	4918323	LJS 278
+ljs300_wk1	4918422	LJS 300
+ljs423_wk1	4919302	LJS 423
+mscodex1585_wk1	4919578	Ms. Codex 1585
+mscodex1586_wk1	4919590	Ms. Codex 1586
+mscodex1587_wk1	4919617	Ms. Codex 1587
+ljs442_wk1	4920664	LJS 442
+ljs447_wk1	4921113	LJS 447
+ljs478_wk1	4921349	LJS 478
+ljs189_wk1	4922215	LJS 189
+ljs19_wk1	4923759	LJS 19
+ljs20_wk1	4924015	LJS 20
+mscoll764_item11_wk1	4925278	Ms. Coll. 764, Item 11
+mscoll764_item3_wk1	4925281	Ms. Coll. 764, Item 3
+msoversize42_wk1	4925632	Ms. Oversize 42
+mscoll764_item19_wk1	4927974	Ms. Coll. 764, Item 19
+mscoll764_item20_wk1	4927975	Ms. Coll. 764, Item 20
+mscoll764_item21_wk1	4927978	Ms. Coll. 764, Item 21
+mscoll764_item23_wk1	4927980	Ms. Coll. 764, Item 23
+mscoll764_item24_wk1	4927983	Ms. Coll. 764, Item 24
+mscoll764_item25_wk1	4927984	Ms. Coll. 764, Item 25
+mscoll764_item26_wk1	4927986	Ms. Coll. 764, Item 26
+ljs21_wk1	4928082	LJS 21
+ljs21_wk1	4928082	LJS 21
+ljs16_wk1	4928264	LJS 16
+ljs16_wk1	4928264	LJS 16
+mscoll764_item28_wk1	4929963	Ms. Coll. 764, Item 28
+mscoll764_item29_wk1	4929986	Ms. Coll. 764, Item 29
+mscoll764_item30_wk1	4929993	Ms. Coll. 764, Item 30
+mscoll764_item34_wk1	4929999	Ms. Coll. 764, Item 34
+mscoll764_item35_wk1	4930002	Ms. Coll. 764, Item 35
+mscoll764_item32_wk1	4930006	Ms. Coll. 764, Item 32
+msroll1588_wk1	4934331	Ms. Roll 1588
+ljs124_wk1	4934995	LJS 124
+ljs124_wk1	4934995	LJS 124
+ljs54_wk1	4935902	LJS 54
+ljs54_wk1	4935902	LJS 54
+ljs54_wk1	4935902	LJS 54
+mscodex1589_wk1	4936653	Ms. Codex 1589
+ljs48_wk1	4937760	LJS 48
+mscoll764_item36_wk1	4941190	Ms. Coll. 764, Item 36
+mscoll764_item38_wk1	4941209	Ms. Coll. 764, Item 38
+mscoll764_item39_wk1	4941212	Ms. Coll. 764, Item 39
+mscoll764_item41_wk1	4941217	Ms. Coll. 764, Item 41
+mscoll764_item43_wk1	4941227	Ms. Coll. 764, Item 43
+mscoll764_item45_wk1	4941236	Ms. Coll. 764, Item 45
+mscoll764_item46_wk1	4941239	Ms. Coll. 764, Item 46
+mscoll764_item47_wk1	4941251	Ms. Coll. 764, Item 47
+mscoll764_item48_wk1	4941264	Ms. Coll. 764, Item 48
+mscoll764_item50_wk1	4941283	Ms. Coll. 764, Item 50
+mscoll764_item52_wk1	4941447	Ms. Coll. 764, Item 52
+mscoll764_item53_wk1	4941449	Ms. Coll. 764, Item 53
+mscoll764_item54_wk1	4941450	Ms. Coll. 764, Item 54
+mscoll764_item55_wk1	4941452	Ms. Coll. 764, Item 55
+mscoll764_item56_wk1	4941453	Ms. Coll. 764, Item 56
+mscoll764_item58_wk1	4941455	Ms. Coll. 764, Item 58
+mscoll764_item59_wk1	4941521	Ms. Coll. 764, Item 59
+mscoll764_item61_wk1	4941536	Ms. Coll. 764, Item 61
+mscoll764_item63_wk1	4941539	Ms. Coll. 764, Item 63
+mscoll764_item64_wk1	4941542	Ms. Coll. 764, Item 64
+mscoll764_item65_wk1	4941543	Ms. Coll. 764, Item 65
+mscoll764_item66_wk1	4941544	Ms. Coll. 764, Item 66
+mscoll764_item67_wk1	4941557	Ms. Coll. 764, Item 67
+mscoll764_item68_wk1	4941559	Ms. Coll. 764, Item 68
+mscoll764_item69_wk1	4941566	Ms. Coll. 764, Item 69
+mscoll764_item70_wk1	4941573	Ms. Coll. 764, Item 70
+mscoll764_item71_wk1	4941637	Ms. Coll. 764, Item 71
+mscoll764_item72_wk1	4941638	Ms. Coll. 764, Item 72
+mscoll764_item73_wk1	4941654	Ms. Coll. 764, Item 73
+mscoll49_f64_wk1	4942294	Ms. Coll. 49, Folder 64
+mscoll49_f46_wk1	4942312	Ms. Coll. 49, Folder 46
+mscoll49_f47_f62_wk1	4942436	Ms. Coll. 49, Folder 47-62
+mscoll764_item74_wk1	4944344	Ms. Coll. 764, Item 74
+mscoll764_item75_wk1	4944345	Ms. Coll. 764, Item 75
+mscoll764_item76_wk1	4944395	Ms. Coll. 764, Item 76
+mscoll764_item77_wk1	4944397	Ms. Coll. 764, Item 77
+mscoll764_item78_wk1	4944400	Ms. Coll. 764, Item 78
+mscoll764_item79_wk1	4944406	Ms. Coll. 764, Item 79
+mscoll764_item80_wk1	4944465	Ms. Coll. 764, Item 80
+mscoll764_item81_wk1	4944499	Ms. Coll. 764, Item 81
+mscoll764_item82_wk1	4944500	Ms. Coll. 764, Item 82
+mscoll764_item83_wk1	4944501	Ms. Coll. 764, Item 83
+mscoll764_item84_wk1	4944503	Ms. Coll. 764, Item 84
+mscoll764_item85_wk1	4944504	Ms. Coll. 764, Item 85
+mscoll764_item86_wk1	4944507	Ms. Coll. 764, Item 86
+mscoll764_item87_wk1	4944510	Ms. Coll. 764, Item 87
+mscoll764_item88_wk1	4944519	Ms. Coll. 764, Item 88
+mscoll764_item90_wk1	4944530	Ms. Coll. 764, Item 90
+mscoll764_item91_wk1	4944537	Ms. Coll. 764, Item 91
+mscoll764_item92_wk1	4944546	Ms. Coll. 764, Item 92
+mscoll764_item95_wk1	4944549	Ms. Coll. 764, Item 95
+mscoll49_f86_f190_wk1	4945219	Ms. Coll. 49,  Folder 86-190
+mscoll49_f191_f196_wk1	4945224	Ms. Coll. 49, Folder 191-196
+mscoll49_f197_f200_wk1	4945240	Ms. Coll. 49, Folder 197-200
+mscoll49_f201_f213_wk1	4945300	Ms. Coll. 49, Folder 201-213
+mscoll764_item97_wk1	4945557	Ms. Coll. 764, Item 97
+mscoll764_item96_wk1	4945559	Ms. Coll. 764, Item 96
+mscoll764_item98_wk1	4945561	Ms. Coll. 764, Item 98
+mscoll764_item99_wk1	4945565	Ms. Coll. 764, Item 99
+mscoll764_item100_wk1	4945566	Ms. Coll. 764, Item 100
+mscoll764_item101_wk1	4945567	Ms. Coll. 764, Item 101
+mscoll764_item102_wk1	4945570	Ms. Coll. 764, Item 102
+mscoll764_item103_wk1	4945573	Ms. Coll. 764, Item 103
+mscoll764_item104_wk1	4945574	Ms. Coll. 764, Item 104
+mscoll764_item105_wk1	4945577	Ms. Coll. 764, Item 105
+mscoll764_item106_wk1	4945580	Ms. Coll. 764, Item 106
+mscoll764_item107_wk1	4945583	Ms. Coll. 764, Item 107
+mscoll764_item109_wk1	4945586	Ms. Coll. 764, Item 109
+mscoll764_item110_wk1	4945587	Ms. Coll. 764, Item 110
+mscoll49_box6_wk1	4945938	Ms. Coll. 49, Box 6
+mscoll764_item111_wk1	4946983	Ms. Coll. 764, Item 111
+mscoll764_item112_wk1	4946985	Ms. Coll. 764, Item 112
+mscoll764_item113_wk1	4946994	Ms. Coll. 764, Item 113
+mscoll764_item114_wk1	4946997	Ms. Coll. 764, Item 114
+mscoll764_item115_wk1	4946999	Ms. Coll. 764, Item 115
+mscoll764_item116a_wk1	4947000	Ms. Coll. 764, Item 116a
+mscoll764_item116b_wk1	4947003	Ms. Coll. 764, Item 116b
+mscoll764_item117_wk1	4947004	Ms. Coll. 764, Item 117
+mscoll764_item118_wk1	4947006	Ms. Coll. 764, Item 118
+mscoll764_item119_wk1	4947010	Ms. Coll. 764, Item 119
+mscoll764_item120_wk1	4947012	Ms. Coll. 764, Item 120
+mscoll764_item121_wk1	4947014	Ms. Coll. 764, Item 121
+mscoll764_item122_wk1	4947016	Ms. Coll. 764, Item 122
+mscoll764_item123_wk1	4947028	Ms. Coll. 764, Item 123
+mscoll764_item124_wk1	4947036	Ms. Coll. 764, Item 124
+mscoll591_f34_wk1	4949353	Ms. Coll. 591, Folder 34
+mscoll764_item125_wk1	4950960	Ms. Coll. 764, Item 125
+mscoll764_item126_wk1	4950967	Ms. Coll. 764, Item 126
+mscoll764_item127_wk1	4950968	Ms. Coll. 764, Item 127
+mscoll764_item124_wk1	4950977	Ms. Coll. 764, Item 128
+mscoll764_item130_wk1	4950981	Ms. Coll. 764, Item 130
+mscoll764_item132_wk1	4950984	Ms. Coll. 764, Item 132
+mscoll764_item133_wk1	4950987	Ms. Coll. 764, Item 133
+mscoll764_item134_wk1	4950990	Ms. Coll. 764, Item 134
+mscoll764_item135_wk1	4950999	Ms. Coll. 764, Item 135
+mscoll764_item136_wk1	4951041	Ms. Coll. 764, Item 136
+mscoll764_item137_wk1	4951043	Ms. Coll. 764, Item 137
+mscoll764_item138_wk1	4951227	Ms. Coll. 764, Item 138
+ljs59_wk1	4952127	LJS 59
+ljs61_wk1	4952379	LJS 61
+ljs61_wk1	4952379	LJS 61
+ljs266_wk1	4952511	LJS 266
+ljs266_wk1	4952511	LJS 266
+ljs63_wk1	4952995	LJS 63
+ljs280_wk1	4953343	LJS 280
+ljs280_wk1	4953343	LJS 280
+mscoll764_item140_wk1	4953541	Ms. Coll. 764, Item 140
+mscoll764_item145_wk1	4953542	Ms. Coll. 764, Item 145
+mscoll764_item146_wk1	4953545	Ms. Coll. 764, Item 146
+mscoll764_item147_wk1	4953555	Ms. Coll. 764, Item 147
+mscoll764_item150_wk1	4953564	Ms. Coll. 764, Item 150
+mscoll764_item151_wk1	4953567	Ms. Coll. 764, Item 151
+mscoll764_item152_wk1	4953569	Ms. Coll. 764, Item 152
+mscoll764_item153_wk1	4953571	Ms. Coll. 764, Item 153
+mscoll764_item154_wk1	4953572	Ms. Coll. 764, Item 154
+mscoll764_item155_wk1	4953573	Ms. Coll. 764, Item 155
+mscoll764_item156_wk1	4954041	Ms. Coll. 764, Item 156
+mscoll764_item159_wk1	4954057	Ms. Coll. 764, Item 159
+mscoll764_item160_wk1	4954062	Ms. Coll. 764, Item 160
+mscoll764_item162_wk1	4954084	Ms. Coll. 764, Item 162
+mscoll764_item163_wk1	4954099	Ms. Coll. 764, Item 163
+mscoll764_item164_wk1	4954119	Ms. Coll. 764, Item 164
+ljs342_wk1	4954147	LJS 342
+ljs342_wk1	4954147	LJS 342
+ljs418_wk1	4954442	LJS 418
+ljs450_wk1	4954493	LJS 450
+ljs450_wk1	4954493	LJS 450
+mscoll750_f72_f81_wk1	4954572	Ms. Coll. 750, Folder 72-81
+ljs97_wk1	4956024	LJS 97
+mscodex1606_wk1	4956374	Ms. Codex 1606
+mscoll764_item144_wk1	4957099	Ms. Coll. 764, Item 144
+mscoll764_item165_wk1	4957100	Ms. Coll. 764, Item 165
+mscoll764_item166_wk1	4957101	Ms. Coll. 764, Item 166
+mscoll764_item167_wk1	4957103	Ms. Coll. 764, Item 167
+mscoll764_item168_wk1	4957111	Ms. Coll. 764, Item 168
+mscoll764_item169_wk1	4957121	Ms. Coll. 764, Item 169
+mscoll764_item170_wk1	4957126	Ms. Coll. 764, Item 170
+mscoll764_item171_wk1	4957131	Ms. Coll. 764, Item 171
+mscoll764_item172_wk1	4957136	Ms. Coll. 764, Item 172
+mscoll764_item173_wk1	4957140	Ms. Coll. 764, Item 173
+mscoll764_item174_wk1	4957145	Ms. Coll. 764, Item 174
+mscoll764_item175_wk1	4957159	Ms. Coll. 764, Item 175
+mscoll764_item176_wk1	4957165	Ms. Coll. 764, Item 176
+mscoll764_item178_wk1	4957171	Ms. Coll. 764, Item 178
+mscoll764_item179_wk1	4957278	Ms. Coll. 764, Item 179
+mscoll750_f139_wk1	4957283	Ms. Coll. 750, Folder 139
+ljs304_wk1	4958277	LJS 304
+mscodex1590_wk1	4961311	Ms. Codex 1590
+ljs346_wk1	4967239	LjS 346
+mscoll764_item180_wk1	4975778	Ms. Coll. 764, Item 180
+mscoll764_item181_wk1	4975780	Ms. Coll. 764, Item 181
+mscoll764_item182_wk1	4975781	Ms. Coll. 764, Item 182
+mscoll764_item183_wk1	4975788	Ms. Coll. 764, Item 183
+mscoll764_item184_wk1	4975813	Ms. Coll. 764, Item 184
+mscoll764_item185_wk1	4975841	Ms. Coll. 764, Item 185
+mscoll764_item186_wk1	4975851	Ms. Coll. 764, Item 186
+ljs379_wk1	4985751	LJS 379
+ljs405_wk1	4987381	LJS 405
+ljs231_wk1	4987528	LJS 231
+ljs115_wk1	4987914	LJS 115
+ljs115_wk1	4987914	LJS 115
+ljs115_wk1	4987914	LJS 115
+mscoll749_f148_151_wk1	4987917	Ms. Coll. 749, Folder 149-151
+mscodex1592_wk1	4988694	Ms. Codex 1592
+ljs36_wk1	4988899	LJS 36
+ljs36_wk1	4988899	LJS 36
+msfacsimile1_wk1	4989299	Ms. Facsimile 1
+mscodex1591_wk1	4990766	Ms. Codex 1591
+ljs35_wk1	4991448	LJS 35
+ljs238_wk1	4993994	LJS 238
+ljs314_wk1	4994039	LJS 314
+mscoll764_item188_wk1	4994158	Ms. Coll. 764, Item 188
+mscoll764_item189_wk1	4994159	Ms. Coll. 764, Item 189
+mscoll764_item190_wk1	4994161	Ms. Coll. 764, Item 190
+mscoll764_item191_wk1	4994163	Ms. Coll. 764, Item 191
+mscoll764_item192_wk1	4994165	Ms. Coll. 764, Item 192
+mscoll764_item193_wk1	4994166	Ms. Coll. 764, Item 193
+mscoll764_item194_wk1	4994169	Ms. Coll. 764, Item 194
+mscoll764_item196_wk1	4994180	Ms. Coll. 764, Item 196
+mscoll764_item198_wk1	4994184	Ms. Coll. 764, Item 198
+mscoll764_item199_wk1	4994188	Ms. Coll. 764, Item 199
+mscoll764_item200_wk1	4994189	Ms. Coll. 764, Item 200
+mscoll764_item197_wk1	4994194	Ms. Coll. 764, Item 197
+ljs110_wk1	4994560	LJS 110
+mscoll764_item202_wk1	4994680	Ms. Coll. 764, Item 202
+mscoll764_item203_wk1	4994682	Ms. Coll. 764, Item 203
+mscoll764_item205_wk1	4994683	Ms. Coll. 764, Item 205
+mscoll764_item206_wk1	4994684	Ms. Coll. 764, Item 206
+mscoll764_item207_wk1	4994686	Ms. Coll. 764, Item 207
+ljs211_wk1	4995606	LJS 211
+mscoll764_item211_wk1	4996071	Ms. Coll. 764, Item 211
+mscoll764_item208_wk1	4996073	Ms. Coll. 764, Item 208
+mscoll764_item209_wk1	4996075	Ms. Coll. 764, Item 209
+mscoll764_item210_wk1	4996079	Ms. Coll. 764, Item 210
+mscoll764_item212_wk1	4996081	Ms. Coll. 764, Item 212
+mscoll764_item213_wk1	4996082	Ms. Coll. 764, Item 213
+mscoll764_item214_wk1	4996084	Ms. Coll. 764, Item 214
+mscoll764_item215_wk1	4996216	Ms. Coll. 764, Item 215
+mscoll764_item216_wk1	4996229	Ms. Coll. 764, Item 216
+mscoll764_item217_wk1	4996240	Ms. Coll. 764, Item 217
+mscoll764_item218_wk1	4996248	Ms. Coll. 764, Item 218
+ljs273_wk1	4996549	LJS 273
+ljs273_wk1	4996549	LJS 273
+ljs275_wk1	4996560	LJS 275
+ljs275_wk1	4996560	LJS 275
+ljs119_wk1	4996777	LJS 119
+ljs119_wk1	4996777	LJS 119
+mscoll764_item219_wk1	4997025	Ms. Coll. 764, Item 219
+mscoll764_item220_wk1	4997027	Ms. Coll. 764, Item 220
+mscoll764_item221_wk1	4997029	Ms. Coll. 764, Item 221
+mscoll764_item222_wk1	4997031	Ms. Coll. 764, Item 222
+mscoll764_item223_wk1	4997035	Ms. Coll. 764, Item 223
+mscoll764_item224_wk1	4997044	Ms. Coll. 764, Item 224
+mscoll764_item225_wk1	4997046	Ms. Coll. 764, Item 225
+mscoll764_item226_wk1	4998072	Ms. Coll. 764, Item 226
+mscoll764_item227_wk1	4998077	Ms. Coll. 764, Item 227
+mscoll764_item228_wk1	4998080	Ms. Coll. 764, Item 228
+mscoll764_item229_wk1	4998081	Ms. Coll. 764, Item 229
+mscoll764_item230_wk1	4998082	Ms. Coll. 764, Item 230
+mscoll764_item231_wk1	4998084	Ms. Coll. 764, Item 231
+mscoll764_item232_wk1	4998085	Ms. Coll. 764, Item 232
+mscoll764_item233_wk1	4998086	Ms. Coll. 764, Item 233
+mscoll764_item234_wk1	4998087	Ms. Coll. 764, Item 234
+mscoll764_item235_wk1	4998088	Ms. Coll. 764, Item 235
+mscoll764_item236_wk1	4998140	Ms. Coll. 764, Item 236
+mscoll764_item237_wk1	4998142	Ms. Coll. 764, Item 237
+mscoll764_item238_wk1	4998148	Ms. Coll. 764, Item 238
+mscoll764_item239_wk1	4998152	Ms. Coll. 764, Item 239
+mscoll764_item240_wk1	4998156	Ms. Coll. 764, Item 240
+mscoll764_item241_wk1	4998160	Ms. Coll. 764, Item 241
+mscoll764_item242_wk1	4998161	Ms. Coll. 764, Item 242
+mscoll764_item244_wk1	4998162	Ms. Coll. 764, Item 244
+ljs271_wk1	5000303	LJS 271
+ljs271_wk1	5000303	LJS 271
+ljs285_wk1	5000419	LJS 285
+ljs358_wk1	5001053	LJS 358
+ljs358_wk1	5001053	LJS 358
+mscoll764_item16_wk1	5001149	Ms. Coll. 764, Item 16
+mscoll764_item245_wk1	5001152	Ms. Coll. 764, Item 245
+mscoll764_item246_wk1	5001153	Ms. Coll. 764, Item 246
+mscoll764_item247_wk1	5001154	Ms. Coll. 764, Item 247
+mscoll764_item248_wk1	5001155	Ms. Coll. 764, Item 248
+mscoll764_item249_wk1	5001158	Ms. Coll. 764, Item 249
+mscoll764_item250_wk1	5001168	Ms. Coll. 764, Item 250
+mscoll764_item252_wk1	5001171	Ms. Coll. 764, Item 252
+mscoll764_item253_wk1	5001177	Ms. Coll. 764, Item 253
+ljs383_wk1	5001292	LJS 383
+ljs383_wk1	5001292	LJS 383
+ljs416_wk1	5001566	LJS 416
+mscoll764_item31_wk1	5001977	Ms. Coll. 764, Item 31
+mscoll764_item40_wk1	5001978	Ms. Coll. 764, Item 40
+mscoll764_item49_wk1	5001980	Ms. Coll. 764, Item 49
+mscoll764_item57_wk1	5001989	Ms. Coll. 764, Item 57
+mscoll764_item62_wk1	5001990	Ms. Coll. 764, Item 62
+mscoll764_item129_wk1	5001994	Ms. Coll. 764, Item 129
+mscoll764_item148_wk1	5001995	Ms. Coll. 764, Item 148
+mscoll764_item149_wk1	5002003	Ms. Coll. 764, Item 149
+mscoll764_item157_wk1	5002006	Ms. Coll. 764, Item 157
+ljs309_wk1	5004800	LJS 309
+ljs167_wk1	5004852	LJS 167
+mscoll764_item93_wk1	5005107	Ms. Coll. 764, Item 93
+ljs45_wk1	5005294	LJS 45
+ljs200_wk1	5006526	LJS 200
+mscoll831_wk1	5008369	Ms. Coll. 831
+msoversize43_wk1	5008388	Ms. Oversize 43
+msroll1594_wk1	5008390	Ms. Roll 1594
+miscmss_dronfeld_wk1	5008393	Misc Mss
+mscodex1593_wk1	5008740	Ms. Codex 1593
+mscodex1616_wk1	5009541	Ms. Codex 1616
+mscodex1610_wk1	5009542	Ms. Codex 1610
+mscodex1611_wk1	5009543	Ms. Codex 1611
+mscodex1612_wk1	5009544	Ms. Codex 1612
+mscodex1619_wk1	5009545	Ms. Codex 1619
+mscoll764_item18_wk1	5009794	Ms. Coll. 764, Item 18
+mscoll764_item187_wk1	5009820	Ms. Coll. 764, Item 187
+msroll1594_wk1	5010215	
+miscmsslarge_samuel_wk1	5011884	Misc Mss (Large)
+mscodex1595_wk1	5012165	Ms. Codex 1595
+mscodex1601_wk1	5017377	Ms. Codex 1601
+mscodex1597_wk1	5019035	Ms. Codex 1597
+mscodex1598_wk1	5020668	Ms. Codex 1598
+mscodex1599_wk1	5020864	Ms. Codex 1599
+mscodex1596_wk1	5021119	Ms. Codex 1596
+mscodex1600_wk1	5021343	Ms. Codex 1600
+mscodex1622_wk1	5021633	Ms. Codex 1622
+mscodex1602_wk1	5024870	Ms. Codex 1602
+ljs29_wk1	5027011	LJS 29
+ljs170_wk1	5028342	LJS 170
+ljs182_wk1	5028779	LJS 182
+ljs182_wk1	5028779	LJS 182
+ljs188_wk1	5028998	LJS 188
+ljs188_wk1	5028998	LJS 188
+ljs174_wk1	5029306	LJS 174
+ljs174_wk1	5029306	LJS 174
+ljs191_wk1	5032004	LJS 191
+ljs202_wk1	5032274	LJS 202
+ljs205_wk1	5032726	LJS 205
+ljs214_wk1	5033364	LJS 214
+ljs215_wk1	5034562	LJS 215
+mscodex1603_wk1	5037306	Ms. Codex 1603
+mscodex1604_wk1	5050522	Ms. Codex 1604
+ljs441_wk1	5050786	LJS 441
+ljs226_wk1	5051111	LJS 226
+ljs235_wk1	5056923	LJS 235
+ljs295_wk1	5057421	LJS 295
+ljs295_wk1	5057421	LJS 295
+ljs268_wk1	5058303	LJS 268
+ljs388_wk1	5068122	LJS 388
+ljs392_wk1	5080443	LJS 392
+ljs400_wk1	5081245	LJS 400
+ljs403_wk1	5081494	LJS 403
+ljs407_wk1	5082672	LJS 407
+ljs410_wk1	5089400	LJS 410
+mscodex1634_wk1	510966	Ms. Codex 1634
+ljs411_wk1	5113103	LJS 411
+ljs414_wk1	5145509	LJS 414
+ljs474_wk1	5145789	LJS 474
+ljs425_wk1	5146923	LJS 425
+ljs425_wk1	5146923	LJS 425
+ljs455_wk1	5148248	LJS 455
+ljs466_wk1	5148754	Ms. Coll. 390
+ljs443_wk1	5149623	LJS 443
+ljs443_wk1	5149623	LJS 443
+ljs361_wk1	5150035	LJS 361
+ljs361_wk1	5150035	LJS 361
+ljs397_wk1	5160792	LJS 397
+ljs401_wk1	5182011	Ms. Coll. 390
+ljs402_wk1	5183015	LJS 402
+ljs402_wk1	5183015	LJS 402
+ljs467_wk1	5185355	LJS 467
+ljs490_wk1	5185679	LJS 490
+ljs101_wk1	5186550	LJS 101
+ljs101_wk1	5186550	LJS 101
+ljs190_wk1	5198331	LJS 190
+ljs190_wk1	5198331	LJS 190
+ljs179_wk1	5199129	LJS 179
+mscodex1608_wk1	5254639	Ms. Codex 1608
+mscodex1607_wk1	5254652	Ms. Codex 1607
+ljs24_wk1	5266652	LJS 24
+ljs24_wk1	5266652	LJS 24
+ljs183_wk1	5311754	LJS 183
+mscodex1609_wk1	5315401	Ms. Codex 1609
+mscodex1615_wk1	5315759	Ms. Codex 1615
+ljs198_wk1	5316107	LJS 198
+	5316107	LJS 198
+	5316107	LJS 198
+ljs204_wk1	5316112	LJS 204
+ljs204_wk1	5316112	LJS 204
+ljs43_wk1	5404317	LJS 43
+ljs43_wk1	5404317	LJS 43
+ljs44_wk1	5404714	LJS 44
+ljs44_wk1	5404714	LJS 44
+ljs165_wk1	5405356	LJS 165
+ljs165_wk1	5405356	LJS 165
+ljs187_wk1	5407269	LJS 187
+ljs217_wk1	5407600	LJS 217
+ljs217_wk1	5407600	LJS 217
+ljs242_wk1	5408498	LJS 242
+ljs242_wk1	5408498	LJS 242
+mscodex1614_wk1	5409136	Ms. Codex 1614
+ljs311_wk1	5410474	LJS 311
+ljs311_wk1	5410474	LJS 311
+ljs312_wk1	5411100	LJS 312
+ljs312_wk1	5411100	LJS 312
+mscodex1617_wk1	5414273	Ms. Codex 1617
+mscodex1618_wk1	5414653	Ms. Codex 1618
+ljs359_wk1	5419609	LJS 359
+ljs359_wk1	5419609	LJS 359
+mscodex1620_wk1	5423460	Ms. Codex 1620
+mscodex1621_wk1	5423462	Ms. Codex 1621
+ljs385_wk1	5437139	LJS 385
+ljs385_wk1	5437139	LJS 385
+ljs387_wk1	5438045	LJS 387
+ljs387_wk1	5438045	LJS 387
+ljs394_wk1	5440810	LJS 394
+ljs413_wk1	5442919	LJS 413
+ljs413_wk1	5442919	LJS 413
+asu4006_wk1	5444480	ASU 4006
+asu3970_wk1	5444499	ASU 3970
+asu3740_wk1	5444506	ASU 3740
+ljs422_wk1	5444873	LJS 422
+ljs422_wk1	5444873	LJS 422
+ljs430_wk1	5444912	LJS 430
+ljs436_wk1	5445696	LJS 436
+ljs436_wk1	5445696	LJS 436
+ljs452_wk1	5447897	LJS 452
+ljs469_wk1	5452498	LJS 469
+mscodex1623_wk1	5456346	Ms. Codex 1623
+ljs484_wk1	5620367	LJS 484
+ljs484_wk1	5620367	LJS 484
+ljs487_wk1	5642893	LJS 487
+ljs487_wk1	5642893	LJS 487
+miscmsslarge3_wk1	5643795	Misc Mss (Large) 3
+mscodex1624_wk1	5648219	Ms. Codex 1624
+ljs498_wk1	5700150	LJS 498
+mscoll591_f35_wk1	5746411	Ms. Coll. 591, Folder 35
+ljs56_wk1	5760238	LJS 56
+ljs108_wk1	5760266	LJS 108
+ljs178_wk1	5760415	LJS 178
+ljs178_wk1	5760415	LJS 178
+ljs196_wk1	5760444	LJS 196
+ljs196_wk1	5760444	LJS 196
+ljs212_wk1	5760490	LJS 212
+ljs264_wk1	5760743	LJS 264
+ljs264_wk1	5760743	LJS 264
+ljs313_wk1	5761341	LJS 313
+ljs391_wk1	5761416	LJS 391
+ljs391_wk1	5761416	LJS 391
+ljs404_wk1	5762366	LJS 404
+ljs431_wk1	5762490	LJS 431
+ljs496_wk1	5762648	LJS 496
+ljs496_wk1	5762648	LJS 496
+ljs272_wk1	5762675	LJS 272
+ljs272_wk1	5762675	LJS 272
+ljs356_wk1	5762810	LJS 356
+ljs356_wk1	5762810	LJS 356
+ljs197_wk1	5763016	LJS 197
+ljs197_wk1	5763016	LJS 197
+ljsmisc1_wk1	5763037	LJS Misc-1
+ljsmisc1_wk1	5763037	LJS Misc-1
+ljsmisc2_wk1	5763053	LJS Misc-2
+ljsmisc2_wk1	5763053	LJS Misc-2
+ljsmisc3_wk1	5763076	LJS Misc-3
+ljsmisc3_wk1	5763076	LJS Misc-3
+ljsmisc5_wk1	5763192	LJS Misc-5
+ljsmisc5_wk1	5763192	LJS Misc-5
+ljsmisc4_wk1	5763305	LJS Misc-4
+ljsmisc4_wk1	5763305	LJS Misc-4
+ljs181_wk1	5764280	LJS 181
+ljs181_wk1	5764280	LJS 181
+mscodex1182_wk1	5765011	Ms. Codex 1182
+mscodex958_wk1	5779846	Ms. Codex 958
+ljs180_item1_wk1	5783301	LJS 180, Item 1
+ljs180_item2_wk1	5783302	LJS 180, Item 2
+ljs180_item3_wk1	5783304	LJS 180, Item 3
+ljs180_item4_wk1	5783306	LJS 180, Item 4
+ljs180_item5_wk1	5783307	LJS 180, Item 5
+ljs180_item6_wk1	5783309	LJS 180, Item 6
+ljs180_item6_wk1	5783309	LJS 180, Item 6
+ljs180_item7_wk1	5783312	LJS 180, Item 7
+ljs180_item8_wk1	5783315	LJS 180, Item 8
+ljs180_item9_wk1	5783316	LJS 180, Item 9
+ljs180_item10_wk1	5783317	LJS 180, Item 10
+ljs180_item11_wk1	5783318	LJS 180, Item 11
+ljs180_item12_wk1	5783320	LJS 180, Item 12
+ljs180_item13_wk1	5783322	LJS 180, Item 13
+ljs180_item14_wk1	5783324	LJS 180, Item 14
+ljs180_item15_wk1	5783326	LJS 180, Item 15
+ljs180_item16_wk1	5783328	LJS 180, Item 16
+ljs180_item17_wk1	5783330	LJS 180, Item 17
+ljs180_item18_wk1	5783331	LJS 180, Item 18
+ljs180_item19_wk1	5783332	LJS 180, Item 19
+ljs180_item20_wk1	5783334	LJS 180, Item 20
+ljs180_item21_wk1	5783336	LJS 180, Item 21
+ljs180_item22_wk1	5783338	LJS 180, Item 22
+ljs180_item23_wk1	5783339	LJS 180, Item 23
+ljs180_item24_wk1	5783342	LJS 180, Item 24
+ljs180_item25_wk1	5783344	LJS 180, Item 25
+miscmss29_wk1	5783576	Misc Mss 29
+ljs382_wk1	5783938	LJS 382
+ljs382_wk1	5783938	LJS 382
+ljs409_wk1	5784086	LJS 409
+mscodex1638_wk1	5790408	Ms. Codex 1638
+ljs42_wk1	5797761	LJS 42
+ljs041_wk1	5797941	LJS 41
+ljs448_wk1	5803161	LJS 448
+ljs448_wk1	5803161	LJS 448
+ljs459_wk1	5803344	LJS 459
+ljs459_wk1	5803344	LJS 459
+ljs171_wk1	5803812	LJS 171
+ljs171_wk1	5803812	LJS 171
+ljs380_wk1	5804130	LJS 380
+ljs380_wk1	5804130	LJS 380
+ljs419_wk1	5804762	LJS 419
+ljs437_wk1	5806567	LJS 437
+ljs437_wk1	5806567	LJS 437
+ljs445_wk1	5806807	LJS 445
+ljs445_wk1	5806807	LJS 445
+ljs457_wk1	5807073	LJS 457
+ljs457_wk1	5807073	LJS 457
+ljs458_wk1	5807343	LJS 458
+ljs458_wk1	5807343	LJS 458
+ljs462_wk1	5807414	LJS 462
+ljs462_wk1	5807414	LJS 462
+ljs485_wk1	5809102	LJS 485
+ljs485_wk1	5809102	LJS 485
+ljs486_wk1	5809263	LJS 486
+ljs486_wk1	5809263	LJS 486
+mscodex1625_wk1	5809959	Ms. Codex 1625
+mscoll591_f36_wk1	5810154	Ms. Coll. 591, Folder 36
+miscmss_paz_wk1	5810177	Misc Mss
+mscodex1626_wk1	5810567	Ms. Codex 1626
+miscmsslarge_samuellord_wk1	5814147	Misc Mss (Large)
+miscmsslarge_decretales_wk1	5814674	Misc Mss (Large)
+ljs22_wk1	5816242	LJS 22
+ljs22_wk1	5816242	LJS 22
+ljs38_wk1	5816416	LJS 38
+ljs38_wk1	5816416	LJS 38
+ljs39_wk1	5816623	LJS 39
+ljs39_wk1	5816623	LJS 39
+ljs40_wk1	5816659	LJS 40
+ljs40_wk1	5816659	LJS 40
+ljs51_wk1	5816686	LJS 51
+ljs51_wk1	5816686	LJS 51
+ljs163_wk1	5818281	LJS 163
+ljs163_wk1	5818281	LJS 163
+ljs168_wk1	5818554	LJS 168
+ljs168_wk1	5818554	LJS 168
+ljs406_wk1	5818705	LJS 406
+ljs176_wk1	5819024	LJS 176
+ljs176_wk1	5819024	LJS 176
+ljs177_wk1	5827978	LJS 177
+ljs499_wk1	5828987	LJS 499
+ljs499_wk1	5828987	LJS 499
+NEP27_wk1	5829382	NEP27
+ljs345_wk1	5830722	LJS 345
+ljs345_wk1	5830722	LJS 345
+ljs219_wk1	5831589	LJS 219
+ljs219_wk1	5831589	LJS 219
+ljs192_wk1	5833727	LJS 192
+ljs192_wk1	5833727	LJS 192
+ljs185_wk1	5833885	LJS 185
+ljs166_wk1	5834621	LJS 166
+ljs166_wk1	5834621	LJS 166
+ljs164_wk1	5837956	LJS 164
+ljs164_wk1	5837956	LJS 164
+mscodex1627_wk1	5838554	Ms. Codex 1627
+mscodex1628_wk1	5839540	Ms. Codex 1628
+mscoll591_f37_wk1	5842347	Ms. Coll. 591, Folder 37
+mscoll591_f38_wk1	5844096	Ms. Coll. 591, Folder 38
+ljs440_wk1	5844443	LJS 440
+ljs440_wk1	5844443	LJS 440
+ljs456_wk1	5844667	LJS 456
+ljs456_wk1	5844667	LJS 456
+ljs184_wk1	5845210	LJS 184
+ljs184_wk1	5845210	LJS 184
+ljs461_wk1	5846799	LJS 461
+ljs461_wk1	5846799	LJS 461
+ljs173_wk1	5846966	LJS 173
+ljs100_wk1	5848734	LJS 100
+ljs175_wk1	5848812	LJS 175
+ljs175_wk1	5848812	LJS 175
+ljs488_wk1	5849010	LJS 488
+ljs488_wk1	5849010	LJS 488
+ljs289_wk1	5857874	LJS 289
+ljs289_wk1	5857874	LJS 289
+ljs476_wk1	5858073	LJS 476
+ljs476_wk1	5858073	LJS 476
+ljs195_wk1	5858951	LJS 195
+ljs195_wk1	5858951	LJS 195
+ljs472_wk1	5860792	LJS 472
+ljs472_wk1	5860792	LJS 472
+ljs355_wk1	5861596	LJS 355
+ljs355_wk1	5861596	LJS 355
+ljs426_wk1	5861714	LJS 426
+ljs426_wk1	5861714	LJS 426
+ljs427_wk1	5864396	LJS 427
+ljs427_wk1	5864396	LJS 427
+ljs417_wk1	5864572	LJS 417
+ljs417_wk1	5864572	LJS 417
+ljs299_wk1	5865187	LJS 299
+ljs299_wk1	5865187	LJS 299
+mscoll591_f39_wk1	5868907	Ms. Coll. 591, Folder 39
+miscmsslarge_augustine_wk1	5869269	Misc Mss (Large)
+mscoll591_f40_wk1	5869717	Ms. Coll. 591, Folder 40
+miscmsslarge_capps_wk1	5870414	Misc Mss (Large)
+mscodex1629_wk1	5875212	Ms. Codex 1629
+ljs172_wk1	5877833	LJS 172
+ljs172_wk1	5877833	LJS 172
+ljs210_wk1	5878683	LJS 210
+ljs220_wk1	5885488	LJS 220
+ljs220_wk1	5885488	LJS 220
+ljs221_wk1	5885633	LJS 221
+ljs221_wk1	5885633	LJS 221
+ljs294_wk1	5890176	LJS 294
+ljs294_wk1	5890176	LJS 294
+mscodex1630_wk1	5893564	Ms. Codex 1630
+ljs393_wk1	5893925	LJS 393
+ljs393_wk1	5893925	LJS 393
+ljs398_wk1	5894586	LJS 398
+ljs398_wk1	5894586	LJS 398
+ljs479_wk1	5902266	LJS 479
+ljs479_wk1	5902266	LJS 479
+ljs468_wk1	5905810	LJS 468
+ljs468_wk1	5905810	LJS 468
+mscodex1631_wk1	5909897	Ms. Codex 1631
+ljs470_wk1	5910252	LJS 470
+ljs470_wk1	5910252	LJS 470
+ljs500_wk1	5913670	LJS 500
+miscmss30_wk1	5914909	Misc Mss 30
+ljs471_wk1	5918926	LJS 471
+ljs471_wk1	5918926	LJS 471
+ljs395_wk1	5924898	LJS 395
+ljs395_wk1	5924898	LJS 395
+mscodex1633_wk1	5935266	Ms. Codex 1633
+ljs203_wk1	5935273	LJS 203
+ljs203_wk1	5935273	LJS 203
+mscodex1632_wk1	5938304	Ms. Codex 1632
+ljs224_wk1	5938734	LJS 224
+ljs224_wk1	5938734	LJS 224
+ljs229_wk1	5941518	LJS 229
+ljs229_wk1	5941518	LJS 229
+ljs234_wk1	5941942	LJS 234
+ljs234_wk1	5941942	LJS 234
+ljs347_wk1	5942816	LJS 347
+ljs347_wk1	5942816	LJS 247
+ljs438_wk1	5947239	LJS 438
+ljs438_wk1	5947239	LJS 438
+ljs453_wk1	5950432	LJS 453
+ljs453_wk1	5950432	LJS 453
+ljs481_wk1	5954272	LJS 481
+ljs483_wk1	5958086	LJS 483
+mscodex1636_wk1	5962051	Ms. Codex 1636
+ljs491_wk1	5962660	LJS 491
+ljs494_wk1	5963091	LJS 494
+ljs494_wk1	5963091	LJS 494
+ljs102_wk1	5964763	LJS 102
+ljs102_wk1	5964763	LJS 102
+ljs99_wk1	5964904	LJS 99
+ljs99_wk1	5964904	LJS 99
+ljs269_wk1	5964919	LJS 269
+ljs269_wk1	5964919	LJS 269
+ljs270_wk1	5964920	LJS 270
+ljs270_wk1	5964920	LJS 270
+mscodex1637_wk1	5966735	Ms. Codex 1637
+ljs302_wk1	5968289	LJS 302
+ljs302_wk1	5968289	LJS 302
+ljs201_wk1	5968339	LJS 201
+ljs201_wk1	5968339	LJS 201
+ljs206_wk1	5968574	LJS 206
+ljs207_wk1	5975138	LJS 207
+ljs208_wk1	5977473	LJS 208
+ljs208_wk1	5977473	LJS 208
+ljs209_wk1	5977518	LJS 209
+ljs209_wk1	5977518	LJS 209
+ljs465_wk1	5978143	LJS 465
+ljs465_wk1	5978143	LJS 465
+ljs213_wk1	5978619	LJS 213
+ljs33_wk1	5983690	LJS 33
+ljs33_wk1	5983690	LJS 33
+ljs475_wk1	5983979	LJS 475
+ljs475_wk1	5983979	LJS 475
+ljs480_wk1	5990931	LJS 480
+ljs480_wk1	5990931	LJS 480
+mscodex1635_wk1	826745	Ms. Codex 1635

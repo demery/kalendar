@@ -1,0 +1,13 @@
+ljs300_wk1	4918422	LJS 300
+ljs420_wk1	4733161	LJS 420
+mscodex1056_wk1	4076488	Ms. Codex 1056
+mscodex1060_wk1	4133301	Ms. Codex 1060
+mscodex1063_wk1	4154279	Ms. Codex 1063
+mscodex1233_wk1	4367723	Ms. Codex 1233
+mscodex236_wk1	1551791	Ms. Codex 236
+mscodex688_wk1	2487476	Ms. Codex 688
+mscodex737_wk1	2487582	Ms. Codex 737
+mscodex738_wk1	2487577	Ms. Codex 738
+mscodex739_wk1	2703984	Ms. Codex 739
+mscodex746_wk1	2487566	Ms. Codex 746
+mscodex_1057_wk1	4087611	Ms. Codex 1057

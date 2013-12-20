@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?><page><images xmlns:xs="http://www.w3.org/2001/XMLSchema"><image xmlns:my="http://nowhere" src="https://repo.library.upenn.edu/djatoka/resolver?url_ver=Z39.88-2004&amp;svc_id=info:lanl-repo/svc/getRegion&amp;svc_val_fmt=info:ofi/fmt:kev:mtx:jpeg2000&amp;svc.format=image/jpeg&amp;rft_id=medren_ljs300_wk1_front0001&amp;svc.level=3&amp;svc.rotate="><params><identifier>medren_ljs300_wk1_front0001</identifier><imagefile>/repo/store/pairtree_root/me/dr/en/_l/js/30/0_/wk/1_/fr/on/t0/00/1/medren_ljs300_wk1_front0001/v001/full/ljs300_wk1_front0001.DELIVERY.jp2</imagefile><width>4210</width><height>4880</height><dwtLevels>6</dwtLevels><levels>6</levels><compositingLayerCount>1</compositingLayerCount><defaultscale>3</defaultscale></params><control><zoomcontrol zoom="in"><input name="zoom" type="radio" value="in" onclick="selectZoomControl('in')" checked="yes">zoom in</input><input name="zoom" type="radio" value="out" onclick="selectZoomControl('out')">zoom out</input><input name="zoom" type="radio" value="none" onclick="selectZoomControl('none')">recenter</input></zoomcontrol><sizecontrol><input name="size" type="radio" value="0" onClick="this.form.submit()">full</input><input name="size" type="radio" value="1" onClick="this.form.submit()">1/2</input><input name="size" type="radio" value="2" onClick="this.form.submit()">1/4</input><input name="size" type="radio" value="3" checked="yes">1/8</input><input name="size" type="radio" value="4" onClick="this.form.submit()">1/16</input><input name="size" type="radio" value="5" onClick="this.form.submit()">1/32</input><input name="size" type="radio" value="6" onClick="this.form.submit()">1/64</input></sizecontrol></control></image></images><response xmlns:cinclude="http://apache.org/cocoon/include/1.0"><links xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:my="http://nowhere" detail-page-params=".html?id=MEDREN_4918422&amp;"><feeds><str name="media.rss">feeds/pageturn.mrss?rotation=0&amp;id=MEDREN_4918422 OR id:MEDREN_4918422_*&amp;rows=500</str><str name="rss">feeds/pageturn.rss?id=MEDREN_4918422&amp;rotation=0&amp;</str><str name="ical">feeds/calendar.ics?id=MEDREN_4918422&amp;rotation=0&amp;</str><str name="url">http://dla.library.upenn.edu/dla/medren/pageturn.html?id=MEDREN_4918422&amp;rotation=0&amp;rotation=0&amp;</str><str name="display-record" display="[more information]">record.html?id=MEDREN_4918422&amp;rotation=0&amp;</str><str name="enable-fullview" display="Enable Full View">pageturn.html?id=MEDREN_4918422&amp;rotation=0&amp;fullview=true</str><str name="rotate-right" display="Rotate Right">pageturn.html?id=MEDREN_4918422&amp;rotation=90</str><str name="rotate-left" display="Rotate Left">pageturn.html?id=MEDREN_4918422&amp;rotation=270</str><str name="handle">http://hdl.library.upenn.edu/1017/d/medren/4918422</str></feeds><sidebar><str name="mailto" display="Contact Us">mailto:shawcros@pobox.upenn.edu?subject=Penn%20in%20Hand%3A%20Selected%20Manuscripts%20%28DLA%20Collection%29&amp;body=Question%20regarding%20this%20page%3A%20http%3A%2F%2Fdla.library.upenn.edu%2Fdla%2Fmedren%2Fpageturn.html%3Fid%3DMEDREN_4918422%26rotation%3D0%26</str></sidebar></links><params xmlns:my="http://nowhere"><str name="q"/><str name="id">MEDREN_4918422</str><str name="fq"/><str name="start">0</str><str name="rows">25</str><str name="sort">score desc, date_sort asc</str><str name="page">pageturn</str><str name="browse"/><str name="facet">true</str><str name="view"/><str name="detail">brief</str><str name="showall"/><str name="fullview"/><info><str name="params-forward">true</str><str name="url">http://dla.library.upenn.edu/dla</str></info><page-specific name="pageturn"><str name="currentpage">1</str><str name="doubleside">1</str><str name="filter"/><str name="rotation">0</str><str name="region"/><str name="filetype"/><str name="image"/><str name="naturalwidth"/><str name="naturalheight"/><str name="levels"/><str name="zoom"/><str name="level"/><str name="oldwidth"/><str name="oldheight"/><str name="oldx"/><str name="oldy"/><str name="x"/><str name="y"/><str name="size"/><str name="oldsize"/></page-specific></params>
+<lst name="responseHeader"><int name="status">0</int><int name="QTime">6</int><lst name="params"><str name="facet">true</str><str name="sort">score desc, date_sort asc</str><str name="fl">*</str><str name="facet.mincount">1</str><str name="facet.sort">true</str><str name="q">id:MEDREN_4918422</str><str name="facet.limit">5</str><str name="f..facet.limit">400</str><str name="f..facet.sort">false</str><arr name="facet.field"><str>collection_facet</str><str>has_999_facet</str><str>facsimile_facet</str><str>illuminated_facet</str><str>illustrated_facet</str><str>notated_facet</str><str>language_facet</str><str>century_facet</str><str>date_facet</str><str>genre_facet</str><str>subject_facet</str><str>geography_facet</str><str>author_facet</str><str>related_names_facet</str><str>page_material_facet</str></arr><str name="qt">dla-standard</str><str name="rows">25</str></lst></lst><result name="response" numFound="1" start="0"><doc><str name="id">MEDREN_4918422</str><arr name="call_number_field"><str>LJS 300</str></arr><str name="orientation"/><str name="format">pageturn</str><arr name="title_field"><str>[Calendarium and ephemerides]</str></arr><arr name="probable_date_field"><str>1500 </str></arr><arr name="titledate_field"><str>LJS 300 - [Calendarium and ephemerides] (1500 )</str></arr><arr name="primary_author_field"><str>Regiomontanus, Joannes, 1436-1476</str></arr><arr name="origin_field"><str>[Lambach?, Austria, ca. 1500]</str></arr><arr name="date_facsimile_added_field"><str>06-06-2011</str></arr><arr name="collection_field"><str>Medieval &amp; Renaissance Manuscripts Collection</str></arr><arr name="collectionSEARCH_URL_field"><str>search.html?fq=collection_facet%3A"Medieval %26 Renaissance Manuscripts"</str></arr><arr name="LJScollection_field"><str>Lawrence J. Schoenberg Collection</str></arr><arr name="LJScollectionSEARCH_URL_field"><str>search.html?fq=collection_facet%3A"Lawrence J. Schoenberg Collection"</str></arr><arr name="facsimile_field"><str>Yes</str></arr><arr name="language_field"><str>Latin</str></arr><arr name="genre_field"><str>Codices</str><str>Almanacs</str><str>Devotional calendars</str><str>Ephemerides</str><str>Tables (documents)</str><str>Finding tabs</str><str>Manuscripts, Latin - 15th century</str><str>Manuscripts, Latin - 16th century</str><str>Manuscripts, Renaissance</str></arr><arr name="subject_field"><str>Astronomy</str><str>Astronomy</str><str>Ephemerides</str><str>Monastic libraries</str></arr><arr name="geography_field"><str>Austria</str><str>Lambach (Upper Austria)</str></arr><arr name="author_field"><str>Regiomontanus, Joannes, 1436-1476</str></arr><xml name="marcrecord"><marc:record xmlns:marc="http://www.loc.gov/MARC21/slim">
+   <marc:leader>05885ctm a2200793Ia 4500</marc:leader>
+   <marc:controlfield tag="001">4918422</marc:controlfield>
+   <marc:controlfield tag="005">20120430114539.0</marc:controlfield>
+   <marc:controlfield tag="008">101220s1500    paua          000 0 lat d</marc:controlfield>
+   <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)ocn792741411</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="040" ind1=" " ind2=" ">
+      <marc:subfield code="a">PAULM</marc:subfield>
+      <marc:subfield code="c">PAULM</marc:subfield>
+      <marc:subfield code="e">amremm</marc:subfield>
+      <marc:subfield code="d">PAULM</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="035" ind1=" " ind2=" ">
+      <marc:subfield code="a">(OCoLC)792741411</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="079" ind1=" " ind2=" ">
+      <marc:subfield code="a">ocn792741409</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="099" ind1=" " ind2="9">
+      <marc:subfield code="a">LJS 300</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="049" ind1=" " ind2=" ">
+      <marc:subfield code="a">PAUM</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="100" ind1="1" ind2=" ">
+      <marc:subfield code="a">Regiomontanus, Joannes,</marc:subfield>
+      <marc:subfield code="d">1436-1476.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="245" ind1="1" ind2="0">
+      <marc:subfield code="a">[Calendarium and ephemerides]</marc:subfield>
+      <marc:subfield code="h">[manuscript].</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="260" ind1=" " ind2=" ">
+      <marc:subfield code="a">[Lambach?, Austria,</marc:subfield>
+      <marc:subfield code="c">ca. 1500]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="300" ind1=" " ind2=" ">
+      <marc:subfield code="a">377 leaves :</marc:subfield>
+      <marc:subfield code="b">paper and parchment, col. ill. ;</marc:subfield>
+      <marc:subfield code="c">162 x 120 (123 x 92) mm. bound to 173 x 148 mm.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Ms. codex.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="520" ind1=" " ind2=" ">
+      <marc:subfield code="a">Manuscript copy of the Calendarium and Ephemerides as published by Regiomontanus in 1474.  The Calendarium, for 1475-1530, gives information on lunar and solar eclipses, the length of days, and the signs of the zodiac and planets.  Also includes a table of time corrections (f. 11v) for cities in reference to a longitude of approximately 10 degrees east (thus making no correction for Braunschweig, Nuremberg, Ulm, or Milan).  The Ephemerides, consisting only of tables updated to begin in 1480 and ending in 1506, provides positions for the sun, moon, and planets for each day of each year.  The beginning of each year is marked with a finding tab of leather or parchment dyed pink.  A liturgical calendar at the beginning of the manuscript (lacking November) includes additions to the printed version which customize the calendar for a Benedictine monastery (Saint Maurus, 15 Jan.; commemoration of Adalbero, 6 Oct.) in southern Germany or Austria (Valentinus, bishop of Passau, 7 Jan.; Rupert, bishop of Salzburg, 27 Mar.; Ulrich of Augsburg, 4 July; Koloman, patron saint of Austria, 13 Oct.), and more specifically the Benedictine abbey in Lambach, Austria (feast and translation of Kilian, patron saint of the abbey, 7 and 14 Jul.).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="546" ind1=" " ind2=" ">
+      <marc:subfield code="a">Latin.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Title supplied by cataloger.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">1. f.1r-11v: [Liturgical calendar]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">2. f.12r-20r: [Calendarium]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="505" ind1="0" ind2=" ">
+      <marc:subfield code="a">3. f.22r-377r: Almanach [Ephemerides]</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Collation:  Paper and parchment, 377 + v; 1¹⁰ 2¹²⁻¹ 3¹⁴ 4-5¹⁴⁻¹ 6-8¹⁴ 9-11¹⁴⁻¹ 12¹⁶⁻² 13¹⁴ 14-24¹⁴⁻¹ 25¹⁴⁻² 26-29¹⁴⁻¹; 3 parchment bifolia (f. 54-55, 68-69, 240-241); [1-237, 237-376], modern foliation in pencil, upper right recto.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Layout:  Written in 35 lines, in varying numbers of columns; ruled in faint ink, with vertical bounding lines; pricking visible on 3 sides of leaves throughout.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Script:  Written in Gothic script.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Decoration:  Illustrations of eclipses in brown and yellow, 6 per page (f. 12r-16v), and 1 or 2 illustrations of eclipses on the opening page of most years in the Ephemerides, (for example, 37r, 49r, 63r, and 103r); rubrication in red; tables in black and red throughout.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Watermark:  Briquet Balance 2450 and/or Piccard, Group IV (170-206) and Group V (299-300), in use in Austria and southern Germany, 1467-1475.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Binding:  Original leather over wooden boards, blind-stamped with cornerpieces, bosses, and 2 clasps; bound at the Benedictine abbey in Lambach (K. Holter, Die Buchbinderwerksatt des Stiftes Lambach); spine restored.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="500" ind1=" " ind2=" ">
+      <marc:subfield code="a">Origin:  Written in Upper Austria, probably Lambach, ca. 1500.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Originally owned by the Benedictine abbey of Lambach.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Formerly owned by Duke Gabor Festetics von Tolna (Keszthely, Hungary; armorial bookplate, inside upper cover; stamp, "Bibliotheca in Keszthely," f. 1r).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Appears in V. A. Heck's cat. IV (Vienna, ca. 1922).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sold by Laurence Witten to Harrison D. Horblit, 1957.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sold by H. P. Kraus to Irene and Peter Ludwig (Aachen, Germany; bookplates by Hans Erni inside lower cover; ms. XII.9).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Purchased by the J. Paul Getty Museum (Malibu, Calif.), 1983.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Appears in Jörn Günther's catalog 5 (1997), no. 29; also his Recent Acquisitions (with Bruce Ferrini, Autumn 1997), p. 23.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, April 1999.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="561" ind1="1" ind2=" ">
+      <marc:subfield code="a">Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="510" ind1="4" ind2=" ">
+      <marc:subfield code="a">Described in Transformation of knowledge: early manuscripts from the collection of Lawrence J. Schoenberg (London: Paul Holberton, 2006),</marc:subfield>
+      <marc:subfield code="c">p. 74 (LJS 300).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="524" ind1=" " ind2=" ">
+      <marc:subfield code="a">LJS 300</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="590" ind1=" " ind2=" ">
+      <marc:subfield code="a">Lawrence J. Schoenberg &amp; Barbara Brizdle Manuscript Initiative.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Astronomy</marc:subfield>
+      <marc:subfield code="v">Early works to 1800.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Astronomy</marc:subfield>
+      <marc:subfield code="v">Tables.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Ephemerides</marc:subfield>
+      <marc:subfield code="v">Early works to 1800.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="650" ind1=" " ind2="0">
+      <marc:subfield code="a">Monastic libraries</marc:subfield>
+      <marc:subfield code="z">Austria</marc:subfield>
+      <marc:subfield code="z">Lambach (Upper Austria)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Codices.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Almanacs.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Devotional calendars.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Ephemerides.</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="7">
+      <marc:subfield code="a">Tables (documents)</marc:subfield>
+      <marc:subfield code="2">aat</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="4">
+      <marc:subfield code="a">Finding tabs.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="0">
+      <marc:subfield code="a">Manuscripts, Latin</marc:subfield>
+      <marc:subfield code="y">15th century.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="0">
+      <marc:subfield code="a">Manuscripts, Latin</marc:subfield>
+      <marc:subfield code="y">16th century.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="655" ind1=" " ind2="0">
+      <marc:subfield code="a">Manuscripts, Renaissance.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Festetics von Tolna, Gabor,</marc:subfield>
+      <marc:subfield code="c">Graf,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Horblit, Harrison D.,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ludwig, Peter,</marc:subfield>
+      <marc:subfield code="d">1925-1996,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="700" ind1="1" ind2=" ">
+      <marc:subfield code="a">Ludwig, Irene,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">Benediktinerstift Lambach,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="710" ind1="2" ind2=" ">
+      <marc:subfield code="a">J. Paul Getty Museum,</marc:subfield>
+      <marc:subfield code="e">former owner.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="740" ind1="0" ind2="2">
+      <marc:subfield code="a">Ephemerides.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2="1">
+      <marc:subfield code="z">Facsimile</marc:subfield>
+      <marc:subfield code="u">http://hdl.library.upenn.edu/1017/d/medren/4918422</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="856" ind1="4" ind2="2">
+      <marc:subfield code="3">The Lawrence J. Schoenberg and Barbara Brizdle Manuscript Initiative Fund Home Page</marc:subfield>
+      <marc:subfield code="u">http://hdl.library.upenn.edu/1017.12/366278</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="852" ind1=" " ind2=" ">
+      <marc:subfield code="b">Rare Book &amp; Manuscript Library</marc:subfield>
+      <marc:subfield code="a">University of Pennsylvania</marc:subfield>
+      <marc:subfield code="e">3420 Walnut Street, Philadelphia, Pennsylvania 19104-6206.</marc:subfield>
+      <marc:subfield code="j">LJS 300</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="999" ind1=" " ind2=" ">
+      <marc:subfield code="a">DLA</marc:subfield>
+      <marc:subfield code="b">20110606</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="994" ind1=" " ind2=" ">
+      <marc:subfield code="a">C0</marc:subfield>
+      <marc:subfield code="b">PAULM</marc:subfield>
+   </marc:datafield>
+</marc:record>
+</xml><xml name="pages"><page number="1" seq="1" id="medren_4918422_475760" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_front0001" image="ljs300_wk1_front0001" visiblepage="Front cover"/>
+<page number="2" seq="2" id="medren_4918422_475761" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_front0002" image="ljs300_wk1_front0002" visiblepage="Inside front cover">
+   <tocentry name="ill">Bookplate, Inside front cover</tocentry>
+</page>
+<page number="3" seq="3" id="medren_4918422_475762" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0001" image="ljs300_wk1_body0001" visiblepage="1r">
+   <tocentry name="toc">Liturgical calendar, f. 1r</tocentry>
+   <tocentry name="ill">Owner stamp, f. 1r</tocentry>
+</page>
+<page number="4" seq="4" id="medren_4918422_475763" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0002" image="ljs300_wk1_body0002" visiblepage="1v"/>
+<page number="5" seq="5" id="medren_4918422_475764" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0003" image="ljs300_wk1_body0003" visiblepage="2r"/>
+<page number="6" seq="6" id="medren_4918422_475765" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0004" image="ljs300_wk1_body0004" visiblepage="2v"/>
+<page number="7" seq="7" id="medren_4918422_475766" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0005" image="ljs300_wk1_body0005" visiblepage="3r"/>
+<page number="8" seq="8" id="medren_4918422_475767" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0006" image="ljs300_wk1_body0006" visiblepage="3v"/>
+<page number="9" seq="9" id="medren_4918422_475768" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0007" image="ljs300_wk1_body0007" visiblepage="4r"/>
+<page number="10" seq="10" id="medren_4918422_475769" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0008" image="ljs300_wk1_body0008" visiblepage="4v"/>
+<page number="11" seq="11" id="medren_4918422_475770" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0009" image="ljs300_wk1_body0009" visiblepage="5r"/>
+<page number="12" seq="12" id="medren_4918422_475771" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0010" image="ljs300_wk1_body0010" visiblepage="5v"/>
+<page number="13" seq="13" id="medren_4918422_475772" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0011" image="ljs300_wk1_body0011" visiblepage="6r"/>
+<page number="14" seq="14" id="medren_4918422_475773" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0012" image="ljs300_wk1_body0012" visiblepage="6v"/>
+<page number="15" seq="15" id="medren_4918422_475774" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0013" image="ljs300_wk1_body0013" visiblepage="7r"/>
+<page number="16" seq="16" id="medren_4918422_475775" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0014" image="ljs300_wk1_body0014" visiblepage="7v"/>
+<page number="17" seq="17" id="medren_4918422_475776" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0015" image="ljs300_wk1_body0015" visiblepage="8r"/>
+<page number="18" seq="18" id="medren_4918422_475777" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0016" image="ljs300_wk1_body0016" visiblepage="8v"/>
+<page number="19" seq="19" id="medren_4918422_475778" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0017" image="ljs300_wk1_body0017" visiblepage="9r"/>
+<page number="20" seq="20" id="medren_4918422_475779" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0018" image="ljs300_wk1_body0018" visiblepage="9v"/>
+<page number="21" seq="21" id="medren_4918422_475780" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0019" image="ljs300_wk1_body0019" visiblepage="10r"/>
+<page number="22" seq="22" id="medren_4918422_475781" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0020" image="ljs300_wk1_body0020" visiblepage="10v"/>
+<page number="23" seq="23" id="medren_4918422_475782" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0021" image="ljs300_wk1_body0021" visiblepage="11r"/>
+<page number="24" seq="24" id="medren_4918422_475783" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0022" image="ljs300_wk1_body0022" visiblepage="11v">
+   <tocentry name="ill">Table, Time corrections, f. 11v</tocentry>
+</page>
+<page number="25" seq="25" id="medren_4918422_475784" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0023" image="ljs300_wk1_body0023" visiblepage="12r">
+   <tocentry name="toc">Calendarium, f. 12r</tocentry>
+   <tocentry name="ill">Illustration, Eclipses, f. 12r</tocentry>
+</page>
+<page number="26" seq="26" id="medren_4918422_475785" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0024" image="ljs300_wk1_body0024" visiblepage="12v">
+   <tocentry name="ill">Illustration, Eclipses, f. 12v</tocentry>
+</page>
+<page number="27" seq="27" id="medren_4918422_475786" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0025" image="ljs300_wk1_body0025" visiblepage="13r">
+   <tocentry name="ill">Illustration, Eclipses, f. 13r</tocentry>
+</page>
+<page number="28" seq="28" id="medren_4918422_475787" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0026" image="ljs300_wk1_body0026" visiblepage="13v">
+   <tocentry name="ill">Illustration, Eclipses, f. 13v</tocentry>
+</page>
+<page number="29" seq="29" id="medren_4918422_475788" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0027" image="ljs300_wk1_body0027" visiblepage="14r">
+   <tocentry name="ill">Illustration, Eclipses, f. 14r</tocentry>
+</page>
+<page number="30" seq="30" id="medren_4918422_475789" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0028" image="ljs300_wk1_body0028" visiblepage="14v">
+   <tocentry name="ill">Illustration, Eclipses, f. 14v</tocentry>
+</page>
+<page number="31" seq="31" id="medren_4918422_475790" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0029" image="ljs300_wk1_body0029" visiblepage="15r">
+   <tocentry name="ill">Illustration, Eclipses, f. 15r</tocentry>
+</page>
+<page number="32" seq="32" id="medren_4918422_475791" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0030" image="ljs300_wk1_body0030" visiblepage="15v">
+   <tocentry name="ill">Illustration, Eclipses, f. 15v</tocentry>
+</page>
+<page number="33" seq="33" id="medren_4918422_475792" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0031" image="ljs300_wk1_body0031" visiblepage="16r">
+   <tocentry name="ill">Illustration, Eclipses, f. 16r</tocentry>
+</page>
+<page number="34" seq="34" id="medren_4918422_475793" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0032" image="ljs300_wk1_body0032" visiblepage="16v">
+   <tocentry name="ill">Illustration, Eclipses, f. 16v</tocentry>
+</page>
+<page number="35" seq="35" id="medren_4918422_475794" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0033" image="ljs300_wk1_body0033" visiblepage="17r"/>
+<page number="36" seq="36" id="medren_4918422_475795" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0034" image="ljs300_wk1_body0034" visiblepage="17v"/>
+<page number="37" seq="37" id="medren_4918422_475796" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0035" image="ljs300_wk1_body0035" visiblepage="18r"/>
+<page number="38" seq="38" id="medren_4918422_475797" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0036" image="ljs300_wk1_body0036" visiblepage="18v"/>
+<page number="39" seq="39" id="medren_4918422_475798" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0037" image="ljs300_wk1_body0037" visiblepage="19r"/>
+<page number="40" seq="40" id="medren_4918422_475799" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0038" image="ljs300_wk1_body0038" visiblepage="19v"/>
+<page number="41" seq="41" id="medren_4918422_475800" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0039" image="ljs300_wk1_body0039" visiblepage="20r"/>
+<page number="42" seq="42" id="medren_4918422_475801" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0040" image="ljs300_wk1_body0040" visiblepage="20v"/>
+<page number="43" seq="43" id="medren_4918422_475802" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0041" image="ljs300_wk1_body0041" visiblepage="21r"/>
+<page number="44" seq="44" id="medren_4918422_475803" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0042" image="ljs300_wk1_body0042" visiblepage="21v"/>
+<page number="45" seq="45" id="medren_4918422_475804" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0043" image="ljs300_wk1_body0043" visiblepage="22r">
+   <tocentry name="toc">Almanach [Ephemerides], f. 22r</tocentry>
+   <tocentry name="ill">Illustration, Eclipse, f. 22r</tocentry>
+   <tocentry name="ill">Finding tab, f. 22r</tocentry>
+</page>
+<page number="46" seq="46" id="medren_4918422_475805" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0044" image="ljs300_wk1_body0044" visiblepage="22v">
+   <tocentry name="ill">Finding tab, f. 22v</tocentry>
+</page>
+<page number="47" seq="47" id="medren_4918422_475806" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0045" image="ljs300_wk1_body0045" visiblepage="23r"/>
+<page number="48" seq="48" id="medren_4918422_475807" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0046" image="ljs300_wk1_body0046" visiblepage="23v"/>
+<page number="49" seq="49" id="medren_4918422_475808" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0047" image="ljs300_wk1_body0047" visiblepage="24r"/>
+<page number="50" seq="50" id="medren_4918422_475809" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0048" image="ljs300_wk1_body0048" visiblepage="24v"/>
+<page number="51" seq="51" id="medren_4918422_475810" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0049" image="ljs300_wk1_body0049" visiblepage="25r"/>
+<page number="52" seq="52" id="medren_4918422_475811" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0050" image="ljs300_wk1_body0050" visiblepage="25v"/>
+<page number="53" seq="53" id="medren_4918422_475812" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0051" image="ljs300_wk1_body0051" visiblepage="26r"/>
+<page number="54" seq="54" id="medren_4918422_475813" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0052" image="ljs300_wk1_body0052" visiblepage="26v"/>
+<page number="55" seq="55" id="medren_4918422_475814" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0053" image="ljs300_wk1_body0053" visiblepage="27r"/>
+<page number="56" seq="56" id="medren_4918422_475815" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0054" image="ljs300_wk1_body0054" visiblepage="27v"/>
+<page number="57" seq="57" id="medren_4918422_475816" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0055" image="ljs300_wk1_body0055" visiblepage="28r"/>
+<page number="58" seq="58" id="medren_4918422_475817" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0056" image="ljs300_wk1_body0056" visiblepage="28v"/>
+<page number="59" seq="59" id="medren_4918422_475818" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0057" image="ljs300_wk1_body0057" visiblepage="29r"/>
+<page number="60" seq="60" id="medren_4918422_475819" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0058" image="ljs300_wk1_body0058" visiblepage="29v"/>
+<page number="61" seq="61" id="medren_4918422_475820" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0059" image="ljs300_wk1_body0059" visiblepage="30r"/>
+<page number="62" seq="62" id="medren_4918422_475821" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0060" image="ljs300_wk1_body0060" visiblepage="30v"/>
+<page number="63" seq="63" id="medren_4918422_475822" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0061" image="ljs300_wk1_body0061" visiblepage="31r"/>
+<page number="64" seq="64" id="medren_4918422_475823" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0062" image="ljs300_wk1_body0062" visiblepage="31v"/>
+<page number="65" seq="65" id="medren_4918422_475824" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0063" image="ljs300_wk1_body0063" visiblepage="32r"/>
+<page number="66" seq="66" id="medren_4918422_475825" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0064" image="ljs300_wk1_body0064" visiblepage="32v"/>
+<page number="67" seq="67" id="medren_4918422_475826" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0065" image="ljs300_wk1_body0065" visiblepage="33r"/>
+<page number="68" seq="68" id="medren_4918422_475827" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0066" image="ljs300_wk1_body0066" visiblepage="33v"/>
+<page number="69" seq="69" id="medren_4918422_475828" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0067" image="ljs300_wk1_body0067" visiblepage="34r"/>
+<page number="70" seq="70" id="medren_4918422_475829" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0068" image="ljs300_wk1_body0068" visiblepage="34v"/>
+<page number="71" seq="71" id="medren_4918422_475830" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0069" image="ljs300_wk1_body0069" visiblepage="35r"/>
+<page number="72" seq="72" id="medren_4918422_475831" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0070" image="ljs300_wk1_body0070" visiblepage="35v"/>
+<page number="73" seq="73" id="medren_4918422_475832" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0071" image="ljs300_wk1_body0071" visiblepage="36r"/>
+<page number="74" seq="74" id="medren_4918422_475833" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0072" image="ljs300_wk1_body0072" visiblepage="36v (bound in upside down)"/>
+<page number="75" seq="75" id="medren_4918422_475834" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0073" image="ljs300_wk1_body0073" visiblepage="37r">
+   <tocentry name="ill">Illustration, Eclipse, f. 37r</tocentry>
+   <tocentry name="ill">Finding tab, f. 37r</tocentry>
+</page>
+<page number="76" seq="76" id="medren_4918422_475835" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0074" image="ljs300_wk1_body0074" visiblepage="37v">
+   <tocentry name="ill">Finding tab, f. 37v</tocentry>
+</page>
+<page number="77" seq="77" id="medren_4918422_475836" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0075" image="ljs300_wk1_body0075" visiblepage="38r"/>
+<page number="78" seq="78" id="medren_4918422_475837" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0076" image="ljs300_wk1_body0076" visiblepage="38v"/>
+<page number="79" seq="79" id="medren_4918422_475838" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0077" image="ljs300_wk1_body0077" visiblepage="39r"/>
+<page number="80" seq="80" id="medren_4918422_475839" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0078" image="ljs300_wk1_body0078" visiblepage="39v"/>
+<page number="81" seq="81" id="medren_4918422_475840" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0079" image="ljs300_wk1_body0079" visiblepage="40r"/>
+<page number="82" seq="82" id="medren_4918422_475841" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0080" image="ljs300_wk1_body0080" visiblepage="40v"/>
+<page number="83" seq="83" id="medren_4918422_475842" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0081" image="ljs300_wk1_body0081" visiblepage="41r"/>
+<page number="84" seq="84" id="medren_4918422_475843" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0082" image="ljs300_wk1_body0082" visiblepage="41v"/>
+<page number="85" seq="85" id="medren_4918422_475844" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0083" image="ljs300_wk1_body0083" visiblepage="42r"/>
+<page number="86" seq="86" id="medren_4918422_475845" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0084" image="ljs300_wk1_body0084" visiblepage="42v"/>
+<page number="87" seq="87" id="medren_4918422_475846" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0085" image="ljs300_wk1_body0085" visiblepage="43r"/>
+<page number="88" seq="88" id="medren_4918422_475847" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0086" image="ljs300_wk1_body0086" visiblepage="43v"/>
+<page number="89" seq="89" id="medren_4918422_475848" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0087" image="ljs300_wk1_body0087" visiblepage="44r"/>
+<page number="90" seq="90" id="medren_4918422_475849" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0088" image="ljs300_wk1_body0088" visiblepage="44v"/>
+<page number="91" seq="91" id="medren_4918422_475850" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0089" image="ljs300_wk1_body0089" visiblepage="45r"/>
+<page number="92" seq="92" id="medren_4918422_475851" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0090" image="ljs300_wk1_body0090" visiblepage="45v"/>
+<page number="93" seq="93" id="medren_4918422_475852" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0091" image="ljs300_wk1_body0091" visiblepage="46r"/>
+<page number="94" seq="94" id="medren_4918422_475853" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0092" image="ljs300_wk1_body0092" visiblepage="46v"/>
+<page number="95" seq="95" id="medren_4918422_475854" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0093" image="ljs300_wk1_body0093" visiblepage="47r"/>
+<page number="96" seq="96" id="medren_4918422_475855" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0094" image="ljs300_wk1_body0094" visiblepage="47v"/>
+<page number="97" seq="97" id="medren_4918422_475856" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0095" image="ljs300_wk1_body0095" visiblepage="48r"/>
+<page number="98" seq="98" id="medren_4918422_475857" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0096" image="ljs300_wk1_body0096" visiblepage="48v"/>
+<page number="99" seq="99" id="medren_4918422_475858" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0097" image="ljs300_wk1_body0097" visiblepage="49r">
+   <tocentry name="ill">Illustration, Eclipse, f. 49r</tocentry>
+   <tocentry name="ill">Finding tab, f. 49r</tocentry>
+</page>
+<page number="100" seq="100" id="medren_4918422_475859" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0098" image="ljs300_wk1_body0098" visiblepage="49v">
+   <tocentry name="ill">Finding tab, f. 49v</tocentry>
+</page>
+<page number="101" seq="101" id="medren_4918422_475860" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0099" image="ljs300_wk1_body0099" visiblepage="50r"/>
+<page number="102" seq="102" id="medren_4918422_475861" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0100" image="ljs300_wk1_body0100" visiblepage="50v"/>
+<page number="103" seq="103" id="medren_4918422_475862" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0101" image="ljs300_wk1_body0101" visiblepage="51r"/>
+<page number="104" seq="104" id="medren_4918422_475863" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0102" image="ljs300_wk1_body0102" visiblepage="51v"/>
+<page number="105" seq="105" id="medren_4918422_475864" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0103" image="ljs300_wk1_body0103" visiblepage="52r"/>
+<page number="106" seq="106" id="medren_4918422_475865" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0104" image="ljs300_wk1_body0104" visiblepage="52v"/>
+<page number="107" seq="107" id="medren_4918422_475866" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0105" image="ljs300_wk1_body0105" visiblepage="53r"/>
+<page number="108" seq="108" id="medren_4918422_475867" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0106" image="ljs300_wk1_body0106" visiblepage="53v"/>
+<page number="109" seq="109" id="medren_4918422_475868" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0107" image="ljs300_wk1_body0107" visiblepage="54r"/>
+<page number="110" seq="110" id="medren_4918422_475869" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0108" image="ljs300_wk1_body0108" visiblepage="54v"/>
+<page number="111" seq="111" id="medren_4918422_475870" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0109" image="ljs300_wk1_body0109" visiblepage="55r"/>
+<page number="112" seq="112" id="medren_4918422_475871" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0110" image="ljs300_wk1_body0110" visiblepage="55v"/>
+<page number="113" seq="113" id="medren_4918422_475872" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0111" image="ljs300_wk1_body0111" visiblepage="56r"/>
+<page number="114" seq="114" id="medren_4918422_475873" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0112" image="ljs300_wk1_body0112" visiblepage="56v"/>
+<page number="115" seq="115" id="medren_4918422_475874" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0113" image="ljs300_wk1_body0113" visiblepage="57r"/>
+<page number="116" seq="116" id="medren_4918422_475875" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0114" image="ljs300_wk1_body0114" visiblepage="57v"/>
+<page number="117" seq="117" id="medren_4918422_475876" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0115" image="ljs300_wk1_body0115" visiblepage="58r"/>
+<page number="118" seq="118" id="medren_4918422_475877" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0116" image="ljs300_wk1_body0116" visiblepage="58v"/>
+<page number="119" seq="119" id="medren_4918422_475878" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0117" image="ljs300_wk1_body0117" visiblepage="59r"/>
+<page number="120" seq="120" id="medren_4918422_475879" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0118" image="ljs300_wk1_body0118" visiblepage="59v"/>
+<page number="121" seq="121" id="medren_4918422_475880" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0119" image="ljs300_wk1_body0119" visiblepage="60r"/>
+<page number="122" seq="122" id="medren_4918422_475881" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0120" image="ljs300_wk1_body0120" visiblepage="60v"/>
+<page number="123" seq="123" id="medren_4918422_475882" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0121" image="ljs300_wk1_body0121" visiblepage="61r"/>
+<page number="124" seq="124" id="medren_4918422_475883" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0122" image="ljs300_wk1_body0122" visiblepage="61v"/>
+<page number="125" seq="125" id="medren_4918422_475884" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0123" image="ljs300_wk1_body0123" visiblepage="62r"/>
+<page number="126" seq="126" id="medren_4918422_475885" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0124" image="ljs300_wk1_body0124" visiblepage="62v"/>
+<page number="127" seq="127" id="medren_4918422_475886" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0125" image="ljs300_wk1_body0125" visiblepage="63r">
+   <tocentry name="ill">Illustration, Eclipse, f. 63r</tocentry>
+   <tocentry name="ill">Finding tab, f. 63r</tocentry>
+</page>
+<page number="128" seq="128" id="medren_4918422_475887" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0126" image="ljs300_wk1_body0126" visiblepage="63v">
+   <tocentry name="ill">Finding tab, f. 63v</tocentry>
+</page>
+<page number="129" seq="129" id="medren_4918422_475888" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0127" image="ljs300_wk1_body0127" visiblepage="64r"/>
+<page number="130" seq="130" id="medren_4918422_475889" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0128" image="ljs300_wk1_body0128" visiblepage="64v"/>
+<page number="131" seq="131" id="medren_4918422_475890" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0129" image="ljs300_wk1_body0129" visiblepage="65r"/>
+<page number="132" seq="132" id="medren_4918422_475891" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0130" image="ljs300_wk1_body0130" visiblepage="65v"/>
+<page number="133" seq="133" id="medren_4918422_475892" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0131" image="ljs300_wk1_body0131" visiblepage="66r"/>
+<page number="134" seq="134" id="medren_4918422_475893" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0132" image="ljs300_wk1_body0132" visiblepage="66v"/>
+<page number="135" seq="135" id="medren_4918422_475894" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0133" image="ljs300_wk1_body0133" visiblepage="67r"/>
+<page number="136" seq="136" id="medren_4918422_475895" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0134" image="ljs300_wk1_body0134" visiblepage="67v"/>
+<page number="137" seq="137" id="medren_4918422_475896" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0135" image="ljs300_wk1_body0135" visiblepage="68r"/>
+<page number="138" seq="138" id="medren_4918422_475897" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0136" image="ljs300_wk1_body0136" visiblepage="68v"/>
+<page number="139" seq="139" id="medren_4918422_475898" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0137" image="ljs300_wk1_body0137" visiblepage="69r"/>
+<page number="140" seq="140" id="medren_4918422_475899" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0138" image="ljs300_wk1_body0138" visiblepage="69v"/>
+<page number="141" seq="141" id="medren_4918422_475900" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0139" image="ljs300_wk1_body0139" visiblepage="70r"/>
+<page number="142" seq="142" id="medren_4918422_475901" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0140" image="ljs300_wk1_body0140" visiblepage="70v"/>
+<page number="143" seq="143" id="medren_4918422_475902" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0141" image="ljs300_wk1_body0141" visiblepage="71r"/>
+<page number="144" seq="144" id="medren_4918422_475903" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0142" image="ljs300_wk1_body0142" visiblepage="71v"/>
+<page number="145" seq="145" id="medren_4918422_475904" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0143" image="ljs300_wk1_body0143" visiblepage="72r"/>
+<page number="146" seq="146" id="medren_4918422_475905" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0144" image="ljs300_wk1_body0144" visiblepage="72v"/>
+<page number="147" seq="147" id="medren_4918422_475906" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0145" image="ljs300_wk1_body0145" visiblepage="73r"/>
+<page number="148" seq="148" id="medren_4918422_475907" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0146" image="ljs300_wk1_body0146" visiblepage="73v"/>
+<page number="149" seq="149" id="medren_4918422_475908" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0147" image="ljs300_wk1_body0147" visiblepage="74r"/>
+<page number="150" seq="150" id="medren_4918422_475909" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0148" image="ljs300_wk1_body0148" visiblepage="74v"/>
+<page number="151" seq="151" id="medren_4918422_475910" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0149" image="ljs300_wk1_body0149" visiblepage="75r"/>
+<page number="152" seq="152" id="medren_4918422_475911" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0150" image="ljs300_wk1_body0150" visiblepage="75v"/>
+<page number="153" seq="153" id="medren_4918422_475912" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0151" image="ljs300_wk1_body0151" visiblepage="76r"/>
+<page number="154" seq="154" id="medren_4918422_475913" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0152" image="ljs300_wk1_body0152" visiblepage="76v"/>
+<page number="155" seq="155" id="medren_4918422_475914" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0153" image="ljs300_wk1_body0153" visiblepage="77r">
+   <tocentry name="ill">Finding tab, f. 77r</tocentry>
+</page>
+<page number="156" seq="156" id="medren_4918422_475915" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0154" image="ljs300_wk1_body0154" visiblepage="77v">
+   <tocentry name="ill">Finding tab, f. 77v</tocentry>
+</page>
+<page number="157" seq="157" id="medren_4918422_475916" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0155" image="ljs300_wk1_body0155" visiblepage="78r"/>
+<page number="158" seq="158" id="medren_4918422_475917" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0156" image="ljs300_wk1_body0156" visiblepage="78v"/>
+<page number="159" seq="159" id="medren_4918422_475918" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0157" image="ljs300_wk1_body0157" visiblepage="79r"/>
+<page number="160" seq="160" id="medren_4918422_475919" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0158" image="ljs300_wk1_body0158" visiblepage="79v"/>
+<page number="161" seq="161" id="medren_4918422_475920" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0159" image="ljs300_wk1_body0159" visiblepage="80r"/>
+<page number="162" seq="162" id="medren_4918422_475921" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0160" image="ljs300_wk1_body0160" visiblepage="80v"/>
+<page number="163" seq="163" id="medren_4918422_475922" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0161" image="ljs300_wk1_body0161" visiblepage="81r"/>
+<page number="164" seq="164" id="medren_4918422_475923" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0162" image="ljs300_wk1_body0162" visiblepage="81v"/>
+<page number="165" seq="165" id="medren_4918422_475924" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0163" image="ljs300_wk1_body0163" visiblepage="82r"/>
+<page number="166" seq="166" id="medren_4918422_475925" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0164" image="ljs300_wk1_body0164" visiblepage="82v"/>
+<page number="167" seq="167" id="medren_4918422_475926" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0165" image="ljs300_wk1_body0165" visiblepage="83r"/>
+<page number="168" seq="168" id="medren_4918422_475927" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0166" image="ljs300_wk1_body0166" visiblepage="83v"/>
+<page number="169" seq="169" id="medren_4918422_475928" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0167" image="ljs300_wk1_body0167" visiblepage="84r"/>
+<page number="170" seq="170" id="medren_4918422_475929" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0168" image="ljs300_wk1_body0168" visiblepage="84v"/>
+<page number="171" seq="171" id="medren_4918422_475930" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0169" image="ljs300_wk1_body0169" visiblepage="85r"/>
+<page number="172" seq="172" id="medren_4918422_475931" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0170" image="ljs300_wk1_body0170" visiblepage="85v"/>
+<page number="173" seq="173" id="medren_4918422_475932" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0171" image="ljs300_wk1_body0171" visiblepage="86r"/>
+<page number="174" seq="174" id="medren_4918422_475933" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0172" image="ljs300_wk1_body0172" visiblepage="86v"/>
+<page number="175" seq="175" id="medren_4918422_475934" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0173" image="ljs300_wk1_body0173" visiblepage="87r"/>
+<page number="176" seq="176" id="medren_4918422_475935" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0174" image="ljs300_wk1_body0174" visiblepage="87v"/>
+<page number="177" seq="177" id="medren_4918422_475936" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0175" image="ljs300_wk1_body0175" visiblepage="88r"/>
+<page number="178" seq="178" id="medren_4918422_475937" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0176" image="ljs300_wk1_body0176" visiblepage="88v"/>
+<page number="179" seq="179" id="medren_4918422_475938" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0177" image="ljs300_wk1_body0177" visiblepage="89r"/>
+<page number="180" seq="180" id="medren_4918422_475939" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0178" image="ljs300_wk1_body0178" visiblepage="89v"/>
+<page number="181" seq="181" id="medren_4918422_475940" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0179" image="ljs300_wk1_body0179" visiblepage="90r"/>
+<page number="182" seq="182" id="medren_4918422_475941" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0180" image="ljs300_wk1_body0180" visiblepage="90v"/>
+<page number="183" seq="183" id="medren_4918422_475942" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0181" image="ljs300_wk1_body0181" visiblepage="91r">
+   <tocentry name="ill">Illustration, Eclipse, f. 91r</tocentry>
+   <tocentry name="ill">Finding tab, f. 91r</tocentry>
+</page>
+<page number="184" seq="184" id="medren_4918422_475943" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0182" image="ljs300_wk1_body0182" visiblepage="91v">
+   <tocentry name="ill">Finding tab, f. 91v</tocentry>
+</page>
+<page number="185" seq="185" id="medren_4918422_475944" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0183" image="ljs300_wk1_body0183" visiblepage="92r"/>
+<page number="186" seq="186" id="medren_4918422_475945" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0184" image="ljs300_wk1_body0184" visiblepage="92v"/>
+<page number="187" seq="187" id="medren_4918422_475946" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0185" image="ljs300_wk1_body0185" visiblepage="93r"/>
+<page number="188" seq="188" id="medren_4918422_475947" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0186" image="ljs300_wk1_body0186" visiblepage="93v"/>
+<page number="189" seq="189" id="medren_4918422_475948" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0187" image="ljs300_wk1_body0187" visiblepage="94r"/>
+<page number="190" seq="190" id="medren_4918422_475949" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0188" image="ljs300_wk1_body0188" visiblepage="94v"/>
+<page number="191" seq="191" id="medren_4918422_475950" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0189" image="ljs300_wk1_body0189" visiblepage="95r"/>
+<page number="192" seq="192" id="medren_4918422_475951" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0190" image="ljs300_wk1_body0190" visiblepage="95v"/>
+<page number="193" seq="193" id="medren_4918422_475952" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0191" image="ljs300_wk1_body0191" visiblepage="96r"/>
+<page number="194" seq="194" id="medren_4918422_475953" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0192" image="ljs300_wk1_body0192" visiblepage="96v"/>
+<page number="195" seq="195" id="medren_4918422_475954" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0193" image="ljs300_wk1_body0193" visiblepage="97r"/>
+<page number="196" seq="196" id="medren_4918422_475955" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0194" image="ljs300_wk1_body0194" visiblepage="97v"/>
+<page number="197" seq="197" id="medren_4918422_475956" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0195" image="ljs300_wk1_body0195" visiblepage="98r"/>
+<page number="198" seq="198" id="medren_4918422_475957" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0196" image="ljs300_wk1_body0196" visiblepage="98v"/>
+<page number="199" seq="199" id="medren_4918422_475958" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0197" image="ljs300_wk1_body0197" visiblepage="99r"/>
+<page number="200" seq="200" id="medren_4918422_475959" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0198" image="ljs300_wk1_body0198" visiblepage="99v"/>
+<page number="201" seq="201" id="medren_4918422_475960" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0199" image="ljs300_wk1_body0199" visiblepage="100r"/>
+<page number="202" seq="202" id="medren_4918422_475961" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0200" image="ljs300_wk1_body0200" visiblepage="100v"/>
+<page number="203" seq="203" id="medren_4918422_475962" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0201" image="ljs300_wk1_body0201" visiblepage="101r"/>
+<page number="204" seq="204" id="medren_4918422_475963" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0202" image="ljs300_wk1_body0202" visiblepage="101v"/>
+<page number="205" seq="205" id="medren_4918422_475964" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0203" image="ljs300_wk1_body0203" visiblepage="102r"/>
+<page number="206" seq="206" id="medren_4918422_475965" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0204" image="ljs300_wk1_body0204" visiblepage="102v"/>
+<page number="207" seq="207" id="medren_4918422_475966" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0205" image="ljs300_wk1_body0205" visiblepage="103r"/>
+<page number="208" seq="208" id="medren_4918422_475967" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0206" image="ljs300_wk1_body0206" visiblepage="103v"/>
+<page number="209" seq="209" id="medren_4918422_475968" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0207" image="ljs300_wk1_body0207" visiblepage="104r">
+   <tocentry name="ill">Illustration, Eclipse, f. 104r</tocentry>
+   <tocentry name="ill">Finding tab, f. 104r</tocentry>
+</page>
+<page number="210" seq="210" id="medren_4918422_475969" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0208" image="ljs300_wk1_body0208" visiblepage="104v">
+   <tocentry name="ill">Finding tab, f. 104v</tocentry>
+</page>
+<page number="211" seq="211" id="medren_4918422_475970" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0209" image="ljs300_wk1_body0209" visiblepage="105r"/>
+<page number="212" seq="212" id="medren_4918422_475971" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0210" image="ljs300_wk1_body0210" visiblepage="105v"/>
+<page number="213" seq="213" id="medren_4918422_475972" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0211" image="ljs300_wk1_body0211" visiblepage="106r"/>
+<page number="214" seq="214" id="medren_4918422_475973" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0212" image="ljs300_wk1_body0212" visiblepage="106v"/>
+<page number="215" seq="215" id="medren_4918422_475974" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0213" image="ljs300_wk1_body0213" visiblepage="107r"/>
+<page number="216" seq="216" id="medren_4918422_475975" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0214" image="ljs300_wk1_body0214" visiblepage="107v"/>
+<page number="217" seq="217" id="medren_4918422_475976" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0215" image="ljs300_wk1_body0215" visiblepage="108r"/>
+<page number="218" seq="218" id="medren_4918422_475977" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0216" image="ljs300_wk1_body0216" visiblepage="108v"/>
+<page number="219" seq="219" id="medren_4918422_475978" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0217" image="ljs300_wk1_body0217" visiblepage="109r"/>
+<page number="220" seq="220" id="medren_4918422_475979" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0218" image="ljs300_wk1_body0218" visiblepage="109v"/>
+<page number="221" seq="221" id="medren_4918422_475980" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0219" image="ljs300_wk1_body0219" visiblepage="110r"/>
+<page number="222" seq="222" id="medren_4918422_475981" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0220" image="ljs300_wk1_body0220" visiblepage="110v"/>
+<page number="223" seq="223" id="medren_4918422_475982" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0221" image="ljs300_wk1_body0221" visiblepage="111r"/>
+<page number="224" seq="224" id="medren_4918422_475983" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0222" image="ljs300_wk1_body0222" visiblepage="111v"/>
+<page number="225" seq="225" id="medren_4918422_475984" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0223" image="ljs300_wk1_body0223" visiblepage="112r"/>
+<page number="226" seq="226" id="medren_4918422_475985" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0224" image="ljs300_wk1_body0224" visiblepage="112v"/>
+<page number="227" seq="227" id="medren_4918422_475986" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0225" image="ljs300_wk1_body0225" visiblepage="113r"/>
+<page number="228" seq="228" id="medren_4918422_475987" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0226" image="ljs300_wk1_body0226" visiblepage="113v"/>
+<page number="229" seq="229" id="medren_4918422_475988" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0227" image="ljs300_wk1_body0227" visiblepage="114r"/>
+<page number="230" seq="230" id="medren_4918422_475989" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0228" image="ljs300_wk1_body0228" visiblepage="114v"/>
+<page number="231" seq="231" id="medren_4918422_475990" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0229" image="ljs300_wk1_body0229" visiblepage="115r"/>
+<page number="232" seq="232" id="medren_4918422_475991" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0230" image="ljs300_wk1_body0230" visiblepage="115v"/>
+<page number="233" seq="233" id="medren_4918422_475992" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0231" image="ljs300_wk1_body0231" visiblepage="116r"/>
+<page number="234" seq="234" id="medren_4918422_475993" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0232" image="ljs300_wk1_body0232" visiblepage="116v"/>
+<page number="235" seq="235" id="medren_4918422_475994" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0233" image="ljs300_wk1_body0233" visiblepage="117r">
+   <tocentry name="ill">Illustration, Eclipse, f. 117r</tocentry>
+</page>
+<page number="236" seq="236" id="medren_4918422_475995" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0234" image="ljs300_wk1_body0234" visiblepage="117v"/>
+<page number="237" seq="237" id="medren_4918422_475996" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0235" image="ljs300_wk1_body0235" visiblepage="118r"/>
+<page number="238" seq="238" id="medren_4918422_475997" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0236" image="ljs300_wk1_body0236" visiblepage="118v"/>
+<page number="239" seq="239" id="medren_4918422_475998" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0237" image="ljs300_wk1_body0237" visiblepage="119r"/>
+<page number="240" seq="240" id="medren_4918422_475999" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0238" image="ljs300_wk1_body0238" visiblepage="119v"/>
+<page number="241" seq="241" id="medren_4918422_476000" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0239" image="ljs300_wk1_body0239" visiblepage="120r"/>
+<page number="242" seq="242" id="medren_4918422_476001" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0240" image="ljs300_wk1_body0240" visiblepage="120v"/>
+<page number="243" seq="243" id="medren_4918422_476002" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0241" image="ljs300_wk1_body0241" visiblepage="121r"/>
+<page number="244" seq="244" id="medren_4918422_476003" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0242" image="ljs300_wk1_body0242" visiblepage="121v"/>
+<page number="245" seq="245" id="medren_4918422_476004" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0243" image="ljs300_wk1_body0243" visiblepage="122r"/>
+<page number="246" seq="246" id="medren_4918422_476005" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0244" image="ljs300_wk1_body0244" visiblepage="122v"/>
+<page number="247" seq="247" id="medren_4918422_476006" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0245" image="ljs300_wk1_body0245" visiblepage="123r"/>
+<page number="248" seq="248" id="medren_4918422_476007" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0246" image="ljs300_wk1_body0246" visiblepage="123v"/>
+<page number="249" seq="249" id="medren_4918422_476008" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0247" image="ljs300_wk1_body0247" visiblepage="124r"/>
+<page number="250" seq="250" id="medren_4918422_476009" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0248" image="ljs300_wk1_body0248" visiblepage="124v"/>
+<page number="251" seq="251" id="medren_4918422_476010" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0249" image="ljs300_wk1_body0249" visiblepage="125r"/>
+<page number="252" seq="252" id="medren_4918422_476011" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0250" image="ljs300_wk1_body0250" visiblepage="125v"/>
+<page number="253" seq="253" id="medren_4918422_476012" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0251" image="ljs300_wk1_body0251" visiblepage="126r"/>
+<page number="254" seq="254" id="medren_4918422_476013" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0252" image="ljs300_wk1_body0252" visiblepage="126v"/>
+<page number="255" seq="255" id="medren_4918422_476014" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0253" image="ljs300_wk1_body0253" visiblepage="127r"/>
+<page number="256" seq="256" id="medren_4918422_476015" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0254" image="ljs300_wk1_body0254" visiblepage="127v"/>
+<page number="257" seq="257" id="medren_4918422_476016" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0255" image="ljs300_wk1_body0255" visiblepage="128r"/>
+<page number="258" seq="258" id="medren_4918422_476017" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0256" image="ljs300_wk1_body0256" visiblepage="128v"/>
+<page number="259" seq="259" id="medren_4918422_476018" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0257" image="ljs300_wk1_body0257" visiblepage="129r"/>
+<page number="260" seq="260" id="medren_4918422_476019" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0258" image="ljs300_wk1_body0258" visiblepage="129v"/>
+<page number="261" seq="261" id="medren_4918422_476020" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0259" image="ljs300_wk1_body0259" visiblepage="130r">
+   <tocentry name="ill">Illustration, Eclipse, f. 130r</tocentry>
+   <tocentry name="ill">Finding tab, f. 130r</tocentry>
+</page>
+<page number="262" seq="262" id="medren_4918422_476021" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0260" image="ljs300_wk1_body0260" visiblepage="130v">
+   <tocentry name="ill">Finding tab, f. 130v</tocentry>
+</page>
+<page number="263" seq="263" id="medren_4918422_476022" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0261" image="ljs300_wk1_body0261" visiblepage="131r"/>
+<page number="264" seq="264" id="medren_4918422_476023" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0262" image="ljs300_wk1_body0262" visiblepage="131v"/>
+<page number="265" seq="265" id="medren_4918422_476024" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0263" image="ljs300_wk1_body0263" visiblepage="132r"/>
+<page number="266" seq="266" id="medren_4918422_476025" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0264" image="ljs300_wk1_body0264" visiblepage="132v"/>
+<page number="267" seq="267" id="medren_4918422_476026" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0265" image="ljs300_wk1_body0265" visiblepage="133r"/>
+<page number="268" seq="268" id="medren_4918422_476027" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0266" image="ljs300_wk1_body0266" visiblepage="133v"/>
+<page number="269" seq="269" id="medren_4918422_476028" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0267" image="ljs300_wk1_body0267" visiblepage="134r"/>
+<page number="270" seq="270" id="medren_4918422_476029" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0268" image="ljs300_wk1_body0268" visiblepage="134v"/>
+<page number="271" seq="271" id="medren_4918422_476030" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0269" image="ljs300_wk1_body0269" visiblepage="135r"/>
+<page number="272" seq="272" id="medren_4918422_476031" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0270" image="ljs300_wk1_body0270" visiblepage="135v"/>
+<page number="273" seq="273" id="medren_4918422_476032" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0271" image="ljs300_wk1_body0271" visiblepage="136r"/>
+<page number="274" seq="274" id="medren_4918422_476033" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0272" image="ljs300_wk1_body0272" visiblepage="136v"/>
+<page number="275" seq="275" id="medren_4918422_476034" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0273" image="ljs300_wk1_body0273" visiblepage="137r"/>
+<page number="276" seq="276" id="medren_4918422_476035" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0274" image="ljs300_wk1_body0274" visiblepage="137v"/>
+<page number="277" seq="277" id="medren_4918422_476036" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0275" image="ljs300_wk1_body0275" visiblepage="138r"/>
+<page number="278" seq="278" id="medren_4918422_476037" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0276" image="ljs300_wk1_body0276" visiblepage="138v"/>
+<page number="279" seq="279" id="medren_4918422_476038" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0277" image="ljs300_wk1_body0277" visiblepage="139r"/>
+<page number="280" seq="280" id="medren_4918422_476039" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0278" image="ljs300_wk1_body0278" visiblepage="139v"/>
+<page number="281" seq="281" id="medren_4918422_476040" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0279" image="ljs300_wk1_body0279" visiblepage="140r"/>
+<page number="282" seq="282" id="medren_4918422_476041" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0280" image="ljs300_wk1_body0280" visiblepage="140v"/>
+<page number="283" seq="283" id="medren_4918422_476042" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0281" image="ljs300_wk1_body0281" visiblepage="141r"/>
+<page number="284" seq="284" id="medren_4918422_476043" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0282" image="ljs300_wk1_body0282" visiblepage="141v"/>
+<page number="285" seq="285" id="medren_4918422_476044" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0283" image="ljs300_wk1_body0283" visiblepage="142r"/>
+<page number="286" seq="286" id="medren_4918422_476045" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0284" image="ljs300_wk1_body0284" visiblepage="142v"/>
+<page number="287" seq="287" id="medren_4918422_476046" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0285" image="ljs300_wk1_body0285" visiblepage="143r">
+   <tocentry name="ill">Illustration, Eclipse, f. 143r</tocentry>
+   <tocentry name="ill">Finding tab, f. 143r</tocentry>
+</page>
+<page number="288" seq="288" id="medren_4918422_476047" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0286" image="ljs300_wk1_body0286" visiblepage="143v">
+   <tocentry name="ill">Finding tab, f. 143v</tocentry>
+</page>
+<page number="289" seq="289" id="medren_4918422_476048" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0287" image="ljs300_wk1_body0287" visiblepage="144r"/>
+<page number="290" seq="290" id="medren_4918422_476049" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0288" image="ljs300_wk1_body0288" visiblepage="144v"/>
+<page number="291" seq="291" id="medren_4918422_476050" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0289" image="ljs300_wk1_body0289" visiblepage="145r"/>
+<page number="292" seq="292" id="medren_4918422_476051" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0290" image="ljs300_wk1_body0290" visiblepage="145v"/>
+<page number="293" seq="293" id="medren_4918422_476052" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0291" image="ljs300_wk1_body0291" visiblepage="146r"/>
+<page number="294" seq="294" id="medren_4918422_476053" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0292" image="ljs300_wk1_body0292" visiblepage="146v"/>
+<page number="295" seq="295" id="medren_4918422_476054" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0293" image="ljs300_wk1_body0293" visiblepage="147r"/>
+<page number="296" seq="296" id="medren_4918422_476055" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0294" image="ljs300_wk1_body0294" visiblepage="147v"/>
+<page number="297" seq="297" id="medren_4918422_476056" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0295" image="ljs300_wk1_body0295" visiblepage="148r"/>
+<page number="298" seq="298" id="medren_4918422_476057" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0296" image="ljs300_wk1_body0296" visiblepage="148v"/>
+<page number="299" seq="299" id="medren_4918422_476058" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0297" image="ljs300_wk1_body0297" visiblepage="149r"/>
+<page number="300" seq="300" id="medren_4918422_476059" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0298" image="ljs300_wk1_body0298" visiblepage="149v"/>
+<page number="301" seq="301" id="medren_4918422_476060" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0299" image="ljs300_wk1_body0299" visiblepage="150r"/>
+<page number="302" seq="302" id="medren_4918422_476061" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0300" image="ljs300_wk1_body0300" visiblepage="150v"/>
+<page number="303" seq="303" id="medren_4918422_476062" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0301" image="ljs300_wk1_body0301" visiblepage="151r"/>
+<page number="304" seq="304" id="medren_4918422_476063" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0302" image="ljs300_wk1_body0302" visiblepage="151v"/>
+<page number="305" seq="305" id="medren_4918422_476064" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0303" image="ljs300_wk1_body0303" visiblepage="152r"/>
+<page number="306" seq="306" id="medren_4918422_476065" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0304" image="ljs300_wk1_body0304" visiblepage="152v"/>
+<page number="307" seq="307" id="medren_4918422_476066" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0305" image="ljs300_wk1_body0305" visiblepage="153r"/>
+<page number="308" seq="308" id="medren_4918422_476067" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0306" image="ljs300_wk1_body0306" visiblepage="153v"/>
+<page number="309" seq="309" id="medren_4918422_476068" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0307" image="ljs300_wk1_body0307" visiblepage="154r"/>
+<page number="310" seq="310" id="medren_4918422_476069" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0308" image="ljs300_wk1_body0308" visiblepage="154v"/>
+<page number="311" seq="311" id="medren_4918422_476070" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0309" image="ljs300_wk1_body0309" visiblepage="155r"/>
+<page number="312" seq="312" id="medren_4918422_476071" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0310" image="ljs300_wk1_body0310" visiblepage="155v"/>
+<page number="313" seq="313" id="medren_4918422_476072" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0311" image="ljs300_wk1_body0311" visiblepage="156r"/>
+<page number="314" seq="314" id="medren_4918422_476073" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0312" image="ljs300_wk1_body0312" visiblepage="156v"/>
+<page number="315" seq="315" id="medren_4918422_476074" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0313" image="ljs300_wk1_body0313" visiblepage="157r">
+   <tocentry name="ill">Illustration, Eclipse, f. 157r</tocentry>
+   <tocentry name="ill">Finding tab, f. 157r</tocentry>
+</page>
+<page number="316" seq="316" id="medren_4918422_476075" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0314" image="ljs300_wk1_body0314" visiblepage="157v">
+   <tocentry name="ill">Finding tab, f. 157v</tocentry>
+</page>
+<page number="317" seq="317" id="medren_4918422_476076" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0315" image="ljs300_wk1_body0315" visiblepage="158r"/>
+<page number="318" seq="318" id="medren_4918422_476077" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0316" image="ljs300_wk1_body0316" visiblepage="158v"/>
+<page number="319" seq="319" id="medren_4918422_476078" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0317" image="ljs300_wk1_body0317" visiblepage="159r"/>
+<page number="320" seq="320" id="medren_4918422_476079" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0318" image="ljs300_wk1_body0318" visiblepage="159v"/>
+<page number="321" seq="321" id="medren_4918422_476080" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0319" image="ljs300_wk1_body0319" visiblepage="160r"/>
+<page number="322" seq="322" id="medren_4918422_476081" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0320" image="ljs300_wk1_body0320" visiblepage="160v"/>
+<page number="323" seq="323" id="medren_4918422_476082" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0321" image="ljs300_wk1_body0321" visiblepage="161r"/>
+<page number="324" seq="324" id="medren_4918422_476083" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0322" image="ljs300_wk1_body0322" visiblepage="161v"/>
+<page number="325" seq="325" id="medren_4918422_476084" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0323" image="ljs300_wk1_body0323" visiblepage="162r"/>
+<page number="326" seq="326" id="medren_4918422_476085" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0324" image="ljs300_wk1_body0324" visiblepage="162v"/>
+<page number="327" seq="327" id="medren_4918422_476086" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0325" image="ljs300_wk1_body0325" visiblepage="163r"/>
+<page number="328" seq="328" id="medren_4918422_476087" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0326" image="ljs300_wk1_body0326" visiblepage="163v"/>
+<page number="329" seq="329" id="medren_4918422_476088" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0327" image="ljs300_wk1_body0327" visiblepage="164r"/>
+<page number="330" seq="330" id="medren_4918422_476089" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0328" image="ljs300_wk1_body0328" visiblepage="164v"/>
+<page number="331" seq="331" id="medren_4918422_476090" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0329" image="ljs300_wk1_body0329" visiblepage="165r"/>
+<page number="332" seq="332" id="medren_4918422_476091" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0330" image="ljs300_wk1_body0330" visiblepage="165v"/>
+<page number="333" seq="333" id="medren_4918422_476092" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0331" image="ljs300_wk1_body0331" visiblepage="166r"/>
+<page number="334" seq="334" id="medren_4918422_476093" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0332" image="ljs300_wk1_body0332" visiblepage="166v"/>
+<page number="335" seq="335" id="medren_4918422_476094" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0333" image="ljs300_wk1_body0333" visiblepage="167r"/>
+<page number="336" seq="336" id="medren_4918422_476095" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0334" image="ljs300_wk1_body0334" visiblepage="167v"/>
+<page number="337" seq="337" id="medren_4918422_476096" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0335" image="ljs300_wk1_body0335" visiblepage="168r"/>
+<page number="338" seq="338" id="medren_4918422_476097" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0336" image="ljs300_wk1_body0336" visiblepage="168v"/>
+<page number="339" seq="339" id="medren_4918422_476098" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0337" image="ljs300_wk1_body0337" visiblepage="169r"/>
+<page number="340" seq="340" id="medren_4918422_476099" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0338" image="ljs300_wk1_body0338" visiblepage="169v"/>
+<page number="341" seq="341" id="medren_4918422_476100" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0339" image="ljs300_wk1_body0339" visiblepage="170r"/>
+<page number="342" seq="342" id="medren_4918422_476101" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0340" image="ljs300_wk1_body0340" visiblepage="170v"/>
+<page number="343" seq="343" id="medren_4918422_476102" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0341" image="ljs300_wk1_body0341" visiblepage="171r">
+   <tocentry name="ill">Illustration, Eclipse, f. 171r</tocentry>
+   <tocentry name="ill">Finding tab, f. 171r</tocentry>
+</page>
+<page number="344" seq="344" id="medren_4918422_476103" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0342" image="ljs300_wk1_body0342" visiblepage="171v">
+   <tocentry name="ill">Finding tab, f. 171v</tocentry>
+</page>
+<page number="345" seq="345" id="medren_4918422_476104" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0343" image="ljs300_wk1_body0343" visiblepage="172r"/>
+<page number="346" seq="346" id="medren_4918422_476105" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0344" image="ljs300_wk1_body0344" visiblepage="172v"/>
+<page number="347" seq="347" id="medren_4918422_476106" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0345" image="ljs300_wk1_body0345" visiblepage="173r"/>
+<page number="348" seq="348" id="medren_4918422_476107" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0346" image="ljs300_wk1_body0346" visiblepage="173v"/>
+<page number="349" seq="349" id="medren_4918422_476108" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0347" image="ljs300_wk1_body0347" visiblepage="174r"/>
+<page number="350" seq="350" id="medren_4918422_476109" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0348" image="ljs300_wk1_body0348" visiblepage="174v"/>
+<page number="351" seq="351" id="medren_4918422_476110" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0349" image="ljs300_wk1_body0349" visiblepage="175r"/>
+<page number="352" seq="352" id="medren_4918422_476111" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0350" image="ljs300_wk1_body0350" visiblepage="175v"/>
+<page number="353" seq="353" id="medren_4918422_476112" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0351" image="ljs300_wk1_body0351" visiblepage="176r"/>
+<page number="354" seq="354" id="medren_4918422_476113" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0352" image="ljs300_wk1_body0352" visiblepage="176v"/>
+<page number="355" seq="355" id="medren_4918422_476114" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0353" image="ljs300_wk1_body0353" visiblepage="177r"/>
+<page number="356" seq="356" id="medren_4918422_476115" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0354" image="ljs300_wk1_body0354" visiblepage="177v"/>
+<page number="357" seq="357" id="medren_4918422_476116" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0355" image="ljs300_wk1_body0355" visiblepage="178r"/>
+<page number="358" seq="358" id="medren_4918422_476117" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0356" image="ljs300_wk1_body0356" visiblepage="178v"/>
+<page number="359" seq="359" id="medren_4918422_476118" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0357" image="ljs300_wk1_body0357" visiblepage="179r"/>
+<page number="360" seq="360" id="medren_4918422_476119" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0358" image="ljs300_wk1_body0358" visiblepage="179v"/>
+<page number="361" seq="361" id="medren_4918422_476120" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0359" image="ljs300_wk1_body0359" visiblepage="180r"/>
+<page number="362" seq="362" id="medren_4918422_476121" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0360" image="ljs300_wk1_body0360" visiblepage="180v"/>
+<page number="363" seq="363" id="medren_4918422_476122" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0361" image="ljs300_wk1_body0361" visiblepage="181r"/>
+<page number="364" seq="364" id="medren_4918422_476123" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0362" image="ljs300_wk1_body0362" visiblepage="181v"/>
+<page number="365" seq="365" id="medren_4918422_476124" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0363" image="ljs300_wk1_body0363" visiblepage="182r"/>
+<page number="366" seq="366" id="medren_4918422_476125" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0364" image="ljs300_wk1_body0364" visiblepage="182v"/>
+<page number="367" seq="367" id="medren_4918422_476126" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0365" image="ljs300_wk1_body0365" visiblepage="183r"/>
+<page number="368" seq="368" id="medren_4918422_476127" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0366" image="ljs300_wk1_body0366" visiblepage="183v"/>
+<page number="369" seq="369" id="medren_4918422_476128" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0367" image="ljs300_wk1_body0367" visiblepage="184r"/>
+<page number="370" seq="370" id="medren_4918422_476129" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0368" image="ljs300_wk1_body0368" visiblepage="184v"/>
+<page number="371" seq="371" id="medren_4918422_476130" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0369" image="ljs300_wk1_body0369" visiblepage="185r"/>
+<page number="372" seq="372" id="medren_4918422_476131" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0370" image="ljs300_wk1_body0370" visiblepage="185v"/>
+<page number="373" seq="373" id="medren_4918422_476132" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0371" image="ljs300_wk1_body0371" visiblepage="186r"/>
+<page number="374" seq="374" id="medren_4918422_476133" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0372" image="ljs300_wk1_body0372" visiblepage="186v"/>
+<page number="375" seq="375" id="medren_4918422_476134" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0373" image="ljs300_wk1_body0373" visiblepage="187r"/>
+<page number="376" seq="376" id="medren_4918422_476135" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0374" image="ljs300_wk1_body0374" visiblepage="187v"/>
+<page number="377" seq="377" id="medren_4918422_476136" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0375" image="ljs300_wk1_body0375" visiblepage="188r"/>
+<page number="378" seq="378" id="medren_4918422_476137" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0376" image="ljs300_wk1_body0376" visiblepage="188v"/>
+<page number="379" seq="379" id="medren_4918422_476138" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0377" image="ljs300_wk1_body0377" visiblepage="189r"/>
+<page number="380" seq="380" id="medren_4918422_476139" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0378" image="ljs300_wk1_body0378" visiblepage="189v"/>
+<page number="381" seq="381" id="medren_4918422_476140" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0379" image="ljs300_wk1_body0379" visiblepage="190r"/>
+<page number="382" seq="382" id="medren_4918422_476141" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0380" image="ljs300_wk1_body0380" visiblepage="190v"/>
+<page number="383" seq="383" id="medren_4918422_476142" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0381" image="ljs300_wk1_body0381" visiblepage="191r"/>
+<page number="384" seq="384" id="medren_4918422_476143" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0382" image="ljs300_wk1_body0382" visiblepage="191v"/>
+<page number="385" seq="385" id="medren_4918422_476144" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0383" image="ljs300_wk1_body0383" visiblepage="192r"/>
+<page number="386" seq="386" id="medren_4918422_476145" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0384" image="ljs300_wk1_body0384" visiblepage="192v"/>
+<page number="387" seq="387" id="medren_4918422_476146" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0385" image="ljs300_wk1_body0385" visiblepage="193r"/>
+<page number="388" seq="388" id="medren_4918422_476147" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0386" image="ljs300_wk1_body0386" visiblepage="193v"/>
+<page number="389" seq="389" id="medren_4918422_476148" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0387" image="ljs300_wk1_body0387" visiblepage="194r"/>
+<page number="390" seq="390" id="medren_4918422_476149" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0388" image="ljs300_wk1_body0388" visiblepage="194v"/>
+<page number="391" seq="391" id="medren_4918422_476150" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0389" image="ljs300_wk1_body0389" visiblepage="195r"/>
+<page number="392" seq="392" id="medren_4918422_476151" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0390" image="ljs300_wk1_body0390" visiblepage="195v"/>
+<page number="393" seq="393" id="medren_4918422_476152" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0391" image="ljs300_wk1_body0391" visiblepage="196r"/>
+<page number="394" seq="394" id="medren_4918422_476153" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0392" image="ljs300_wk1_body0392" visiblepage="196v"/>
+<page number="395" seq="395" id="medren_4918422_476154" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0393" image="ljs300_wk1_body0393" visiblepage="197r">
+   <tocentry name="ill">Illustration, Eclipse, f. 197r</tocentry>
+   <tocentry name="ill">Finding tab, f. 197r</tocentry>
+</page>
+<page number="396" seq="396" id="medren_4918422_476155" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0394" image="ljs300_wk1_body0394" visiblepage="197v">
+   <tocentry name="ill">Finding tab, f. 197v</tocentry>
+</page>
+<page number="397" seq="397" id="medren_4918422_476156" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0395" image="ljs300_wk1_body0395" visiblepage="198r"/>
+<page number="398" seq="398" id="medren_4918422_476157" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0396" image="ljs300_wk1_body0396" visiblepage="198v"/>
+<page number="399" seq="399" id="medren_4918422_476158" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0397" image="ljs300_wk1_body0397" visiblepage="199r"/>
+<page number="400" seq="400" id="medren_4918422_476159" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0398" image="ljs300_wk1_body0398" visiblepage="199v"/>
+<page number="401" seq="401" id="medren_4918422_476160" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0399" image="ljs300_wk1_body0399" visiblepage="200r"/>
+<page number="402" seq="402" id="medren_4918422_476161" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0400" image="ljs300_wk1_body0400" visiblepage="200v"/>
+<page number="403" seq="403" id="medren_4918422_476162" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0401" image="ljs300_wk1_body0401" visiblepage="201r"/>
+<page number="404" seq="404" id="medren_4918422_476163" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0402" image="ljs300_wk1_body0402" visiblepage="201v"/>
+<page number="405" seq="405" id="medren_4918422_476164" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0403" image="ljs300_wk1_body0403" visiblepage="202r"/>
+<page number="406" seq="406" id="medren_4918422_476165" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0404" image="ljs300_wk1_body0404" visiblepage="202v"/>
+<page number="407" seq="407" id="medren_4918422_476166" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0405" image="ljs300_wk1_body0405" visiblepage="203r"/>
+<page number="408" seq="408" id="medren_4918422_476167" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0406" image="ljs300_wk1_body0406" visiblepage="203v"/>
+<page number="409" seq="409" id="medren_4918422_476168" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0407" image="ljs300_wk1_body0407" visiblepage="204r"/>
+<page number="410" seq="410" id="medren_4918422_476169" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0408" image="ljs300_wk1_body0408" visiblepage="204v">
+   <tocentry name="ill">Decorated descender, Face, f. 204v</tocentry>
+</page>
+<page number="411" seq="411" id="medren_4918422_476170" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0409" image="ljs300_wk1_body0409" visiblepage="205r"/>
+<page number="412" seq="412" id="medren_4918422_476171" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0410" image="ljs300_wk1_body0410" visiblepage="205v"/>
+<page number="413" seq="413" id="medren_4918422_476172" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0411" image="ljs300_wk1_body0411" visiblepage="206r"/>
+<page number="414" seq="414" id="medren_4918422_476173" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0412" image="ljs300_wk1_body0412" visiblepage="206v"/>
+<page number="415" seq="415" id="medren_4918422_476174" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0413" image="ljs300_wk1_body0413" visiblepage="207r"/>
+<page number="416" seq="416" id="medren_4918422_476175" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0414" image="ljs300_wk1_body0414" visiblepage="207v"/>
+<page number="417" seq="417" id="medren_4918422_476176" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0415" image="ljs300_wk1_body0415" visiblepage="208r"/>
+<page number="418" seq="418" id="medren_4918422_476177" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0416" image="ljs300_wk1_body0416" visiblepage="208v"/>
+<page number="419" seq="419" id="medren_4918422_476178" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0417" image="ljs300_wk1_body0417" visiblepage="209r"/>
+<page number="420" seq="420" id="medren_4918422_476179" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0418" image="ljs300_wk1_body0418" visiblepage="209v"/>
+<page number="421" seq="421" id="medren_4918422_476180" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0419" image="ljs300_wk1_body0419" visiblepage="210r">
+   <tocentry name="ill">Illustration, Eclipse, f. 210r</tocentry>
+   <tocentry name="ill">Finding tab, f. 210r</tocentry>
+</page>
+<page number="422" seq="422" id="medren_4918422_476181" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0420" image="ljs300_wk1_body0420" visiblepage="210v">
+   <tocentry name="ill">Finding tab, f. 210v</tocentry>
+</page>
+<page number="423" seq="423" id="medren_4918422_476182" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0421" image="ljs300_wk1_body0421" visiblepage="211r"/>
+<page number="424" seq="424" id="medren_4918422_476183" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0422" image="ljs300_wk1_body0422" visiblepage="211v"/>
+<page number="425" seq="425" id="medren_4918422_476184" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0423" image="ljs300_wk1_body0423" visiblepage="212r"/>
+<page number="426" seq="426" id="medren_4918422_476185" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0424" image="ljs300_wk1_body0424" visiblepage="212v"/>
+<page number="427" seq="427" id="medren_4918422_476186" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0425" image="ljs300_wk1_body0425" visiblepage="213r"/>
+<page number="428" seq="428" id="medren_4918422_476187" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0426" image="ljs300_wk1_body0426" visiblepage="213v"/>
+<page number="429" seq="429" id="medren_4918422_476188" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0427" image="ljs300_wk1_body0427" visiblepage="214r"/>
+<page number="430" seq="430" id="medren_4918422_476189" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0428" image="ljs300_wk1_body0428" visiblepage="214v"/>
+<page number="431" seq="431" id="medren_4918422_476190" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0429" image="ljs300_wk1_body0429" visiblepage="215r"/>
+<page number="432" seq="432" id="medren_4918422_476191" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0430" image="ljs300_wk1_body0430" visiblepage="215v"/>
+<page number="433" seq="433" id="medren_4918422_476192" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0431" image="ljs300_wk1_body0431" visiblepage="216r"/>
+<page number="434" seq="434" id="medren_4918422_476193" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0432" image="ljs300_wk1_body0432" visiblepage="216v"/>
+<page number="435" seq="435" id="medren_4918422_476194" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0433" image="ljs300_wk1_body0433" visiblepage="217r"/>
+<page number="436" seq="436" id="medren_4918422_476195" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0434" image="ljs300_wk1_body0434" visiblepage="217v"/>
+<page number="437" seq="437" id="medren_4918422_476196" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0435" image="ljs300_wk1_body0435" visiblepage="218r"/>
+<page number="438" seq="438" id="medren_4918422_476197" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0436" image="ljs300_wk1_body0436" visiblepage="218v"/>
+<page number="439" seq="439" id="medren_4918422_476198" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0437" image="ljs300_wk1_body0437" visiblepage="219r"/>
+<page number="440" seq="440" id="medren_4918422_476199" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0438" image="ljs300_wk1_body0438" visiblepage="219v"/>
+<page number="441" seq="441" id="medren_4918422_476200" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0439" image="ljs300_wk1_body0439" visiblepage="220r"/>
+<page number="442" seq="442" id="medren_4918422_476201" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0440" image="ljs300_wk1_body0440" visiblepage="220v"/>
+<page number="443" seq="443" id="medren_4918422_476202" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0441" image="ljs300_wk1_body0441" visiblepage="221r"/>
+<page number="444" seq="444" id="medren_4918422_476203" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0442" image="ljs300_wk1_body0442" visiblepage="221v"/>
+<page number="445" seq="445" id="medren_4918422_476204" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0443" image="ljs300_wk1_body0443" visiblepage="222r"/>
+<page number="446" seq="446" id="medren_4918422_476205" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0444" image="ljs300_wk1_body0444" visiblepage="222v"/>
+<page number="447" seq="447" id="medren_4918422_476206" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0445" image="ljs300_wk1_body0445" visiblepage="223r">
+   <tocentry name="ill">Finding tab, f. 223r</tocentry>
+</page>
+<page number="448" seq="448" id="medren_4918422_476207" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0446" image="ljs300_wk1_body0446" visiblepage="223v">
+   <tocentry name="ill">Finding tab, f. 223v</tocentry>
+</page>
+<page number="449" seq="449" id="medren_4918422_476208" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0447" image="ljs300_wk1_body0447" visiblepage="224r"/>
+<page number="450" seq="450" id="medren_4918422_476209" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0448" image="ljs300_wk1_body0448" visiblepage="224v"/>
+<page number="451" seq="451" id="medren_4918422_476210" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0449" image="ljs300_wk1_body0449" visiblepage="225r"/>
+<page number="452" seq="452" id="medren_4918422_476211" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0450" image="ljs300_wk1_body0450" visiblepage="225v"/>
+<page number="453" seq="453" id="medren_4918422_476212" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0451" image="ljs300_wk1_body0451" visiblepage="226r"/>
+<page number="454" seq="454" id="medren_4918422_476213" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0452" image="ljs300_wk1_body0452" visiblepage="226v"/>
+<page number="455" seq="455" id="medren_4918422_476214" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0453" image="ljs300_wk1_body0453" visiblepage="227r"/>
+<page number="456" seq="456" id="medren_4918422_476215" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0454" image="ljs300_wk1_body0454" visiblepage="227v"/>
+<page number="457" seq="457" id="medren_4918422_476216" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0455" image="ljs300_wk1_body0455" visiblepage="228r"/>
+<page number="458" seq="458" id="medren_4918422_476217" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0456" image="ljs300_wk1_body0456" visiblepage="228v"/>
+<page number="459" seq="459" id="medren_4918422_476218" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0457" image="ljs300_wk1_body0457" visiblepage="229r"/>
+<page number="460" seq="460" id="medren_4918422_476219" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0458" image="ljs300_wk1_body0458" visiblepage="229v"/>
+<page number="461" seq="461" id="medren_4918422_476220" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0459" image="ljs300_wk1_body0459" visiblepage="230r"/>
+<page number="462" seq="462" id="medren_4918422_476221" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0460" image="ljs300_wk1_body0460" visiblepage="230v"/>
+<page number="463" seq="463" id="medren_4918422_476222" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0461" image="ljs300_wk1_body0461" visiblepage="231r"/>
+<page number="464" seq="464" id="medren_4918422_476223" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0462" image="ljs300_wk1_body0462" visiblepage="231v"/>
+<page number="465" seq="465" id="medren_4918422_476224" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0463" image="ljs300_wk1_body0463" visiblepage="232r"/>
+<page number="466" seq="466" id="medren_4918422_476225" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0464" image="ljs300_wk1_body0464" visiblepage="232v"/>
+<page number="467" seq="467" id="medren_4918422_476226" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0465" image="ljs300_wk1_body0465" visiblepage="233r"/>
+<page number="468" seq="468" id="medren_4918422_476227" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0466" image="ljs300_wk1_body0466" visiblepage="233v"/>
+<page number="469" seq="469" id="medren_4918422_476228" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0467" image="ljs300_wk1_body0467" visiblepage="234r"/>
+<page number="470" seq="470" id="medren_4918422_476229" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0468" image="ljs300_wk1_body0468" visiblepage="234v"/>
+<page number="471" seq="471" id="medren_4918422_476230" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0469" image="ljs300_wk1_body0469" visiblepage="235r"/>
+<page number="472" seq="472" id="medren_4918422_476231" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0470" image="ljs300_wk1_body0470" visiblepage="235v"/>
+<page number="473" seq="473" id="medren_4918422_476232" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0471" image="ljs300_wk1_body0471" visiblepage="236r">
+   <tocentry name="ill">Finding tab, f. 236r</tocentry>
+</page>
+<page number="474" seq="474" id="medren_4918422_476233" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0472" image="ljs300_wk1_body0472" visiblepage="236v">
+   <tocentry name="ill">Finding tab, f. 236v</tocentry>
+</page>
+<page number="475" seq="475" id="medren_4918422_476234" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0473" image="ljs300_wk1_body0473" visiblepage="237r"/>
+<page number="476" seq="476" id="medren_4918422_476235" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0474" image="ljs300_wk1_body0474" visiblepage="237v"/>
+<page number="477" seq="477" id="medren_4918422_476236" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0475" image="ljs300_wk1_body0475" visiblepage="237r [=238r]"/>
+<page number="478" seq="478" id="medren_4918422_476237" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0476" image="ljs300_wk1_body0476" visiblepage="237v [=238v]"/>
+<page number="479" seq="479" id="medren_4918422_476238" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0477" image="ljs300_wk1_body0477" visiblepage="238r [=239r]"/>
+<page number="480" seq="480" id="medren_4918422_476239" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0478" image="ljs300_wk1_body0478" visiblepage="238v [=239v]"/>
+<page number="481" seq="481" id="medren_4918422_476240" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0479" image="ljs300_wk1_body0479" visiblepage="239r [=240r]"/>
+<page number="482" seq="482" id="medren_4918422_476241" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0480" image="ljs300_wk1_body0480" visiblepage="239v [=240v]"/>
+<page number="483" seq="483" id="medren_4918422_476242" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0481" image="ljs300_wk1_body0481" visiblepage="240r [=241r]"/>
+<page number="484" seq="484" id="medren_4918422_476243" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0482" image="ljs300_wk1_body0482" visiblepage="240v [=241v]"/>
+<page number="485" seq="485" id="medren_4918422_476244" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0483" image="ljs300_wk1_body0483" visiblepage="241r [=242r]"/>
+<page number="486" seq="486" id="medren_4918422_476245" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0484" image="ljs300_wk1_body0484" visiblepage="241v [=242v]"/>
+<page number="487" seq="487" id="medren_4918422_476246" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0485" image="ljs300_wk1_body0485" visiblepage="242r [=243r]"/>
+<page number="488" seq="488" id="medren_4918422_476247" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0486" image="ljs300_wk1_body0486" visiblepage="242v [=243v]"/>
+<page number="489" seq="489" id="medren_4918422_476248" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0487" image="ljs300_wk1_body0487" visiblepage="243r [=244r]"/>
+<page number="490" seq="490" id="medren_4918422_476249" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0488" image="ljs300_wk1_body0488" visiblepage="243v [=244v]"/>
+<page number="491" seq="491" id="medren_4918422_476250" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0489" image="ljs300_wk1_body0489" visiblepage="244r [=245r]"/>
+<page number="492" seq="492" id="medren_4918422_476251" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0490" image="ljs300_wk1_body0490" visiblepage="244v [=245v]"/>
+<page number="493" seq="493" id="medren_4918422_476252" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0491" image="ljs300_wk1_body0491" visiblepage="245r [=246r]"/>
+<page number="494" seq="494" id="medren_4918422_476253" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0492" image="ljs300_wk1_body0492" visiblepage="245v [=246v]"/>
+<page number="495" seq="495" id="medren_4918422_476254" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0493" image="ljs300_wk1_body0493" visiblepage="246r [=247r]"/>
+<page number="496" seq="496" id="medren_4918422_476255" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0494" image="ljs300_wk1_body0494" visiblepage="246v [=247v]"/>
+<page number="497" seq="497" id="medren_4918422_476256" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0495" image="ljs300_wk1_body0495" visiblepage="247r [=248r]"/>
+<page number="498" seq="498" id="medren_4918422_476257" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0496" image="ljs300_wk1_body0496" visiblepage="247v [=248v]"/>
+<page number="499" seq="499" id="medren_4918422_476258" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0497" image="ljs300_wk1_body0497" visiblepage="248r [=249r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 248r [=249r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 248r [=249r]</tocentry>
+</page>
+<page number="500" seq="500" id="medren_4918422_476259" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0498" image="ljs300_wk1_body0498" visiblepage="248v [=249v]">
+   <tocentry name="ill">Finding tab, f. 248v [=249v]</tocentry>
+</page>
+<page number="501" seq="501" id="medren_4918422_476260" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0499" image="ljs300_wk1_body0499" visiblepage="249r [=250r]"/>
+<page number="502" seq="502" id="medren_4918422_476261" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0500" image="ljs300_wk1_body0500" visiblepage="249v [=250v]"/>
+<page number="503" seq="503" id="medren_4918422_476262" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0501" image="ljs300_wk1_body0501" visiblepage="250r [=251r]"/>
+<page number="504" seq="504" id="medren_4918422_476263" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0502" image="ljs300_wk1_body0502" visiblepage="250v [=251v]"/>
+<page number="505" seq="505" id="medren_4918422_476264" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0503" image="ljs300_wk1_body0503" visiblepage="251r [=252r]"/>
+<page number="506" seq="506" id="medren_4918422_476265" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0504" image="ljs300_wk1_body0504" visiblepage="251v [=252v]"/>
+<page number="507" seq="507" id="medren_4918422_476266" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0505" image="ljs300_wk1_body0505" visiblepage="252r [=253r]"/>
+<page number="508" seq="508" id="medren_4918422_476267" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0506" image="ljs300_wk1_body0506" visiblepage="252v [=253v]"/>
+<page number="509" seq="509" id="medren_4918422_476268" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0507" image="ljs300_wk1_body0507" visiblepage="253r [=254r]"/>
+<page number="510" seq="510" id="medren_4918422_476269" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0508" image="ljs300_wk1_body0508" visiblepage="253v [=254v]"/>
+<page number="511" seq="511" id="medren_4918422_476270" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0509" image="ljs300_wk1_body0509" visiblepage="254r [=255r]"/>
+<page number="512" seq="512" id="medren_4918422_476271" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0510" image="ljs300_wk1_body0510" visiblepage="254v [=255v]"/>
+<page number="513" seq="513" id="medren_4918422_476272" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0511" image="ljs300_wk1_body0511" visiblepage="255r [=256r]"/>
+<page number="514" seq="514" id="medren_4918422_476273" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0512" image="ljs300_wk1_body0512" visiblepage="255v [=256v]"/>
+<page number="515" seq="515" id="medren_4918422_476274" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0513" image="ljs300_wk1_body0513" visiblepage="256r [=257r]"/>
+<page number="516" seq="516" id="medren_4918422_476275" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0514" image="ljs300_wk1_body0514" visiblepage="256v [=257v]"/>
+<page number="517" seq="517" id="medren_4918422_476276" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0515" image="ljs300_wk1_body0515" visiblepage="257r [=258r]"/>
+<page number="518" seq="518" id="medren_4918422_476277" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0516" image="ljs300_wk1_body0516" visiblepage="257v [=258v]"/>
+<page number="519" seq="519" id="medren_4918422_476278" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0517" image="ljs300_wk1_body0517" visiblepage="258r [=259r]"/>
+<page number="520" seq="520" id="medren_4918422_476279" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0518" image="ljs300_wk1_body0518" visiblepage="258v [=259v]"/>
+<page number="521" seq="521" id="medren_4918422_476280" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0519" image="ljs300_wk1_body0519" visiblepage="259r [=260r]"/>
+<page number="522" seq="522" id="medren_4918422_476281" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0520" image="ljs300_wk1_body0520" visiblepage="259v [=260v]"/>
+<page number="523" seq="523" id="medren_4918422_476282" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0521" image="ljs300_wk1_body0521" visiblepage="260r [=261r]"/>
+<page number="524" seq="524" id="medren_4918422_476283" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0522" image="ljs300_wk1_body0522" visiblepage="260v [=261v]"/>
+<page number="525" seq="525" id="medren_4918422_476284" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0523" image="ljs300_wk1_body0523" visiblepage="261r [=262r]">
+   <tocentry name="ill">Finding tab, f. 261r [=262r]</tocentry>
+</page>
+<page number="526" seq="526" id="medren_4918422_476285" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0524" image="ljs300_wk1_body0524" visiblepage="261v [=262v]"/>
+<page number="527" seq="527" id="medren_4918422_476286" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0525" image="ljs300_wk1_body0525" visiblepage="262r [=263r]"/>
+<page number="528" seq="528" id="medren_4918422_476287" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0526" image="ljs300_wk1_body0526" visiblepage="262v [=263v]"/>
+<page number="529" seq="529" id="medren_4918422_476288" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0527" image="ljs300_wk1_body0527" visiblepage="263r [=264r]"/>
+<page number="530" seq="530" id="medren_4918422_476289" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0528" image="ljs300_wk1_body0528" visiblepage="263v [=264v]"/>
+<page number="531" seq="531" id="medren_4918422_476290" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0529" image="ljs300_wk1_body0529" visiblepage="264r [=265r]"/>
+<page number="532" seq="532" id="medren_4918422_476291" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0530" image="ljs300_wk1_body0530" visiblepage="264v [=265v]"/>
+<page number="533" seq="533" id="medren_4918422_476292" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0531" image="ljs300_wk1_body0531" visiblepage="265r [=266r]"/>
+<page number="534" seq="534" id="medren_4918422_476293" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0532" image="ljs300_wk1_body0532" visiblepage="265v [=266v]"/>
+<page number="535" seq="535" id="medren_4918422_476294" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0533" image="ljs300_wk1_body0533" visiblepage="266r [=267r]"/>
+<page number="536" seq="536" id="medren_4918422_476295" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0534" image="ljs300_wk1_body0534" visiblepage="266v [=267v]"/>
+<page number="537" seq="537" id="medren_4918422_476296" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0535" image="ljs300_wk1_body0535" visiblepage="267r [=268r]"/>
+<page number="538" seq="538" id="medren_4918422_476297" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0536" image="ljs300_wk1_body0536" visiblepage="267v [=268v]"/>
+<page number="539" seq="539" id="medren_4918422_476298" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0537" image="ljs300_wk1_body0537" visiblepage="268r [=269r]"/>
+<page number="540" seq="540" id="medren_4918422_476299" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0538" image="ljs300_wk1_body0538" visiblepage="268v [=269v]"/>
+<page number="541" seq="541" id="medren_4918422_476300" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0539" image="ljs300_wk1_body0539" visiblepage="269r [=270r]"/>
+<page number="542" seq="542" id="medren_4918422_476301" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0540" image="ljs300_wk1_body0540" visiblepage="269v [=270v]"/>
+<page number="543" seq="543" id="medren_4918422_476302" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0541" image="ljs300_wk1_body0541" visiblepage="270r [=271r]"/>
+<page number="544" seq="544" id="medren_4918422_476303" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0542" image="ljs300_wk1_body0542" visiblepage="270v [=271v]"/>
+<page number="545" seq="545" id="medren_4918422_476304" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0543" image="ljs300_wk1_body0543" visiblepage="271r [=272r]"/>
+<page number="546" seq="546" id="medren_4918422_476305" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0544" image="ljs300_wk1_body0544" visiblepage="271v [=272v]"/>
+<page number="547" seq="547" id="medren_4918422_476306" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0545" image="ljs300_wk1_body0545" visiblepage="272r [=273r]"/>
+<page number="548" seq="548" id="medren_4918422_476307" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0546" image="ljs300_wk1_body0546" visiblepage="272v [=273v]"/>
+<page number="549" seq="549" id="medren_4918422_476308" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0547" image="ljs300_wk1_body0547" visiblepage="273r [=274r]"/>
+<page number="550" seq="550" id="medren_4918422_476309" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0548" image="ljs300_wk1_body0548" visiblepage="273v [=274v]"/>
+<page number="551" seq="551" id="medren_4918422_476310" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0549" image="ljs300_wk1_body0549" visiblepage="274r [=275r]">
+   <tocentry name="ill">Finding tab, f. 274r [=275r]</tocentry>
+</page>
+<page number="552" seq="552" id="medren_4918422_476311" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0550" image="ljs300_wk1_body0550" visiblepage="274v [=275v]">
+   <tocentry name="ill">Finding tab, f. 274v [=275v]</tocentry>
+</page>
+<page number="553" seq="553" id="medren_4918422_476312" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0551" image="ljs300_wk1_body0551" visiblepage="275r [=276r]"/>
+<page number="554" seq="554" id="medren_4918422_476313" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0552" image="ljs300_wk1_body0552" visiblepage="275v [=276v]"/>
+<page number="555" seq="555" id="medren_4918422_476314" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0553" image="ljs300_wk1_body0553" visiblepage="276r [=277r]"/>
+<page number="556" seq="556" id="medren_4918422_476315" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0554" image="ljs300_wk1_body0554" visiblepage="276v [=277v]"/>
+<page number="557" seq="557" id="medren_4918422_476316" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0555" image="ljs300_wk1_body0555" visiblepage="277r [=278r]"/>
+<page number="558" seq="558" id="medren_4918422_476317" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0556" image="ljs300_wk1_body0556" visiblepage="277v [=278v]"/>
+<page number="559" seq="559" id="medren_4918422_476318" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0557" image="ljs300_wk1_body0557" visiblepage="278r [=279r]"/>
+<page number="560" seq="560" id="medren_4918422_476319" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0558" image="ljs300_wk1_body0558" visiblepage="278v [=279v]"/>
+<page number="561" seq="561" id="medren_4918422_476320" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0559" image="ljs300_wk1_body0559" visiblepage="279r [=280r]"/>
+<page number="562" seq="562" id="medren_4918422_476321" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0560" image="ljs300_wk1_body0560" visiblepage="279v [=280v]"/>
+<page number="563" seq="563" id="medren_4918422_476322" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0561" image="ljs300_wk1_body0561" visiblepage="280r [=281r]"/>
+<page number="564" seq="564" id="medren_4918422_476323" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0562" image="ljs300_wk1_body0562" visiblepage="280v [=281v]"/>
+<page number="565" seq="565" id="medren_4918422_476324" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0563" image="ljs300_wk1_body0563" visiblepage="281r [=282r]"/>
+<page number="566" seq="566" id="medren_4918422_476325" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0564" image="ljs300_wk1_body0564" visiblepage="281v [=282v]"/>
+<page number="567" seq="567" id="medren_4918422_476326" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0565" image="ljs300_wk1_body0565" visiblepage="282r [=283r]"/>
+<page number="568" seq="568" id="medren_4918422_476327" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0566" image="ljs300_wk1_body0566" visiblepage="282v [=283v]"/>
+<page number="569" seq="569" id="medren_4918422_476328" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0567" image="ljs300_wk1_body0567" visiblepage="283r [=284r]"/>
+<page number="570" seq="570" id="medren_4918422_476329" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0568" image="ljs300_wk1_body0568" visiblepage="283v [=284v]"/>
+<page number="571" seq="571" id="medren_4918422_476330" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0569" image="ljs300_wk1_body0569" visiblepage="284r [=285r]"/>
+<page number="572" seq="572" id="medren_4918422_476331" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0570" image="ljs300_wk1_body0570" visiblepage="284v [=285v]"/>
+<page number="573" seq="573" id="medren_4918422_476332" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0571" image="ljs300_wk1_body0571" visiblepage="285r [=286r]"/>
+<page number="574" seq="574" id="medren_4918422_476333" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0572" image="ljs300_wk1_body0572" visiblepage="285v [=286v]"/>
+<page number="575" seq="575" id="medren_4918422_476334" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0573" image="ljs300_wk1_body0573" visiblepage="286r [=287r]"/>
+<page number="576" seq="576" id="medren_4918422_476335" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0574" image="ljs300_wk1_body0574" visiblepage="286v [=287v]"/>
+<page number="577" seq="577" id="medren_4918422_476336" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0575" image="ljs300_wk1_body0575" visiblepage="287r [=288r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 287r [=288r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 287r [=288r]</tocentry>
+</page>
+<page number="578" seq="578" id="medren_4918422_476337" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0576" image="ljs300_wk1_body0576" visiblepage="287v [=288v]">
+   <tocentry name="ill">Finding tab, f. 287v [=288v]</tocentry>
+</page>
+<page number="579" seq="579" id="medren_4918422_476338" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0577" image="ljs300_wk1_body0577" visiblepage="288r [=289r]"/>
+<page number="580" seq="580" id="medren_4918422_476339" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0578" image="ljs300_wk1_body0578" visiblepage="288v [=289v]"/>
+<page number="581" seq="581" id="medren_4918422_476340" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0579" image="ljs300_wk1_body0579" visiblepage="289r [=290r]"/>
+<page number="582" seq="582" id="medren_4918422_476341" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0580" image="ljs300_wk1_body0580" visiblepage="289v [=290v]"/>
+<page number="583" seq="583" id="medren_4918422_476342" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0581" image="ljs300_wk1_body0581" visiblepage="290r [=291r]"/>
+<page number="584" seq="584" id="medren_4918422_476343" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0582" image="ljs300_wk1_body0582" visiblepage="290v [=291v]"/>
+<page number="585" seq="585" id="medren_4918422_476344" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0583" image="ljs300_wk1_body0583" visiblepage="291r [=292r]"/>
+<page number="586" seq="586" id="medren_4918422_476345" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0584" image="ljs300_wk1_body0584" visiblepage="291v [=292v]"/>
+<page number="587" seq="587" id="medren_4918422_476346" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0585" image="ljs300_wk1_body0585" visiblepage="292r [=293r]"/>
+<page number="588" seq="588" id="medren_4918422_476347" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0586" image="ljs300_wk1_body0586" visiblepage="292v [=293v]"/>
+<page number="589" seq="589" id="medren_4918422_476348" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0587" image="ljs300_wk1_body0587" visiblepage="293r [=294r]"/>
+<page number="590" seq="590" id="medren_4918422_476349" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0588" image="ljs300_wk1_body0588" visiblepage="293v [=294v]"/>
+<page number="591" seq="591" id="medren_4918422_476350" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0589" image="ljs300_wk1_body0589" visiblepage="294r [=295r]"/>
+<page number="592" seq="592" id="medren_4918422_476351" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0590" image="ljs300_wk1_body0590" visiblepage="294v [=295v]"/>
+<page number="593" seq="593" id="medren_4918422_476352" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0591" image="ljs300_wk1_body0591" visiblepage="295r [=296r]"/>
+<page number="594" seq="594" id="medren_4918422_476353" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0592" image="ljs300_wk1_body0592" visiblepage="295v [=296v]"/>
+<page number="595" seq="595" id="medren_4918422_476354" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0593" image="ljs300_wk1_body0593" visiblepage="296r [=297r]"/>
+<page number="596" seq="596" id="medren_4918422_476355" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0594" image="ljs300_wk1_body0594" visiblepage="296v [=297v]"/>
+<page number="597" seq="597" id="medren_4918422_476356" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0595" image="ljs300_wk1_body0595" visiblepage="297r [=298r]"/>
+<page number="598" seq="598" id="medren_4918422_476357" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0596" image="ljs300_wk1_body0596" visiblepage="297v [=298v]"/>
+<page number="599" seq="599" id="medren_4918422_476358" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0597" image="ljs300_wk1_body0597" visiblepage="298r [=299r]"/>
+<page number="600" seq="600" id="medren_4918422_476359" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0598" image="ljs300_wk1_body0598" visiblepage="298v [=299v]"/>
+<page number="601" seq="601" id="medren_4918422_476360" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0599" image="ljs300_wk1_body0599" visiblepage="299r [=300r]"/>
+<page number="602" seq="602" id="medren_4918422_476361" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0600" image="ljs300_wk1_body0600" visiblepage="299v [=300v]"/>
+<page number="603" seq="603" id="medren_4918422_476362" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0601" image="ljs300_wk1_body0601" visiblepage="300r [=301r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 300r [=301r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 300r [=301r]</tocentry>
+</page>
+<page number="604" seq="604" id="medren_4918422_476363" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0602" image="ljs300_wk1_body0602" visiblepage="300v [=301v]">
+   <tocentry name="ill">Finding tab, f. 300v [=301v]</tocentry>
+</page>
+<page number="605" seq="605" id="medren_4918422_476364" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0603" image="ljs300_wk1_body0603" visiblepage="301r [=302r]"/>
+<page number="606" seq="606" id="medren_4918422_476365" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0604" image="ljs300_wk1_body0604" visiblepage="301v [=302v]"/>
+<page number="607" seq="607" id="medren_4918422_476366" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0605" image="ljs300_wk1_body0605" visiblepage="302r [=303r]"/>
+<page number="608" seq="608" id="medren_4918422_476367" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0606" image="ljs300_wk1_body0606" visiblepage="302v [=303v]"/>
+<page number="609" seq="609" id="medren_4918422_476368" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0607" image="ljs300_wk1_body0607" visiblepage="303r [=304r]"/>
+<page number="610" seq="610" id="medren_4918422_476369" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0608" image="ljs300_wk1_body0608" visiblepage="303v [=304v]"/>
+<page number="611" seq="611" id="medren_4918422_476370" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0609" image="ljs300_wk1_body0609" visiblepage="304r [=305r]"/>
+<page number="612" seq="612" id="medren_4918422_476371" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0610" image="ljs300_wk1_body0610" visiblepage="304v [=305v]"/>
+<page number="613" seq="613" id="medren_4918422_476372" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0611" image="ljs300_wk1_body0611" visiblepage="305r [=306r]"/>
+<page number="614" seq="614" id="medren_4918422_476373" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0612" image="ljs300_wk1_body0612" visiblepage="305v [=306v]"/>
+<page number="615" seq="615" id="medren_4918422_476374" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0613" image="ljs300_wk1_body0613" visiblepage="306r [=307r]"/>
+<page number="616" seq="616" id="medren_4918422_476375" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0614" image="ljs300_wk1_body0614" visiblepage="306v [=307v]"/>
+<page number="617" seq="617" id="medren_4918422_476376" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0615" image="ljs300_wk1_body0615" visiblepage="307r [=308r]"/>
+<page number="618" seq="618" id="medren_4918422_476377" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0616" image="ljs300_wk1_body0616" visiblepage="307v [=308v]"/>
+<page number="619" seq="619" id="medren_4918422_476378" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0617" image="ljs300_wk1_body0617" visiblepage="308r [=309r]"/>
+<page number="620" seq="620" id="medren_4918422_476379" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0618" image="ljs300_wk1_body0618" visiblepage="308v [=309v]"/>
+<page number="621" seq="621" id="medren_4918422_476380" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0619" image="ljs300_wk1_body0619" visiblepage="309r [=310r]"/>
+<page number="622" seq="622" id="medren_4918422_476381" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0620" image="ljs300_wk1_body0620" visiblepage="309v [=310v]"/>
+<page number="623" seq="623" id="medren_4918422_476382" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0621" image="ljs300_wk1_body0621" visiblepage="310r [=311r]"/>
+<page number="624" seq="624" id="medren_4918422_476383" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0622" image="ljs300_wk1_body0622" visiblepage="310v [=311v]"/>
+<page number="625" seq="625" id="medren_4918422_476384" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0623" image="ljs300_wk1_body0623" visiblepage="311r [=312r]"/>
+<page number="626" seq="626" id="medren_4918422_476385" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0624" image="ljs300_wk1_body0624" visiblepage="311v [=312v]"/>
+<page number="627" seq="627" id="medren_4918422_476386" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0625" image="ljs300_wk1_body0625" visiblepage="312r [=313r]"/>
+<page number="628" seq="628" id="medren_4918422_476387" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0626" image="ljs300_wk1_body0626" visiblepage="312v [=313v]"/>
+<page number="629" seq="629" id="medren_4918422_476388" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0627" image="ljs300_wk1_body0627" visiblepage="313r [=314r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 313r [=314r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 313r [=314r]</tocentry>
+</page>
+<page number="630" seq="630" id="medren_4918422_476389" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0628" image="ljs300_wk1_body0628" visiblepage="313v [=314v]">
+   <tocentry name="ill">Finding tab, f. 313v [=314v]</tocentry>
+</page>
+<page number="631" seq="631" id="medren_4918422_476390" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0629" image="ljs300_wk1_body0629" visiblepage="314r [=315r]"/>
+<page number="632" seq="632" id="medren_4918422_476391" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0630" image="ljs300_wk1_body0630" visiblepage="314v [=315v]"/>
+<page number="633" seq="633" id="medren_4918422_476392" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0631" image="ljs300_wk1_body0631" visiblepage="315r [=316r]"/>
+<page number="634" seq="634" id="medren_4918422_476393" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0632" image="ljs300_wk1_body0632" visiblepage="315v [=316v]"/>
+<page number="635" seq="635" id="medren_4918422_476394" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0633" image="ljs300_wk1_body0633" visiblepage="316r [=317r]"/>
+<page number="636" seq="636" id="medren_4918422_476395" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0634" image="ljs300_wk1_body0634" visiblepage="316v [=317v]"/>
+<page number="637" seq="637" id="medren_4918422_476396" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0635" image="ljs300_wk1_body0635" visiblepage="317r [=318r]"/>
+<page number="638" seq="638" id="medren_4918422_476397" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0636" image="ljs300_wk1_body0636" visiblepage="317v [=318v]"/>
+<page number="639" seq="639" id="medren_4918422_476398" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0637" image="ljs300_wk1_body0637" visiblepage="318r [=319r]"/>
+<page number="640" seq="640" id="medren_4918422_476399" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0638" image="ljs300_wk1_body0638" visiblepage="318v [=319v]"/>
+<page number="641" seq="641" id="medren_4918422_476400" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0639" image="ljs300_wk1_body0639" visiblepage="319r [=320r]"/>
+<page number="642" seq="642" id="medren_4918422_476401" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0640" image="ljs300_wk1_body0640" visiblepage="319v [=320v]"/>
+<page number="643" seq="643" id="medren_4918422_476402" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0641" image="ljs300_wk1_body0641" visiblepage="320r [=321r]"/>
+<page number="644" seq="644" id="medren_4918422_476403" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0642" image="ljs300_wk1_body0642" visiblepage="320v [=321v]"/>
+<page number="645" seq="645" id="medren_4918422_476404" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0643" image="ljs300_wk1_body0643" visiblepage="321r [=322r]"/>
+<page number="646" seq="646" id="medren_4918422_476405" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0644" image="ljs300_wk1_body0644" visiblepage="321v [=322v]"/>
+<page number="647" seq="647" id="medren_4918422_476406" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0645" image="ljs300_wk1_body0645" visiblepage="322r [=323r]"/>
+<page number="648" seq="648" id="medren_4918422_476407" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0646" image="ljs300_wk1_body0646" visiblepage="322v [=323v]"/>
+<page number="649" seq="649" id="medren_4918422_476408" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0647" image="ljs300_wk1_body0647" visiblepage="323r [=324r]"/>
+<page number="650" seq="650" id="medren_4918422_476409" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0648" image="ljs300_wk1_body0648" visiblepage="323v [=324v]"/>
+<page number="651" seq="651" id="medren_4918422_476410" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0649" image="ljs300_wk1_body0649" visiblepage="324r [=325r]"/>
+<page number="652" seq="652" id="medren_4918422_476411" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0650" image="ljs300_wk1_body0650" visiblepage="324v [=325v]"/>
+<page number="653" seq="653" id="medren_4918422_476412" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0651" image="ljs300_wk1_body0651" visiblepage="325r [=326r]">
+   <tocentry name="ill">Finding tab, f. 325r [=326r]</tocentry>
+</page>
+<page number="654" seq="654" id="medren_4918422_476413" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0652" image="ljs300_wk1_body0652" visiblepage="325v [=326v]">
+   <tocentry name="ill">Finding tab, f. 325v [=326v]</tocentry>
+</page>
+<page number="655" seq="655" id="medren_4918422_476414" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0653" image="ljs300_wk1_body0653" visiblepage="326r [=327r]"/>
+<page number="656" seq="656" id="medren_4918422_476415" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0654" image="ljs300_wk1_body0654" visiblepage="326v [=327v]"/>
+<page number="657" seq="657" id="medren_4918422_476416" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0655" image="ljs300_wk1_body0655" visiblepage="327r [=328r]"/>
+<page number="658" seq="658" id="medren_4918422_476417" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0656" image="ljs300_wk1_body0656" visiblepage="327v [=328v]"/>
+<page number="659" seq="659" id="medren_4918422_476418" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0657" image="ljs300_wk1_body0657" visiblepage="328r [=329r]"/>
+<page number="660" seq="660" id="medren_4918422_476419" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0658" image="ljs300_wk1_body0658" visiblepage="328v [=329v]"/>
+<page number="661" seq="661" id="medren_4918422_476420" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0659" image="ljs300_wk1_body0659" visiblepage="329r [=330r]"/>
+<page number="662" seq="662" id="medren_4918422_476421" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0660" image="ljs300_wk1_body0660" visiblepage="329v [=330v]"/>
+<page number="663" seq="663" id="medren_4918422_476422" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0661" image="ljs300_wk1_body0661" visiblepage="330r [=331r]"/>
+<page number="664" seq="664" id="medren_4918422_476423" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0662" image="ljs300_wk1_body0662" visiblepage="330v [=331v]"/>
+<page number="665" seq="665" id="medren_4918422_476424" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0663" image="ljs300_wk1_body0663" visiblepage="331r [=332r]"/>
+<page number="666" seq="666" id="medren_4918422_476425" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0664" image="ljs300_wk1_body0664" visiblepage="331v [=332v]"/>
+<page number="667" seq="667" id="medren_4918422_476426" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0665" image="ljs300_wk1_body0665" visiblepage="332r [=333r]"/>
+<page number="668" seq="668" id="medren_4918422_476427" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0666" image="ljs300_wk1_body0666" visiblepage="332v [=333v]"/>
+<page number="669" seq="669" id="medren_4918422_476428" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0667" image="ljs300_wk1_body0667" visiblepage="333r [=334r]"/>
+<page number="670" seq="670" id="medren_4918422_476429" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0668" image="ljs300_wk1_body0668" visiblepage="333v [=334v]"/>
+<page number="671" seq="671" id="medren_4918422_476430" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0669" image="ljs300_wk1_body0669" visiblepage="334r [=335r]"/>
+<page number="672" seq="672" id="medren_4918422_476431" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0670" image="ljs300_wk1_body0670" visiblepage="334v [=335v]"/>
+<page number="673" seq="673" id="medren_4918422_476432" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0671" image="ljs300_wk1_body0671" visiblepage="335r [=336r]"/>
+<page number="674" seq="674" id="medren_4918422_476433" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0672" image="ljs300_wk1_body0672" visiblepage="335v [=336v]"/>
+<page number="675" seq="675" id="medren_4918422_476434" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0673" image="ljs300_wk1_body0673" visiblepage="336r [=337r]"/>
+<page number="676" seq="676" id="medren_4918422_476435" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0674" image="ljs300_wk1_body0674" visiblepage="336v [=337v]"/>
+<page number="677" seq="677" id="medren_4918422_476436" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0675" image="ljs300_wk1_body0675" visiblepage="337r [=338r]"/>
+<page number="678" seq="678" id="medren_4918422_476437" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0676" image="ljs300_wk1_body0676" visiblepage="337v [=338v]"/>
+<page number="679" seq="679" id="medren_4918422_476438" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0677" image="ljs300_wk1_body0677" visiblepage="338r [=339r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 338r [=339r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 338r [=339r]</tocentry>
+</page>
+<page number="680" seq="680" id="medren_4918422_476439" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0678" image="ljs300_wk1_body0678" visiblepage="338v [=339v]">
+   <tocentry name="ill">Finding tab, f. 338v [=339v]</tocentry>
+</page>
+<page number="681" seq="681" id="medren_4918422_476440" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0679" image="ljs300_wk1_body0679" visiblepage="339r [=340r]"/>
+<page number="682" seq="682" id="medren_4918422_476441" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0680" image="ljs300_wk1_body0680" visiblepage="339v [=340v]"/>
+<page number="683" seq="683" id="medren_4918422_476442" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0681" image="ljs300_wk1_body0681" visiblepage="340r [=341r]"/>
+<page number="684" seq="684" id="medren_4918422_476443" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0682" image="ljs300_wk1_body0682" visiblepage="340v [=341v]"/>
+<page number="685" seq="685" id="medren_4918422_476444" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0683" image="ljs300_wk1_body0683" visiblepage="341r [=342r]"/>
+<page number="686" seq="686" id="medren_4918422_476445" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0684" image="ljs300_wk1_body0684" visiblepage="341v [=342v]"/>
+<page number="687" seq="687" id="medren_4918422_476446" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0685" image="ljs300_wk1_body0685" visiblepage="342r [=343r]"/>
+<page number="688" seq="688" id="medren_4918422_476447" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0686" image="ljs300_wk1_body0686" visiblepage="342v [=343v]"/>
+<page number="689" seq="689" id="medren_4918422_476448" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0687" image="ljs300_wk1_body0687" visiblepage="343r [=344r]"/>
+<page number="690" seq="690" id="medren_4918422_476449" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0688" image="ljs300_wk1_body0688" visiblepage="343v [=344v]"/>
+<page number="691" seq="691" id="medren_4918422_476450" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0689" image="ljs300_wk1_body0689" visiblepage="344r [=345r]"/>
+<page number="692" seq="692" id="medren_4918422_476451" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0690" image="ljs300_wk1_body0690" visiblepage="344v [=345v]"/>
+<page number="693" seq="693" id="medren_4918422_476452" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0691" image="ljs300_wk1_body0691" visiblepage="345r [=346r]"/>
+<page number="694" seq="694" id="medren_4918422_476453" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0692" image="ljs300_wk1_body0692" visiblepage="345v [=346v]"/>
+<page number="695" seq="695" id="medren_4918422_476454" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0693" image="ljs300_wk1_body0693" visiblepage="346r [=347r]"/>
+<page number="696" seq="696" id="medren_4918422_476455" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0694" image="ljs300_wk1_body0694" visiblepage="346v [=347v]"/>
+<page number="697" seq="697" id="medren_4918422_476456" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0695" image="ljs300_wk1_body0695" visiblepage="347r [=348r]"/>
+<page number="698" seq="698" id="medren_4918422_476457" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0696" image="ljs300_wk1_body0696" visiblepage="347v [=348v]"/>
+<page number="699" seq="699" id="medren_4918422_476458" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0697" image="ljs300_wk1_body0697" visiblepage="348r [=349r]"/>
+<page number="700" seq="700" id="medren_4918422_476459" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0698" image="ljs300_wk1_body0698" visiblepage="348v [=349v]"/>
+<page number="701" seq="701" id="medren_4918422_476460" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0699" image="ljs300_wk1_body0699" visiblepage="349r [=350r]"/>
+<page number="702" seq="702" id="medren_4918422_476461" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0700" image="ljs300_wk1_body0700" visiblepage="349v [=350v]"/>
+<page number="703" seq="703" id="medren_4918422_476462" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0701" image="ljs300_wk1_body0701" visiblepage="350r [=351r]"/>
+<page number="704" seq="704" id="medren_4918422_476463" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0702" image="ljs300_wk1_body0702" visiblepage="350v [=351v]"/>
+<page number="705" seq="705" id="medren_4918422_476464" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0703" image="ljs300_wk1_body0703" visiblepage="351r [=352r]">
+   <tocentry name="ill">Illustration, Eclipse, f. 351r [=352r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 351r [=352r]</tocentry>
+</page>
+<page number="706" seq="706" id="medren_4918422_476465" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0704" image="ljs300_wk1_body0704" visiblepage="351v [=352v]">
+   <tocentry name="ill">Finding tab, f. 351v [=352v]</tocentry>
+</page>
+<page number="707" seq="707" id="medren_4918422_476466" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0705" image="ljs300_wk1_body0705" visiblepage="352r [=353r]"/>
+<page number="708" seq="708" id="medren_4918422_476467" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0706" image="ljs300_wk1_body0706" visiblepage="352v [=353v]"/>
+<page number="709" seq="709" id="medren_4918422_476468" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0707" image="ljs300_wk1_body0707" visiblepage="353r [=354r]"/>
+<page number="710" seq="710" id="medren_4918422_476469" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0708" image="ljs300_wk1_body0708" visiblepage="353v [=354v]"/>
+<page number="711" seq="711" id="medren_4918422_476470" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0709" image="ljs300_wk1_body0709" visiblepage="354r [=355r]"/>
+<page number="712" seq="712" id="medren_4918422_476471" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0710" image="ljs300_wk1_body0710" visiblepage="354v [=355v]"/>
+<page number="713" seq="713" id="medren_4918422_476472" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0711" image="ljs300_wk1_body0711" visiblepage="355r [=356r]"/>
+<page number="714" seq="714" id="medren_4918422_476473" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0712" image="ljs300_wk1_body0712" visiblepage="355v [=356v]"/>
+<page number="715" seq="715" id="medren_4918422_476474" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0713" image="ljs300_wk1_body0713" visiblepage="356r [=357r]"/>
+<page number="716" seq="716" id="medren_4918422_476475" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0714" image="ljs300_wk1_body0714" visiblepage="356v [=357v]"/>
+<page number="717" seq="717" id="medren_4918422_476476" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0715" image="ljs300_wk1_body0715" visiblepage="357r [=358r]"/>
+<page number="718" seq="718" id="medren_4918422_476477" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0716" image="ljs300_wk1_body0716" visiblepage="357v [=358v]"/>
+<page number="719" seq="719" id="medren_4918422_476478" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0717" image="ljs300_wk1_body0717" visiblepage="358r [=359r]"/>
+<page number="720" seq="720" id="medren_4918422_476479" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0718" image="ljs300_wk1_body0718" visiblepage="358v [=359v]"/>
+<page number="721" seq="721" id="medren_4918422_476480" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0719" image="ljs300_wk1_body0719" visiblepage="359r [=360r]"/>
+<page number="722" seq="722" id="medren_4918422_476481" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0720" image="ljs300_wk1_body0720" visiblepage="359v [=360v]"/>
+<page number="723" seq="723" id="medren_4918422_476482" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0721" image="ljs300_wk1_body0721" visiblepage="360r [=361r]"/>
+<page number="724" seq="724" id="medren_4918422_476483" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0722" image="ljs300_wk1_body0722" visiblepage="360v [=361v]"/>
+<page number="725" seq="725" id="medren_4918422_476484" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0723" image="ljs300_wk1_body0723" visiblepage="361r [=362r]"/>
+<page number="726" seq="726" id="medren_4918422_476485" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0724" image="ljs300_wk1_body0724" visiblepage="361v [=362v]"/>
+<page number="727" seq="727" id="medren_4918422_476486" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0725" image="ljs300_wk1_body0725" visiblepage="362r [=363r]"/>
+<page number="728" seq="728" id="medren_4918422_476487" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0726" image="ljs300_wk1_body0726" visiblepage="362v [=363v]"/>
+<page number="729" seq="729" id="medren_4918422_476488" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0727" image="ljs300_wk1_body0727" visiblepage="363r [=364r]"/>
+<page number="730" seq="730" id="medren_4918422_476489" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0728" image="ljs300_wk1_body0728" visiblepage="363v [=364v]"/>
+<page number="731" seq="731" id="medren_4918422_476490" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0729" image="ljs300_wk1_body0729" visiblepage="364r [=365r]">
+   <tocentry name="ill">Illustration, f. 364r [=365r]</tocentry>
+   <tocentry name="ill">Finding tab, f. 364r [=365r]</tocentry>
+</page>
+<page number="732" seq="732" id="medren_4918422_476491" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0730" image="ljs300_wk1_body0730" visiblepage="364v [=365v]">
+   <tocentry name="ill">Finding tab, f. 364v [=365v]</tocentry>
+</page>
+<page number="733" seq="733" id="medren_4918422_476492" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0731" image="ljs300_wk1_body0731" visiblepage="365r [=366r]"/>
+<page number="734" seq="734" id="medren_4918422_476493" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0732" image="ljs300_wk1_body0732" visiblepage="365v [=366v]"/>
+<page number="735" seq="735" id="medren_4918422_476494" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0733" image="ljs300_wk1_body0733" visiblepage="366r [=367r]"/>
+<page number="736" seq="736" id="medren_4918422_476495" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0734" image="ljs300_wk1_body0734" visiblepage="366v [=367v]"/>
+<page number="737" seq="737" id="medren_4918422_476496" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0735" image="ljs300_wk1_body0735" visiblepage="367r [=368r]"/>
+<page number="738" seq="738" id="medren_4918422_476497" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0736" image="ljs300_wk1_body0736" visiblepage="367v [=368v]"/>
+<page number="739" seq="739" id="medren_4918422_476498" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0737" image="ljs300_wk1_body0737" visiblepage="368r [=369r]"/>
+<page number="740" seq="740" id="medren_4918422_476499" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0738" image="ljs300_wk1_body0738" visiblepage="368v [=369v]"/>
+<page number="741" seq="741" id="medren_4918422_476500" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0739" image="ljs300_wk1_body0739" visiblepage="369r [=370r]"/>
+<page number="742" seq="742" id="medren_4918422_476501" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0740" image="ljs300_wk1_body0740" visiblepage="369v [=370v]"/>
+<page number="743" seq="743" id="medren_4918422_476502" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0741" image="ljs300_wk1_body0741" visiblepage="370r [=371r]"/>
+<page number="744" seq="744" id="medren_4918422_476503" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0742" image="ljs300_wk1_body0742" visiblepage="370v [=371v]"/>
+<page number="745" seq="745" id="medren_4918422_476504" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0743" image="ljs300_wk1_body0743" visiblepage="371r [=372r]"/>
+<page number="746" seq="746" id="medren_4918422_476505" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0744" image="ljs300_wk1_body0744" visiblepage="371v [=372v]"/>
+<page number="747" seq="747" id="medren_4918422_476506" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0745" image="ljs300_wk1_body0745" visiblepage="372r [=373r]"/>
+<page number="748" seq="748" id="medren_4918422_476507" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0746" image="ljs300_wk1_body0746" visiblepage="372v [=373v]"/>
+<page number="749" seq="749" id="medren_4918422_476508" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0747" image="ljs300_wk1_body0747" visiblepage="373r [=374r]"/>
+<page number="750" seq="750" id="medren_4918422_476509" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0748" image="ljs300_wk1_body0748" visiblepage="373v [=374v]"/>
+<page number="751" seq="751" id="medren_4918422_476510" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0749" image="ljs300_wk1_body0749" visiblepage="374r [=375r]"/>
+<page number="752" seq="752" id="medren_4918422_476511" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0750" image="ljs300_wk1_body0750" visiblepage="374v [=375v]"/>
+<page number="753" seq="753" id="medren_4918422_476512" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0751" image="ljs300_wk1_body0751" visiblepage="375r [=376r]"/>
+<page number="754" seq="754" id="medren_4918422_476513" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0752" image="ljs300_wk1_body0752" visiblepage="375v [=376v]"/>
+<page number="755" seq="755" id="medren_4918422_476514" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_body0753" image="ljs300_wk1_body0753" visiblepage="376r [=377r]"/>
+<page number="756" seq="756" id="medren_4918422_476515" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_body0754" image="ljs300_wk1_body0754" visiblepage="376v [=377v]"/>
+<page number="757" seq="757" id="medren_4918422_476516" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_back0001" image="ljs300_wk1_back0001" visiblepage="[i recto; i verso-iv recto blank, not shot]"/>
+<page number="758" seq="758" id="medren_4918422_476523" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_back0008" image="ljs300_wk1_back0008" visiblepage="[iv verso]"/>
+<page number="759" seq="759" id="medren_4918422_476524" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_back0009" image="ljs300_wk1_back0009" visiblepage="[v recto]"/>
+<page number="760" seq="760" id="medren_4918422_476525" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_back0010" image="ljs300_wk1_back0010" visiblepage="[v verso]"/>
+<page number="761" seq="761" id="medren_4918422_476526" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_back0011" image="ljs300_wk1_back0011" visiblepage="Inside back cover">
+   <tocentry name="ill">Bookplate, Inside back cover</tocentry>
+</page>
+<page number="762" seq="762" id="medren_4918422_476527" image.defaultscale="3" side="verso" image.id="medren_ljs300_wk1_back0012" image="ljs300_wk1_back0012" visiblepage="Back cover"/>
+<page number="763" seq="763" id="medren_4918422_476528" image.defaultscale="3" side="recto" image.id="medren_ljs300_wk1_back0013" image="ljs300_wk1_back0013" visiblepage="Spine"/>
+</xml><str xmlns:my="http://nowhere" name="link">pageturn.html?id=MEDREN_4918422&amp;rotation=0&amp;id=MEDREN_4918422</str><str xmlns:my="http://nowhere" name="link_no_params">pageturn.html?id=MEDREN_4918422</str><str xmlns:my="http://nowhere" name="handle">http://hdl.library.upenn.edu/1017/d/medren/4918422</str></doc></result><lst name="facet_counts"><lst xmlns:my="http://nowhere" name="current_facets"/><lst name="facet_queries"/><lst xmlns:my="http://nowhere" name="facet_fields"><lst name="collection_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=collection_facet&amp;</str></lst><str name="Lawrence J. Schoenberg Collection" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=collection_facet%3A%22Lawrence%20J.%20Schoenberg%20Collection%22</str><str name="Medieval &amp; Renaissance Manuscripts" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=collection_facet%3A%22Medieval%20%26%20Renaissance%20Manuscripts%22</str></lst><lst name="has_999_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=has_999_facet&amp;</str></lst></lst><lst name="facsimile_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=facsimile_facet&amp;</str></lst><str name="Yes" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=facsimile_facet%3A%22Yes%22</str></lst><lst name="illuminated_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=illuminated_facet&amp;</str></lst><str name="No" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=illuminated_facet%3A%22No%22</str></lst><lst name="illustrated_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=illustrated_facet&amp;</str></lst><str name="Yes" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=illustrated_facet%3A%22Yes%22</str></lst><lst name="notated_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=notated_facet&amp;</str></lst><str name="No" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=notated_facet%3A%22No%22</str></lst><lst name="language_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=language_facet&amp;</str></lst><str name="Latin" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=language_facet%3A%22Latin%22</str></lst><lst name="century_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=century_facet&amp;</str></lst><str name="15th century" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=century_facet%3A%2215th%20century%22</str><str name="16th century" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=century_facet%3A%2216th%20century%22</str></lst><lst name="date_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=date_facet&amp;</str></lst><str name="1500" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=date_facet%3A%221500%22</str></lst><lst name="genre_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=genre_facet&amp;</str></lst><str name="Almanacs" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=genre_facet%3A%22Almanacs%22</str><str name="Codices" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=genre_facet%3A%22Codices%22</str><str name="Devotional calendars" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=genre_facet%3A%22Devotional%20calendars%22</str><str name="Ephemerides" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=genre_facet%3A%22Ephemerides%22</str><str name="Finding tabs" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=genre_facet%3A%22Finding%20tabs%22</str></lst><lst name="subject_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=subject_facet&amp;</str></lst><str name="Astronomy" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=subject_facet%3A%22Astronomy%22</str><str name="Ephemerides" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=subject_facet%3A%22Ephemerides%22</str><str name="Monastic libraries" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=subject_facet%3A%22Monastic%20libraries%22</str></lst><lst name="geography_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=geography_facet&amp;</str></lst><str name="Austria" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=geography_facet%3A%22Austria%22</str><str name="Lambach (Upper Austria)" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=geography_facet%3A%22Lambach%20%28Upper%20Austria%29%22</str></lst><lst name="author_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=author_facet&amp;</str></lst><str name="Regiomontanus, Joannes, 1436-1476" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=author_facet%3A%22Regiomontanus%2C%20Joannes%2C%201436-1476%22</str></lst><lst name="related_names_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=related_names_facet&amp;</str></lst><str name="Benediktinerstift Lambach, former owner" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=related_names_facet%3A%22Benediktinerstift%20Lambach%2C%20former%20owner%22</str><str name="Festetics von Tolna, Gabor, Graf, former owner" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=related_names_facet%3A%22Festetics%20von%20Tolna%2C%20Gabor%2C%20Graf%2C%20former%20owner%22</str><str name="Horblit, Harrison D., former owner" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=related_names_facet%3A%22Horblit%2C%20Harrison%20D.%2C%20former%20owner%22</str><str name="J. Paul Getty Museum, former owner" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=related_names_facet%3A%22J.%20Paul%20Getty%20Museum%2C%20former%20owner%22</str><str name="Ludwig, Irene, former owner" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=related_names_facet%3A%22Ludwig%2C%20Irene%2C%20former%20owner%22</str></lst><lst name="page_material_facet"><lst name="links"><str name="browse">browse.html?id=MEDREN_4918422&amp;browse=page_material_facet&amp;</str></lst><str name="Paper and Parchment" num="1">pageturn.html?id=MEDREN_4918422&amp;fq=page_material_facet%3A%22Paper%20and%20Parchment%22</str></lst></lst><lst name="facet_dates"/><lst name="facet_ranges"/></lst>
+</response><params xmlns:h="http://apache.org/cocoon/request/2.0" xmlns:my="http://nowhere"><param xmlns:xs="http://www.w3.org/2001/XMLSchema" name="size">3</param><param name="id">MEDREN_4918422</param><context><param name="solr-url">http://localhost:8082/index/medren/select/</param><param name="collection">medren</param><param name="requested-page">pageturn</param><param name="host">dla.library.upenn.edu</param><param name="request">http://dla.library.upenn.edu/dla/medren/pageturn.xml?id=MEDREN_4918422</param></context></params><collection xmlns:my="http://nowhere" xmlns:dla-caption="http://dla.upennlib/caption"><ref/><name>Penn in Hand: Selected Manuscripts</name><shortname>medren</shortname><record detail="brief" exclude-subfield="6">
+    <include field="100" label="Author" exclude-subfield="6"/>
+    <include field="110" label="Author" exclude-subfield="6"/>
+    <include field="130" label="Title" exclude-subfield="6"/>
+    <include field="245" label="Title" exclude-subfield="6"/>
+    <include field="240" label="Title" exclude-subfield="6"/>
+    <include field="260" label="Origin" exclude-subfield="6"/>
+    <include field="300" label="Physical description" exclude-subfield="6"/>
+	<include field="520" label="Summary" exclude-subfield="6"/>
+	<include field="500" label="Notes" delimiter=" - " exclude-subfield="6"/>    
+	<include field="524" label="Cite as" exclude-subfield="6"/> 
+    <include field="773" label="Contained in" exclude-subfield="6"/>
+    <include field="852" subfield="b,a,j" label="Manuscript location" exclude-subfield="6"/>
+    <include field="880" label="Vernacular script" exclude-subfield="6"/>
+  </record><record detail="detailed" exclude-subfield="6">
+    <include field="100" label="Author" exclude-subfield="6"/>
+    <include field="110" label="Author" exclude-subfield="6"/>
+    <include field="130" label="Title" exclude-subfield="6"/>
+    <include field="245" label="Title" exclude-subfield="6"/>
+    <include field="240" label="Title" exclude-subfield="6"/>
+    <include field="260" label="Origin" exclude-subfield="6"/>
+    <include field="300" label="Physical description" exclude-subfield="6"/>
+    <include field="546" label="Language(s)" exclude-subfield="6"/>
+	<include field="545" label="Biographical / Organizational History" exclude-subfield="6"/>
+    <include field="520" label="Summary" exclude-subfield="6"/>    
+    <include field="505" label="Contents" exclude-subfield="6"/>
+	<include field="561" label="Provenance" exclude-subfield="6"/>
+	<include field="700" label="Related names" exclude-subfield="6"/>
+    <include field="710" label="Related names" exclude-subfield="6"/>
+	<include field="600" label="Subject" exclude-subfield="6"/>
+    <include field="610" label="Subject" delimiter=" - "/>
+    <include field="630" label="Subject" delimiter=" - "/>
+    <include field="650" label="Subject" delimiter=" - "/>
+    <include field="651" label="Subject" delimiter=" - "/>
+    <include field="655" label="Form / Genre" exclude-subfield="2" delimiter=" - "/>
+    <include field="500" label="Notes" exclude-subfield="6"/>
+    <include field="530" label="Other formats" exclude-subfield="6"/>
+    <include field="510" label="Indexed / Referenced in" exclude-subfield="6"/>
+    <include field="581" label="Publications of or about this material" exclude-subfield="6"/> 
+    <include field="246" label="Other Titles" exclude-subfield="6"/>
+    <include field="730" label="Other Titles" exclude-subfield="6"/>
+    <include field="740" label="Other Titles" exclude-subfield="6"/>
+	<include field="524" label="Cite as" exclude-subfield="6"/>    
+    <include field="773" label="Contained in" exclude-subfield="6"/>
+    <include field="852" subfield="b,a,j" label="Manuscript location" exclude-subfield="6"/>
+    <include field="880" label="Vernacular script" exclude-subfield="6"/>
+  </record><view>html</view><view>html</view><rows>25,50,100</rows><fl>*</fl><sort>score desc, date_sort asc</sort><style>rbm</style><advancedsearch.field type="number">century_search</advancedsearch.field><advancedsearch.field>language_search</advancedsearch.field><advancedsearch.field>place_search</advancedsearch.field><advancedsearch.field>subject_search</advancedsearch.field><advancedsearch.field>descriptive_notes_search</advancedsearch.field><advancedsearch.field>author_search</advancedsearch.field><advancedsearch.field display="Other Contributors/Owners">other_contributors_search</advancedsearch.field><advancedsearch.textcount>7</advancedsearch.textcount><advancedsearch.numbercount>1</advancedsearch.numbercount><advancedsearch.texthelp>(For example: <i>france</i> ; <i>german*</i> ; <i>german?</i> ;  <i>france germany italy</i>. 
+    See the <a href="ancillary.html?id=collections/rbm/medren/advancedsearch">Advanced Search Help</a> for more details)</advancedsearch.texthelp><facet>true</facet><facet.mincount>1</facet.mincount><facet.limit>5</facet.limit><facet.field>page_material_facet</facet.field><facet.field>related_names_facet</facet.field><facet.field>author_facet</facet.field><facet.field>geography_facet</facet.field><facet.field>subject_facet</facet.field><facet.field>genre_facet</facet.field><facet.field>date_facet</facet.field><facet.field>century_facet</facet.field><facet.field>language_facet</facet.field><facet.field>notated_facet</facet.field><facet.field>illustrated_facet</facet.field><facet.field>illuminated_facet</facet.field><facet.field>facsimile_facet</facet.field><facet.field>has_999_facet</facet.field><facet.field>collection_facet</facet.field><rss icon="true">
+    <title-field>titledate_field</title-field>
+  </rss><sortoptions>title_sort, author_sort, date_sort, 
+    date_facsimile_added_sort</sortoptions><caption context="title">
+<!--  doesn't give priority to LJS collection
+  	<dla-caption:if not-empty="collection_field">
+  		<div class="fromcollection">
+  			from the 
+  			<html>
+  				<dla-caption:link-external type="field" src="collectionSEARCH_URL_field">
+  					<dla-caption:field type="field"  src="collection_field"/>
+  				</dla-caption:link-external>
+  			</html>
+  		</div>
+  	</dla-caption:if>
+-->
+
+  	<dla-caption:if not-empty="LJScollection_field">
+  		<div class="fromcollection">
+  			<html>
+  				<dla-caption:link-external type="field" src="LJScollectionSEARCH_URL_field">
+  					<dla-caption:field type="field" src="LJScollection_field"/><span class="coll-title">:</span>
+  				</dla-caption:link-external>
+  			</html>
+  		</div>
+  	</dla-caption:if>
+  	<dla-caption:if empty="LJScollection_field">
+  		<div class="fromcollection">
+  			<html>
+  				<dla-caption:link-external type="field" src="collectionSEARCH_URL_field">
+  					<dla-caption:field type="field" src="collection_field"/><span class="coll-title">:</span>
+  				</dla-caption:link-external>
+  			</html>
+  		</div>
+  	</dla-caption:if>
+
+
+
+
+
+    <span class="recordtitlechrome">
+      <dla-caption:field type="field" src="call_number_field"/>
+      <dla-caption:if not-empty="call_number_field"> - </dla-caption:if>
+      <dla-caption:field type="field" src="primary_author_field"/>
+      <dla-caption:if not-empty="primary_author_field"> - </dla-caption:if>
+      <dla-caption:field type="field" src="title_field"/>
+    </span>
+  </caption><caption context="mobile">
+
+			
+			 <div style="font-family: Verdana, arial, sans-serif; font-size:13px; margin-bottom:7px;line-height:130%;">
+				 <div><dla-caption:field type="field" src="call_number_field"/></div>
+				 <div>
+					<dla-caption:link-to-detail>
+						<dla-caption:field type="field" src="title_field"/>
+					 </dla-caption:link-to-detail>
+				 </div>
+				 <div>				 
+					 <dla-caption:if equal="facsimile_field, {Yes}">
+					    <dla-caption:link-to-detail><img src="images/common/ms-icon.jpg" alt="*" style="border: none;"/>Facsimile available</dla-caption:link-to-detail>
+					  </dla-caption:if>
+		            </div>
+				 <div style="margin-bottom: 10px; border-bottom: dotted 1px #999;">
+						<dla-caption:if not-empty="origin_field">
+							 <div><dla-caption:field type="field" src="origin_field"/></div> 
+						</dla-caption:if> 				    
+						<dla-caption:if sort="date_facsimile_added_sort">
+							 <dla-caption:if not-empty="date_facsimile_added_field">
+							    <div class="facadded">Facsimile added: <dla-caption:field type="field" src="date_facsimile_added_field"/></div>	
+							 </dla-caption:if>
+						</dla-caption:if>
+				</div>
+			</div>
+
+	</caption><caption context="results">				
+     <tr class="medrenresultrecord">
+        <td class="oneresult">          	 
+           <div class="callno">
+	     <dla-caption:field type="field" src="call_number_field"/>
+	      <dla-caption:if equal="facsimile_field, {Yes}">
+	         <span class="facavail">       <dla-caption:link-to-detail><img src="images/common/ms-icon.jpg" alt="*"/>Facsimile available</dla-caption:link-to-detail></span>
+	       </dla-caption:if> 
+	   </div>
+			
+	   <dla-caption:if sort="date_facsimile_added_field">
+	      <dla-caption:if not-empty="date_facsimile_added_field">
+	         <div class="facadded">Facsimile added: <dla-caption:field type="field" src="date_facsimile_added_field"/></div>	
+	      </dla-caption:if>
+	   </dla-caption:if>			
+			             
+               
+           <dla-caption:if not-empty="primary_author_field">
+             <div><dla-caption:field type="field" src="primary_author_field"/></div>
+	   </dla-caption:if>                
+	   <div class="medrenresultstitle">
+	      <dla-caption:link-to-detail>
+	      	<dla-caption:field type="field" src="title_field"/>
+	      </dla-caption:link-to-detail>
+	   </div>                                       
+          
+           <dla-caption:if not-empty="origin_field">
+	      <div class="origin"><dla-caption:field type="field" src="origin_field"/></div> 
+	   </dla-caption:if>                       
+        </td>
+        <td class="holdresultsdate">          	
+           <div><dla-caption:if not-empty="probable_date_field"><dla-caption:field type="field" src="probable_date_field"/></dla-caption:if></div>
+        </td>
+     </tr>
+  </caption><caption context="image wall">
+            <div class="thumbonly">
+		  <dla-caption:link-to-detail extra-params-field="page_param">
+                <img>
+                    <dla-caption:attribute name="src">../images/medren/<dla-caption:field type="field" src="id"/>-<dla-caption:field type="field" src="page_param"/>.jpg</dla-caption:attribute>				
+				<dla-caption:attribute name="title">
+					<dla-caption:field type="field" src="title"/>
+				</dla-caption:attribute>
+				<dla-caption:attribute name="alt">
+					<dla-caption:field type="field" src="title"/>
+				</dla-caption:attribute>
+				<dla-caption:attribute name="width">200px</dla-caption:attribute>
+				<dla-caption:attribute name="height">200px</dla-caption:attribute>
+                </img>
+            </dla-caption:link-to-detail>
+		  </div>
+	</caption><stickyfacets>collection_facet</stickyfacets><footeremail>rbml@pobox.upenn.edu</footeremail><footermailto>rbml@pobox.upenn.edu,shawcros@pobox.upenn.edu</footermailto><poweredby>This site has been made possible through a grant from the National
+    Endowment to the Humanities.</poweredby><maxzoomlevels>5</maxzoomlevels><noresultsmessage>
+    <div class="noresults">
+      Sorry, no results matched your search terms.
+    </div>
+  </noresultsmessage><tocEntries>
+  	<entry name="toc" display="Contents"/>
+  	<entry name="ill" display="Illustrations"/>
+  </tocEntries><tabs type="pageturn">
+         <tab name="View Manuscript" target="pageturn"/>
+         <tab name="View Provenance &amp; Subject Details" target="record"/>
+    </tabs><solr-url>http://localhost:8082/index/medren/select/</solr-url><services name="Navigating the Collection" display="block" class="recordDescription">
+    <service name="Collection Home" link="index.html"/>
+    <service name="Search Strategies" link="ancillary.html?id=collections/brinton/searchdla"/>
+    <service type="back-to-results"/>
+    <service name="Advanced Search" link="advancedsearch.html"/>
+    <service name="New: Manuscripts recently digitized" link="search.html?sort=date_facsimile_added_sort%20desc&amp;showall=sort&amp;fq=facsimile_facet%3A%22Yes%22"/>
+  </services><services name="Manuscripts at Penn">
+    <service name="Overview" link="ancillary.html?id=collections/rbm/mss/mss"/>
+    <service name="Schoenberg Database of Manuscripts" link="http://hdl.library.upenn.edu/1017/59753"/>
+    <service name="Manuscripts on Microfilm" link="http://www.library.upenn.edu/collections/microforms/medmss.html "/>
+  </services><services name="Information &amp; Contacts" display="block" class="recordDescription">
+    <service type="mailto" address="shawcros@pobox.upenn.edu" name="Contact Us" body="Question regarding this page: " appendurl="true"/>
+    <service name="Copyright &amp; Permissions" link="ancillary.html?id=collections/brinton/copyright"/>
+  </services><services name="Rare Book &amp; Manuscript Library" link="http://www.library.upenn.edu/rbm/">
+    <service name="Access" link="ancillary.html?id=access/rbm"/>
+    <service name="Hours" link="http://events.library.upenn.edu/cgi-bin/calendar.cgi?library=rbm;size=large"/>
+    <service name="Locate on Campus" link="http://hdl.library.upenn.edu/1017/82076"/>
+    <service name="Services" link="ancillary.html?id=rbm/services"/>
+    <service name="Staff" link="http://dla.library.upenn.edu/dla/staff/search.html?fq=library_facet%3A%22Rare%20Book%20%26%20Manuscript%20Library%22"/>
+    <service name="Visitor Information" link="http://www.library.upenn.edu/access/visitors/visitors.html"/>
+  </services><services name="NEH Grant Information" link="ancillary.html?id=collections/manuscripts/grant"> </services><maps metadataPrefix="marc21">
+    <map to="marc:record">marcrecord</map>
+  </maps><maps metadataPrefix="oai_dc">
+    <map to="title">title_field</map>
+    <map to="contributor">author_field</map>
+    <map to="coverage"/>
+    <map to="creator"/>
+    <map to="date">probable_date_field</map>
+    <map to="description"/>
+    <map to="format"/>
+    <map to="identifier">id</map>
+    <map to="language">language_field</map>
+    <map to="publisher"/>
+    <map to="relation"/>
+    <map to="rights"/>
+    <map to="source"/>
+    <map to="subject">geography_field</map>
+    <map to="subject">subject_field</map>
+    <map to="subject">genre_field</map>
+    <map to="type"/>
+  </maps><maps metadataPrefix="dla">
+    <map to="datestamp">last_update</map>
+  </maps></collection><defaults xmlns:my="http://nowhere" xmlns:h="http://apache.org/cocoon/request/2.0"><param name="start">0</param><param name="rows">25</param><param name="facet.offset">0</param><param name="browse.limit">400</param><param name="browse.sort">false</param><param name="sort">score desc, date_sort asc</param><param name="facet.limit">5</param><param name="facet.mincount">1</param></defaults><recordinfo xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:my="http://nowhere" xmlns:marc="http://www.loc.gov/MARC21/slim" detail="brief"><str name="Author">Regiomontanus, Joannes, 1436-1476.</str><str name="Title">[Calendarium and ephemerides] [manuscript].</str><str name="Origin">[Lambach?, Austria, ca. 1500]</str><str name="Physical description">377 leaves : paper and parchment, col. ill. ; 162 x 120 (123 x 92) mm. bound to 173 x 148 mm.</str><str name="Summary">Manuscript copy of the Calendarium and Ephemerides as published by Regiomontanus in 1474.  The Calendarium, for 1475-1530, gives information on lunar and solar eclipses, the length of days, and the signs of the zodiac and planets.  Also includes a table of time corrections (f. 11v) for cities in reference to a longitude of approximately 10 degrees east (thus making no correction for Braunschweig, Nuremberg, Ulm, or Milan).  The Ephemerides, consisting only of tables updated to begin in 1480 and ending in 1506, provides positions for the sun, moon, and planets for each day of each year.  The beginning of each year is marked with a finding tab of leather or parchment dyed pink.  A liturgical calendar at the beginning of the manuscript (lacking November) includes additions to the printed version which customize the calendar for a Benedictine monastery (Saint Maurus, 15 Jan.; commemoration of Adalbero, 6 Oct.) in southern Germany or Austria (Valentinus, bishop of Passau, 7 Jan.; Rupert, bishop of Salzburg, 27 Mar.; Ulrich of Augsburg, 4 July; Koloman, patron saint of Austria, 13 Oct.), and more specifically the Benedictine abbey in Lambach, Austria (feast and translation of Kilian, patron saint of the abbey, 7 and 14 Jul.).</str><str name="Notes">Ms. codex.</str><str name="Notes">Title supplied by cataloger.</str><str name="Notes">Collation:  Paper and parchment, 377 + v; 1¹⁰ 2¹²⁻¹ 3¹⁴ 4-5¹⁴⁻¹ 6-8¹⁴ 9-11¹⁴⁻¹ 12¹⁶⁻² 13¹⁴ 14-24¹⁴⁻¹ 25¹⁴⁻² 26-29¹⁴⁻¹; 3 parchment bifolia (f. 54-55, 68-69, 240-241); [1-237, 237-376], modern foliation in pencil, upper right recto.</str><str name="Notes">Layout:  Written in 35 lines, in varying numbers of columns; ruled in faint ink, with vertical bounding lines; pricking visible on 3 sides of leaves throughout.</str><str name="Notes">Script:  Written in Gothic script.</str><str name="Notes">Decoration:  Illustrations of eclipses in brown and yellow, 6 per page (f. 12r-16v), and 1 or 2 illustrations of eclipses on the opening page of most years in the Ephemerides, (for example, 37r, 49r, 63r, and 103r); rubrication in red; tables in black and red throughout.</str><str name="Notes">Watermark:  Briquet Balance 2450 and/or Piccard, Group IV (170-206) and Group V (299-300), in use in Austria and southern Germany, 1467-1475.</str><str name="Notes">Binding:  Original leather over wooden boards, blind-stamped with cornerpieces, bosses, and 2 clasps; bound at the Benedictine abbey in Lambach (K. Holter, Die Buchbinderwerksatt des Stiftes Lambach); spine restored.</str><str name="Notes">Origin:  Written in Upper Austria, probably Lambach, ca. 1500.</str><str name="Cite as">LJS 300</str><str name="Manuscript location">Rare Book &amp; Manuscript Library University of Pennsylvania LJS 300</str></recordinfo></page>
